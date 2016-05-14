@@ -1,0 +1,4122 @@
+
+Cluster 0:
+  Average Age: 28.15
+
+  BirthSex Answers:
+    Male: 0.10895
+    Female: 0.02238
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.09402
+    F (cisgender): 0.01940
+    Other: 0.00895
+    M (transgender FtM): 0.00298
+    None: 0.0
+    F (transgender MtF): 0.00447
+    
+  Country Answers:
+    Canada: 0.00597
+    Russia: 0.00746
+    United Kingdom: 0.01343
+    United States: 0.07164
+    France: 0.00298
+    Other: 0.01492
+    None: 0.0
+    Brazil: 0.00149
+    Australia: 0.00149
+    Finland: 0.00149
+    Germany: 0.00447
+    Israel: 0.00149
+    
+  Race Answers:
+    White (non-Hispanic): 0.10298
+    Middle Eastern: 0.00298
+    Asian (East Asian): 0.00298
+    Asian (Indian subcontinent): 0.00149
+    Other: 0.00746
+    None: 0.0
+    Hispanic: 0.00447
+    
+  SexualOrientation Answers:
+    Bisexual: 0.00597
+    Heterosexual: 0.03134
+    None: 0.0
+    
+  Asexuality Answers:
+    N/A: 0.96268
+    No: 0.03432
+    Yes: 0.00298
+    
+  RelationshipStyle Answers:
+    Prefer polyamorous: 0.00298
+    Uncertain/no preference: 0.01194
+    Prefer monogomous: 0.02238
+    None: 0.0
+    
+  NumberPartners Answers:
+    0: 0.02537
+    1: 0.01194
+    Lots and lots: 0.00149
+    None: 0.0
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.00895
+    ...and currently not looking for more relationship partners: 0.01641
+    ...and possibly open to more relationship partners: 0.01194
+    None: 0.0
+    
+  Married Answers:
+    N/A: 0.96417
+    No: 0.03283
+    Yes: 0.00298
+    
+  LivingWith Answers:
+    With roommates: 0.01343
+    Alone: 0.01194
+    With parents and/or guardians: 0.00746
+    With partner and/or children: 0.00447
+    None: 0.0
+    
+  Children Answers:
+    0: 0.03283
+    2: 0.00149
+    1: 0.00298
+    None: 0.0
+    
+  MoreChildren Answers:
+    No: 0.01940
+    Uncertain: 0.00895
+    Yes: 0.00895
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    N/A: 1.0
+    
+  WorkStatus_2 Answers:
+    N/A: 1.0
+    
+  WorkStatus_3 Answers:
+    N/A: 1.0
+    
+  WorkStatus_4 Answers:
+    N/A: 1.0
+    
+  WorkStatus_5 Answers:
+    N/A: 1.0
+    
+  WorkStatus_6 Answers:
+    N/A: 1.0
+    
+  WorkStatus_7 Answers:
+    N/A: 1.0
+    
+  WorkStatus_8 Answers:
+    N/A: 1.0
+    
+  WorkStatus_9 Answers:
+    N/A: 1.0
+    
+  Profession Answers:
+    None: 0.0
+    
+  EducationCredentials Answers:
+    None: 0.0
+    
+  IQ Answers:
+    None: 0.0
+    
+  IQAge Answers:
+    None: 0.0
+    
+  IQType Answers:
+    None: 0.0
+    
+  SAT Answers:
+    None: 0.0
+    
+  SAT2 Answers:
+    None: 0.0
+    
+  ACT Answers:
+    None: 0.0
+    
+  PoliticsShort Answers:
+    None: 0.0
+    
+  ReligiousViews Answers:
+    None: 0.0
+    
+  ReligionType Answers:
+    None: 0.0
+    
+  FamilyReligion Answers:
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    None: 0.0
+    
+  LessWrong Answers:
+    None: 0.0
+    
+  SlateStarCodex Answers:
+    None: 0.0
+    
+  Overcoming Bias Answers:
+    None: 0.0
+    
+  Minding Our Way Answers:
+    None: 0.0
+    
+  Agenty Duck Answers:
+    None: 0.0
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    None: 0.0
+    
+  Luke Muehlhauser Answers:
+    None: 0.0
+    
+  Gwern.net Answers:
+    None: 0.0
+    
+  Siderea Answers:
+    None: 0.0
+    
+  Ribbon Farm Answers:
+    None: 0.0
+    
+  Bayesed And Confused Answers:
+    None: 0.0
+    
+  The Unit Of Caring Answers:
+    None: 0.0
+    
+  Givewell Blog Answers:
+    None: 0.0
+    
+  Thing Of Things Answers:
+    None: 0.0
+    
+  The Last Psychiatrist Answers:
+    None: 0.0
+    
+  Hotel Concierge Answers:
+    None: 0.0
+    
+  The View From Hell Answers:
+    None: 0.0
+    
+  Xenosystems Answers:
+    None: 0.0
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    None: 0.0
+    
+  Significant Digits Answers:
+    None: 0.0
+    
+  Three Worlds Collide Answers:
+    None: 0.0
+    
+  The Fable of the Dragon-Tyrant Answers:
+    None: 0.0
+    
+  The World of Null-A Answers:
+    None: 0.0
+    
+  Synthesis Answers:
+    None: 0.0
+    
+  Worm Answers:
+    None: 0.0
+    
+  Pact Answers:
+    None: 0.0
+    
+  Twig Answers:
+    None: 0.0
+    
+  Ra Answers:
+    None: 0.0
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    None: 0.0
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    None: 0.0
+    
+  Ender's Game Answers:
+    None: 0.0
+    
+  The Diamond Age Answers:
+    None: 0.0
+    
+  Consider Phlebas Answers:
+    None: 0.0
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    None: 0.0
+    
+  Accelerando Answers:
+    None: 0.0
+    
+  StoriesRead2_9 Answers:
+    None: 0.0
+    
+  
+Cluster 1:
+  Average Age: 31.625
+
+  BirthSex Answers:
+    Male: 0.93975
+    Female: 0.05220
+    Other: 0.00401
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.86345
+    F (transgender MtF): 0.03614
+    Other: 0.05622
+    F (cisgender): 0.03614
+    None: 0.0
+    
+  Country Answers:
+    Canada: 0.05220
+    Russia: 0.01204
+    India: 0.00803
+    New Zealand: 0.01204
+    United Kingdom: 0.13253
+    United States: 0.56626
+    France: 0.01204
+    Other: 0.09638
+    None: 0.0
+    Australia: 0.04819
+    Germany: 0.03212
+    Finland: 0.00803
+    Israel: 0.01204
+    
+  Race Answers:
+    White (non-Hispanic): 0.89156
+    Middle Eastern: 0.00803
+    Asian (East Asian): 0.00803
+    Asian (Indian subcontinent): 0.02008
+    Other: 0.04417
+    None: 0.0
+    Hispanic: 0.02008
+    
+  SexualOrientation Answers:
+    Bisexual: 0.18072
+    Other: 0.03614
+    Heterosexual: 0.73092
+    Homosexual: 0.03614
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.93975
+    N/A: 0.02008
+    Yes: 0.04016
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.31325
+    None: 0.0
+    Other: 0.00803
+    Prefer monogomous: 0.46586
+    Prefer polyamorous: 0.20080
+    
+  NumberPartners Answers:
+    3: 0.02409
+    0: 0.42168
+    4: 0.00803
+    1: 0.45783
+    None: 0.0
+    2: 0.07228
+    5: 0.00803
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.24096
+    ...and possibly open to more relationship partners: 0.29718
+    ...and currently not looking for more relationship partners: 0.44578
+    None: 0.0
+    
+  Married Answers:
+    No: 0.73092
+    N/A: 0.00401
+    Yes: 0.26506
+    
+  LivingWith Answers:
+    With roommates: 0.20883
+    With partner and/or children: 0.38554
+    Other: 0.01606
+    None: 0.0
+    Alone: 0.24899
+    With parents and/or guardians: 0.13253
+    
+  Children Answers:
+    0: 0.84337
+    1: 0.04819
+    2: 0.08032
+    3: 0.02409
+    None: 0.0
+    
+  MoreChildren Answers:
+    No: 0.40963
+    Uncertain: 0.29718
+    Yes: 0.28915
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.83132
+    Yes: 0.16867
+    
+  WorkStatus_2 Answers:
+    No: 0.89959
+    Yes: 0.10040
+    
+  WorkStatus_3 Answers:
+    No: 0.89156
+    Yes: 0.10843
+    
+  WorkStatus_4 Answers:
+    No: 0.98393
+    Yes: 0.01606
+    
+  WorkStatus_5 Answers:
+    No: 0.92369
+    Yes: 0.07630
+    
+  WorkStatus_6 Answers:
+    No: 0.40963
+    Yes: 0.59036
+    
+  WorkStatus_7 Answers:
+    No: 0.92369
+    Yes: 0.07630
+    
+  WorkStatus_8 Answers:
+    No: 0.99598
+    Yes: 0.00401
+    
+  WorkStatus_9 Answers:
+    No: 0.90763
+    Yes: 0.09236
+    
+  Profession Answers:
+    Philosophy: 0.01204
+    Medicine: 0.01204
+    Computers (AI): 0.02811
+    Other "hard science": 0.01204
+    Computers (practical_ IT, programming, etc.): 0.50200
+    Neuroscience: 0.00803
+    Law: 0.00803
+    Art: 0.01606
+    Other: 0.11646
+    Physics: 0.02409
+    Engineering: 0.05622
+    None: 0.0
+    Mathematics: 0.02409
+    Other "social science": 0.01204
+    Business: 0.02409
+    Statistics: 0.01606
+    Psychology: 0.00803
+    Finance / Economics: 0.03614
+    Computers (other academic, computer science): 0.03614
+    Biology: 0.01204
+    
+  EducationCredentials Answers:
+    Master's: 0.22891
+    Bachelor's: 0.38955
+    JD/MD/other professional degree: 0.03614
+    2 year degree: 0.03212
+    Other: 0.01606
+    None: 0.01606
+    Bachelors: 0.00401
+    None: 0.01606
+    PhD: 0.11244
+    High School: 0.15261
+    
+  Average IQ: 148.13253
+
+  Average IQAge: 17.18518
+
+  IQType Answers:
+    Stanford-Binet: 0.00401
+    Wechsler Adult Intelligence Scale-IV: 0.00401
+    Armed Forces standard test, not sure what that is: 0.00401
+    Wasn't sure until I read the Wikipedia article, but it was definitely the Wechsler Adult Intelligence Scale test. It was administered by a learning specialist through my therapist's office - I was taking it among other tests to see if I had a learning disability. I remember being given a report with 4 scores on it, Visual, Verbal, and two others that I don't remember.: 0.00401
+    GMAT (I extrapolate to 150s IQ). Sorry, no better test!: 0.00401
+    mensa admission test: 0.00401
+    Stanford-Binet Intelligence Scales fifth edition administered at university counseling services.: 0.00401
+    Ravens matricies: 0.00401
+    Mensa Admissions Test: 0.00401
+    None: 0.0
+    It was from a book called "test your own IQ" or something similar: 0.00401
+    IQ test administered at/by my high school, don't remember which one: 0.00401
+    Wechsler for Children: 0.00401
+    Mensa Austria IQ test: 0.00401
+    Wechsler Adult  Intelligence Scale: 0.00401
+    Mensa: 0.00401
+    WAIS by a psych evaluator: 0.00401
+    I have never taken an adult IQ test.: 0.00401
+    Raven's Advanced Progressive Matrices II, administered by the Royal Danish Naval Academy.: 0.00401
+    Mensa Exam : 0.00401
+    WAIS by psychologist during psych-related research study I participated in: 0.00401
+    Part of a series of tests I took due to problems at school; resulted in a diagnosis of Asperger's Syndrome.: 0.00401
+    I took a Wechsler Adult Intelligence Scale administered by a psychologist: 0.00401
+    Weschler Adult Intelligence Scale, administered by a professional neuropsychologist at neurology department at hospital: 0.00401
+    The only serious IQ test I've taken was the gifted program streaming test they gave me in elementary school. Apparently I was "gifted". That's all I know about the results.: 0.00401
+    MENSA home test: 0.00401
+    Profesionally administered as part of a test for dyslexia: 0.00401
+    It was part of an autism assessment but I don't know the name. : 0.00401
+    Wechsler Adult Intelligence Scale IV: 0.00401
+    WISC by a psychologist: 0.00401
+    Mensa admission test, proctored by my school.: 0.00401
+    Raven RAPM, as used by Mensa CR (looking at the result sheet, there also conversion_ Cattell =177, Stf-Bnt=151): 0.00401
+    Stanford-Binet test, administered by a third-party testing group in Denver.: 0.00401
+    
+  Average SAT: 1496.90322
+
+  Average SAT2: 2253.68421
+
+  Average ACT: 32.6875
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.01606
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.40160
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.04819
+    None: 0.0
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.27309
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.22489
+    
+  ReligiousViews Answers:
+    Agnostic: 0.08433
+    Lukewarm theist: 0.04016
+    Atheist and not spiritual: 0.74698
+    Committed theist: 0.02008
+    Atheist but spiritual: 0.06425
+    None: 0.0
+    Deist/Pantheist/etc.: 0.03614
+    
+  ReligionType Answers:
+    Unitarian Universalism or similar: 0.00803
+    Christian (Catholic): 0.02409
+    Mixed/Other: 0.01606
+    Other: 0.05622
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.00803
+    Jewish: 0.02008
+    None: 0.0
+    Buddhist: 0.01204
+    Christian (Protestant): 0.02811
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.06425
+    Agnostic: 0.09638
+    Lukewarm theist: 0.32530
+    Atheist and not spiritual: 0.17670
+    Committed theist: 0.28112
+    Deist/Pantheist/etc: 0.01606
+    Other: 0.00803
+    Atheist but spiritual: 0.02811
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.03212
+    Christian (Mormon): 0.01204
+    Hindu: 0.02008
+    Christian (Catholic): 0.27710
+    Mixed/Other: 0.04819
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.03614
+    Other: 0.04417
+    None: 0.0
+    Jewish: 0.09638
+    Christian (Protestant): 0.39357
+    
+  LessWrong Answers:
+    Sometimes: 0.32128
+    Rarely: 0.30522
+    Never Heard Of It: 0.00401
+    None: 0.0
+    Never: 0.02409
+    Almost Never: 0.15261
+    Regular Reader: 0.16867
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.13253
+    Never Heard Of It: 0.03212
+    Rarely: 0.05622
+    Never: 0.01606
+    Almost Never: 0.01606
+    Regular Reader: 0.74698
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.24096
+    Never Heard Of It: 0.03212
+    Rarely: 0.19678
+    Never: 0.10843
+    None: 0.0
+    Almost Never: 0.19678
+    Regular Reader: 0.22088
+    
+  Minding Our Way Answers:
+    Sometimes: 0.07228
+    Never Heard Of It: 0.53012
+    Rarely: 0.08835
+    Never: 0.12851
+    Almost Never: 0.11244
+    Regular Reader: 0.06827
+    
+  Agenty Duck Answers:
+    Sometimes: 0.10441
+    Never Heard Of It: 0.50200
+    Rarely: 0.09638
+    Never: 0.14056
+    None: 0.0
+    Almost Never: 0.12048
+    Regular Reader: 0.02811
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.20481
+    Never Heard Of It: 0.05220
+    Rarely: 0.17670
+    Never: 0.23293
+    Almost Never: 0.16064
+    Regular Reader: 0.17269
+    
+  Luke Muehlhauser Answers:
+    Sometimes: 0.06827
+    Rarely: 0.10040
+    Never Heard Of It: 0.44578
+    Never: 0.16465
+    None: 0.0
+    Almost Never: 0.17670
+    Regular Reader: 0.04016
+    
+  Gwern.net Answers:
+    Sometimes: 0.23293
+    Never Heard Of It: 0.19277
+    Rarely: 0.16465
+    Never: 0.12449
+    None: 0.0
+    Almost Never: 0.17670
+    Regular Reader: 0.10441
+    
+  Siderea Answers:
+    Sometimes: 0.02409
+    Rarely: 0.04417
+    Never Heard Of It: 0.70281
+    Never: 0.12048
+    None: 0.0
+    Almost Never: 0.06827
+    Regular Reader: 0.02409
+    
+  Ribbon Farm Answers:
+    Sometimes: 0.05622
+    Rarely: 0.10441
+    Never Heard Of It: 0.55020
+    Never: 0.09236
+    None: 0.0
+    Almost Never: 0.13253
+    Regular Reader: 0.05622
+    
+  Bayesed And Confused Answers:
+    Sometimes: 0.01204
+    Rarely: 0.01204
+    Never Heard Of It: 0.82329
+    None: 0.0
+    Never: 0.08835
+    Almost Never: 0.05622
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.07228
+    Rarely: 0.08032
+    Never Heard Of It: 0.39759
+    Never: 0.14859
+    None: 0.0
+    Almost Never: 0.16867
+    Regular Reader: 0.11646
+    
+  Givewell Blog Answers:
+    Sometimes: 0.09236
+    Never Heard Of It: 0.19277
+    Rarely: 0.15662
+    Never: 0.30120
+    None: 0.0
+    Almost Never: 0.19678
+    Regular Reader: 0.04016
+    
+  Thing Of Things Answers:
+    Sometimes: 0.13654
+    Rarely: 0.10040
+    Never Heard Of It: 0.30923
+    Never: 0.12048
+    None: 0.0
+    Almost Never: 0.15261
+    Regular Reader: 0.17670
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.06024
+    Rarely: 0.11646
+    Never Heard Of It: 0.42971
+    Never: 0.18473
+    None: 0.0
+    Almost Never: 0.14859
+    Regular Reader: 0.05220
+    
+  Hotel Concierge Answers:
+    Sometimes: 0.01204
+    Rarely: 0.02811
+    Never Heard Of It: 0.77108
+    Never: 0.12851
+    None: 0.0
+    Almost Never: 0.03614
+    Regular Reader: 0.01606
+    
+  The View From Hell Answers:
+    Sometimes: 0.02409
+    Rarely: 0.04417
+    Never Heard Of It: 0.60240
+    Never: 0.18875
+    None: 0.0
+    Almost Never: 0.10843
+    Regular Reader: 0.02409
+    
+  Xenosystems Answers:
+    Sometimes: 0.01606
+    Rarely: 0.03212
+    Never Heard Of It: 0.53012
+    Never: 0.23694
+    None: 0.0
+    Almost Never: 0.12048
+    Regular Reader: 0.04819
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Partially And Intend To Finish: 0.05220
+    Partially And Abandoned: 0.06425
+    Whole Thing: 0.83935
+    Never: 0.04417
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.47389
+    Partially And Abandoned: 0.07228
+    Whole Thing: 0.16064
+    None: 0.0
+    Never: 0.19678
+    Partially And Intend To Finish: 0.08835
+    
+  Three Worlds Collide Answers:
+    Partially And Intend To Finish: 0.01606
+    Partially And Abandoned: 0.01204
+    Whole Thing: 0.81124
+    Never Heard Of It: 0.06425
+    Never: 0.09638
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 0.18473
+    Partially And Abandoned: 0.01204
+    Whole Thing: 0.67469
+    None: 0.0
+    Never: 0.09236
+    Partially And Intend To Finish: 0.02409
+    
+  The World of Null-A Answers:
+    Never Heard Of It: 0.39759
+    Partially And Abandoned: 0.02811
+    Whole Thing: 0.16867
+    None: 0.0
+    Never: 0.36546
+    Partially And Intend To Finish: 0.02409
+    
+  Synthesis Answers:
+    Never: 0.15662
+    Partially And Abandoned: 0.00803
+    Whole Thing: 0.00803
+    Never Heard Of It: 0.78313
+    None: 0.0
+    
+  Worm Answers:
+    Partially And Intend To Finish: 0.10040
+    Partially And Abandoned: 0.15662
+    Whole Thing: 0.49799
+    Never Heard Of It: 0.07630
+    Never: 0.16867
+    
+  Pact Answers:
+    Never Heard Of It: 0.27309
+    Partially And Abandoned: 0.15261
+    Whole Thing: 0.11646
+    None: 0.0
+    Never: 0.39759
+    Partially And Intend To Finish: 0.05622
+    
+  Twig Answers:
+    Never Heard Of It: 0.32530
+    Partially And Abandoned: 0.04417
+    Whole Thing: 0.04819
+    None: 0.0
+    Never: 0.44176
+    Partially And Intend To Finish: 0.13253
+    
+  Ra Answers:
+    Partially And Intend To Finish: 0.04819
+    Partially And Abandoned: 0.08433
+    Whole Thing: 0.37751
+    Never Heard Of It: 0.32128
+    Never: 0.16867
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Never Heard Of It: 0.14859
+    Partially And Abandoned: 0.05622
+    Whole Thing: 0.45783
+    None: 0.0
+    Never: 0.32931
+    Partially And Intend To Finish: 0.00401
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Never Heard Of It: 0.38152
+    Partially And Abandoned: 0.02008
+    Whole Thing: 0.25702
+    None: 0.0
+    Never: 0.31325
+    Partially And Intend To Finish: 0.02008
+    
+  Ender's Game Answers:
+    Partially And Intend To Finish: 0.00803
+    Partially And Abandoned: 0.01606
+    Whole Thing: 0.89156
+    Never: 0.08433
+    
+  The Diamond Age Answers:
+    Partially And Intend To Finish: 0.02409
+    Partially And Abandoned: 0.03212
+    Whole Thing: 0.75903
+    Never Heard Of It: 0.01606
+    Never: 0.16867
+    
+  Consider Phlebas Answers:
+    Never Heard Of It: 0.07228
+    Partially And Abandoned: 0.05622
+    Whole Thing: 0.64257
+    None: 0.0
+    Never: 0.16465
+    Partially And Intend To Finish: 0.06024
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.30120
+    Partially And Abandoned: 0.03614
+    Whole Thing: 0.42168
+    None: 0.0
+    Never: 0.22088
+    Partially And Intend To Finish: 0.01204
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.04819
+    Partially And Abandoned: 0.06827
+    Whole Thing: 0.69076
+    None: 0.0
+    Never: 0.11646
+    Partially And Intend To Finish: 0.07228
+    
+  StoriesRead2_9 Answers:
+    Partially And Intend To Finish: 0.03614
+    Partially And Abandoned: 0.02811
+    Whole Thing: 0.61044
+    Never Heard Of It: 0.06827
+    Never: 0.25702
+    
+  
+Cluster 2:
+  Average Age: 24.24836
+
+  BirthSex Answers:
+    Male: 0.82580
+    Female: 0.16774
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.64838
+    F (cisgender): 0.13548
+    Other: 0.11935
+    M (transgender FtM): 0.01290
+    None: 0.0
+    F (transgender MtF): 0.07419
+    
+  Country Answers:
+    Canada: 0.04838
+    Russia: 0.01290
+    India: 0.00967
+    New Zealand: 0.00967
+    United Kingdom: 0.04516
+    United States: 0.69032
+    France: 0.00967
+    Other: 0.09032
+    Brazil: 0.00322
+    Australia: 0.02903
+    Finland: 0.00967
+    Germany: 0.02580
+    Israel: 0.01612
+    
+  Race Answers:
+    White (non-Hispanic): 0.86451
+    Middle Eastern: 0.00645
+    Asian (East Asian): 0.04193
+    Asian (Indian subcontinent): 0.02580
+    Other: 0.02903
+    None: 0.0
+    Hispanic: 0.02258
+    Black: 0.00322
+    
+  SexualOrientation Answers:
+    Bisexual: 0.31612
+    Other: 0.08709
+    Heterosexual: 0.53548
+    Homosexual: 0.04516
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.84193
+    N/A: 0.04193
+    Yes: 0.11612
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.35806
+    None: 0.0
+    Other: 0.01612
+    Prefer monogomous: 0.27741
+    Prefer polyamorous: 0.34193
+    
+  NumberPartners Answers:
+    Lots and lots: 0.00645
+    3: 0.02903
+    0: 0.50322
+    4: 0.01612
+    1: 0.33870
+    None: 0.0
+    2: 0.09032
+    5: 0.00967
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.32903
+    ...and currently not looking for more relationship partners: 0.26451
+    ...and possibly open to more relationship partners: 0.40322
+    None: 0.0
+    
+  Married Answers:
+    No: 0.91290
+    N/A: 0.01612
+    Yes: 0.07096
+    
+  LivingWith Answers:
+    With roommates: 0.41612
+    With partner and/or children: 0.14838
+    Other: 0.03225
+    None: 0.0
+    Alone: 0.2
+    With parents and/or guardians: 0.19677
+    
+  Children Answers:
+    0: 0.95806
+    1: 0.02580
+    2: 0.00967
+    5: 0.00645
+    
+  MoreChildren Answers:
+    No: 0.3
+    Uncertain: 0.40645
+    Yes: 0.29354
+    
+  WorkStatus_1 Answers:
+    No: 0.48064
+    Yes: 0.51935
+    
+  WorkStatus_2 Answers:
+    No: 0.93548
+    Yes: 0.06451
+    
+  WorkStatus_3 Answers:
+    No: 0.9
+    Yes: 0.1
+    
+  WorkStatus_4 Answers:
+    No: 0.99032
+    Yes: 0.00967
+    
+  WorkStatus_5 Answers:
+    No: 0.92258
+    Yes: 0.07741
+    
+  WorkStatus_6 Answers:
+    No: 0.64193
+    Yes: 0.35806
+    
+  WorkStatus_7 Answers:
+    No: 0.97419
+    Yes: 0.02580
+    
+  WorkStatus_8 Answers:
+    No: 0.97096
+    Yes: 0.02903
+    
+  WorkStatus_9 Answers:
+    No: 0.90322
+    Yes: 0.09677
+    
+  Profession Answers:
+    Business: 0.01935
+    Medicine: 0.00967
+    Computers (AI): 0.07419
+    Psychology: 0.01612
+    Computers (practical_ IT, programming, etc.): 0.3
+    Neuroscience: 0.00967
+    Law: 0.00967
+    Art: 0.00645
+    Other: 0.1
+    Physics: 0.04516
+    Engineering: 0.04838
+    None: 0.0
+    Mathematics: 0.09677
+    Computers (other academic, computer science): 0.09032
+    Philosophy: 0.02580
+    Other "social science": 0.02258
+    Statistics: 0.02258
+    Other "hard science": 0.01290
+    Finance / Economics: 0.02903
+    Biology: 0.02258
+    
+  EducationCredentials Answers:
+    Master's: 0.14838
+    Bachelor's: 0.36129
+    JD/MD/other professional degree: 0.00645
+    2 year degree: 0.04193
+    Other: 0.00322
+    None: 0.02903
+    Bachelors: 0.00322
+    None: 0.02903
+    PhD: 0.01612
+    High School: 0.38387
+    
+  Average IQ: 138.60526
+
+  Average IQAge: 15.52631
+
+  IQType Answers:
+    Raven's Progressive Matrices (I got 99.9th percentile and placed into the "GATE Seminar" program, which is the only reason I know): 0.00322
+    Woodcock Johnson for autism diagnosis after dsm 5: 0.00322
+    Mensa Test: 0.00322
+    Mensa Entrance test: 0.00322
+    The number above are guesses – I don't remember. Also, it's inaccurate, as I have ADHD and got a very low score on one section and I got every question on the test right in another, meaning it's sorta useless. Also, I was super young: 0.00322
+    WAIS-IV-GAI (U.S. Norms): 0.00322
+    Wechsler Adult  Intelligence Scale, fouth edition, administered as part of an ADHD diagnosis: 0.00322
+    NCAT, I think?: 0.00322
+    Stanford-Binet LM: 0.00322
+    WAIS administered as part of psych eval: 0.00322
+    Stanford Binet Intelligence Scale IV given by psychologist: 0.00322
+    Weschler Intelligence Scale for Children-III (WISC-III) at court mandated psychological evaluator (because of parents' divorce): 0.00322
+    WISC-III: 0.00645
+    Never took IQ test, 2080/2400 SAT at age 12 (not putting it in the sat blank because I haven't taken it at the normal age).: 0.00322
+    LSAT: 0.00322
+    None: 0.0
+    Raven's matrices at psychiatric hospital: 0.00322
+    WAIS-IV at a neurospych evaluation: 0.00322
+    WISC administered as part of a psych evaluation: 0.00322
+    Wechsler Adult  Intelligence Scale: 0.00322
+    Raven's Progressive Matrices: 0.00967
+    WAIS-III administered in school.: 0.00322
+    Mensa: 0.00322
+    It was an admissions exam given for my admission into a gifted program for a Delaware public school.: 0.00322
+    It was Wechsler Adult  Intelligence Scale administered by a neuropsychologist.: 0.00322
+    MENSA admision test: 0.00322
+    Stanford-Binet, administered by my elementary school.: 0.00322
+    ravens progressive matrices: 0.00322
+    It was in kindergarten: 0.00322
+    Mensa test. Progressive matrixes.: 0.00322
+    Wechsler Adult Intelligence Scale given as part of an ADHD (which concluded that I did not have ADHD): 0.00322
+    Wechsler Intelligence Scale for Children 3: 0.00322
+    WAIS - IV administered by a psychologist: 0.00322
+    I don't know, but it was taken at the danish army: 0.00322
+    WAIS-IV during a neuropsych iatric evaluation: 0.00322
+    I've never taken one: 0.00322
+    Ravens: 0.00322
+    
+  Average SAT: 1522.43243
+
+  Average SAT2: 2235.51298
+
+  Average ACT: 33.05479
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.00967
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.32580
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.02258
+    None: 0.0
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.29354
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.28387
+    
+  ReligiousViews Answers:
+    Agnostic: 0.04516
+    Lukewarm theist: 0.01612
+    Atheist and not spiritual: 0.77096
+    Committed theist: 0.04193
+    Atheist but spiritual: 0.09354
+    None: 0.0
+    Deist/Pantheist/etc.: 0.01935
+    
+  ReligionType Answers:
+    Unitarian Universalism or similar: 0.00967
+    Christian (Catholic): 0.02903
+    Mixed/Other: 0.00967
+    Other: 0.02903
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.00322
+    Jewish: 0.03548
+    Buddhist: 0.00645
+    None: 0.0
+    Christian (Protestant): 0.03225
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.03225
+    Lukewarm theist: 0.37741
+    Agnostic: 0.10645
+    Atheist and not spiritual: 0.13225
+    Committed theist: 0.23225
+    Deist/Pantheist/etc: 0.01612
+    Other: 0.02258
+    Atheist but spiritual: 0.06774
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.02903
+    Christian (Mormon): 0.01935
+    Hindu: 0.01935
+    Christian (Catholic): 0.23870
+    Mixed/Other: 0.05806
+    Other: 0.04516
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.04838
+    Jewish: 0.16451
+    None: 0.0
+    Christian (Protestant): 0.33548
+    Traditional Chinese: 0.00645
+    
+  LessWrong Answers:
+    Sometimes: 0.32258
+    Rarely: 0.36129
+    Never: 0.02258
+    None: 0.0
+    Almost Never: 0.15483
+    Regular Reader: 0.12903
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.07096
+    Almost Never: 0.00645
+    Regular Reader: 0.91612
+    Rarely: 0.00645
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.25483
+    Rarely: 0.25483
+    Never: 0.05483
+    None: 0.0
+    Almost Never: 0.20967
+    Regular Reader: 0.21935
+    
+  Minding Our Way Answers:
+    Sometimes: 0.19677
+    Never Heard Of It: 0.10322
+    Rarely: 0.16774
+    Never: 0.10645
+    None: 0.0
+    Almost Never: 0.15483
+    Regular Reader: 0.26774
+    
+  Agenty Duck Answers:
+    Sometimes: 0.19354
+    Rarely: 0.21935
+    Never Heard Of It: 0.13870
+    None: 0.0
+    Never: 0.12258
+    Almost Never: 0.20645
+    Regular Reader: 0.11290
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.25161
+    Rarely: 0.13225
+    Never Heard Of It: 0.00645
+    None: 0.0
+    Never: 0.1
+    Almost Never: 0.13548
+    Regular Reader: 0.36774
+    
+  Luke Muehlhauser Answers:
+    Sometimes: 0.13548
+    Never Heard Of It: 0.15161
+    Rarely: 0.22258
+    Never: 0.17741
+    None: 0.0
+    Almost Never: 0.18709
+    Regular Reader: 0.11612
+    
+  Gwern.net Answers:
+    Sometimes: 0.26129
+    Never Heard Of It: 0.03870
+    Rarely: 0.30322
+    Never: 0.1
+    None: 0.0
+    Almost Never: 0.15483
+    Regular Reader: 0.13548
+    
+  Siderea Answers:
+    Sometimes: 0.06451
+    Never Heard Of It: 0.59677
+    Rarely: 0.08387
+    None: 0.0
+    Never: 0.10967
+    Almost Never: 0.10967
+    Regular Reader: 0.02903
+    
+  Ribbon Farm Answers:
+    Sometimes: 0.13870
+    Rarely: 0.16129
+    Never Heard Of It: 0.35806
+    Never: 0.10967
+    None: 0.0
+    Almost Never: 0.15806
+    Regular Reader: 0.06774
+    
+  Bayesed And Confused Answers:
+    Sometimes: 0.00645
+    Rarely: 0.01290
+    Never Heard Of It: 0.77419
+    None: 0.0
+    Never: 0.11935
+    Almost Never: 0.07419
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.17419
+    Rarely: 0.15161
+    Never Heard Of It: 0.03548
+    Never: 0.08709
+    None: 0.0
+    Almost Never: 0.11935
+    Regular Reader: 0.42903
+    
+  Givewell Blog Answers:
+    http_//kajsotala.fi/: 0.00322
+    Sometimes: 0.21935
+    Rarely: 0.24838
+    Never Heard Of It: 0.01290
+    None: 0.0
+    Never: 0.18709
+    Almost Never: 0.19677
+    Regular Reader: 0.11290
+    
+  Thing Of Things Answers:
+    Sometimes: 0.25483
+    Never Heard Of It: 0.01935
+    Rarely: 0.12903
+    Never: 0.05161
+    Almost Never: 0.06774
+    Regular Reader: 0.47741
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.07419
+    Rarely: 0.18709
+    Never Heard Of It: 0.10967
+    Never: 0.27419
+    None: 0.0
+    Almost Never: 0.22258
+    Regular Reader: 0.12903
+    
+  Hotel Concierge Answers:
+    Sometimes: 0.05483
+    Rarely: 0.06129
+    Never Heard Of It: 0.54516
+    Never: 0.15806
+    None: 0.0
+    Almost Never: 0.13225
+    Regular Reader: 0.03548
+    
+  The View From Hell Answers:
+    Sometimes: 0.04193
+    Never Heard Of It: 0.37741
+    Rarely: 0.10322
+    None: 0.0
+    Never: 0.23548
+    Almost Never: 0.18387
+    Regular Reader: 0.05161
+    
+  Xenosystems Answers:
+    Sometimes: 0.01935
+    Rarely: 0.08387
+    Never Heard Of It: 0.21935
+    Never: 0.39032
+    None: 0.0
+    Almost Never: 0.22903
+    Regular Reader: 0.04516
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Partially And Intend To Finish: 0.04516
+    Partially And Abandoned: 0.07741
+    Whole Thing: 0.86129
+    Never Heard Of It: 0.00322
+    Never: 0.01290
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.45806
+    Partially And Abandoned: 0.06774
+    Whole Thing: 0.10967
+    None: 0.0
+    Never: 0.25483
+    Partially And Intend To Finish: 0.09354
+    
+  Three Worlds Collide Answers:
+    Never Heard Of It: 0.02903
+    Partially And Abandoned: 0.03225
+    Whole Thing: 0.85483
+    None: 0.0
+    Never: 0.06451
+    Partially And Intend To Finish: 0.01612
+    
+  The Fable of the Dragon-Tyrant Answers:
+    None: 0.0
+    Partially And Intend To Finish: 0.03225
+    Whole Thing: 0.78387
+    Never Heard Of It: 0.08709
+    Never: 0.09354
+    
+  The World of Null-A Answers:
+    Never Heard Of It: 0.52903
+    Partially And Abandoned: 0.01935
+    Whole Thing: 0.04838
+    None: 0.0
+    Never: 0.36451
+    Partially And Intend To Finish: 0.02258
+    
+  Synthesis Answers:
+    None: 0.0
+    Whole Thing: 0.00645
+    Never Heard Of It: 0.79354
+    Never: 0.17096
+    
+  Worm Answers:
+    Never Heard Of It: 0.02258
+    Partially And Abandoned: 0.15806
+    Whole Thing: 0.47741
+    None: 0.0
+    Never: 0.22258
+    Partially And Intend To Finish: 0.11612
+    
+  Pact Answers:
+    Partially And Intend To Finish: 0.05483
+    Partially And Abandoned: 0.12580
+    Whole Thing: 0.16129
+    Never Heard Of It: 0.21290
+    Never: 0.44516
+    
+  Twig Answers:
+    Partially And Intend To Finish: 0.12580
+    Partially And Abandoned: 0.07096
+    Whole Thing: 0.05483
+    Never Heard Of It: 0.24838
+    Never: 0.5
+    
+  Ra Answers:
+    Never Heard Of It: 0.28387
+    Partially And Abandoned: 0.08387
+    Whole Thing: 0.23225
+    None: 0.0
+    Never: 0.30322
+    Partially And Intend To Finish: 0.09032
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Partially And Intend To Finish: 0.01290
+    Partially And Abandoned: 0.05806
+    Whole Thing: 0.44193
+    Never Heard Of It: 0.09354
+    Never: 0.39354
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Never Heard Of It: 0.34516
+    Partially And Abandoned: 0.02903
+    Whole Thing: 0.23548
+    None: 0.0
+    Never: 0.37419
+    Partially And Intend To Finish: 0.01290
+    
+  Ender's Game Answers:
+    None: 0.0
+    Partially And Intend To Finish: 0.00322
+    Partially And Abandoned: 0.00322
+    Whole Thing: 0.79032
+    Never: 0.19677
+    
+  The Diamond Age Answers:
+    Never Heard Of It: 0.16451
+    Partially And Abandoned: 0.04838
+    Whole Thing: 0.27096
+    None: 0.0
+    Never: 0.48064
+    Partially And Intend To Finish: 0.03225
+    
+  Consider Phlebas Answers:
+    Never Heard Of It: 0.37096
+    Partially And Abandoned: 0.03225
+    Whole Thing: 0.13870
+    None: 0.0
+    Never: 0.41290
+    Partially And Intend To Finish: 0.03548
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.44838
+    Partially And Abandoned: 0.01290
+    Whole Thing: 0.19677
+    None: 0.0
+    Never: 0.32258
+    Partially And Intend To Finish: 0.00645
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.31935
+    Partially And Abandoned: 0.06774
+    Whole Thing: 0.16451
+    None: 0.0
+    Never: 0.40645
+    Partially And Intend To Finish: 0.03225
+    
+  StoriesRead2_9 Answers:
+    Partially And Intend To Finish: 0.03225
+    Partially And Abandoned: 0.03225
+    Whole Thing: 0.25483
+    Never Heard Of It: 0.22903
+    Never: 0.45161
+    
+  
+Cluster 3:
+  Average Age: 2.08463e+16
+
+  BirthSex Answers:
+    Male: 0.81125
+    Female: 0.17604
+    Other: 0.00725
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.76769
+    F (cisgender): 0.15426
+    Other: 0.05263
+    M (transgender FtM): 0.00362
+    None: 0.0
+    F (transgender MtF): 0.00725
+    
+  Country Answers:
+    Canada: 0.06715
+    Russia: 0.01996
+    India: 0.01270
+    New Zealand: 0.00725
+    United States: 0.50453
+    United Kingdom: 0.08892
+    France: 0.01270
+    Other: 0.15789
+    None: 0.0
+    Brazil: 0.00725
+    Australia: 0.07803
+    Germany: 0.02177
+    Finland: 0.00362
+    Israel: 0.01451
+    
+  Race Answers:
+    White (non-Hispanic): 0.83666
+    Middle Eastern: 0.00725
+    Asian (East Asian): 0.03992
+    Asian (Indian subcontinent): 0.02722
+    Other: 0.04537
+    None: 0.0
+    Hispanic: 0.03266
+    Black: 0.00362
+    
+  SexualOrientation Answers:
+    Bisexual: 0.12522
+    Other: 0.05626
+    Heterosexual: 0.76588
+    Homosexual: 0.03992
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.91470
+    N/A: 0.02903
+    Yes: 0.05626
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.23593
+    None: 0.0
+    Other: 0.01633
+    Prefer monogomous: 0.61161
+    Prefer polyamorous: 0.11978
+    
+  NumberPartners Answers:
+    Lots and lots: 0.02540
+    3: 0.00907
+    0: 0.43194
+    4: 0.00725
+    1: 0.48094
+    None: 0.0
+    2: 0.03266
+    5: 0.00181
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.20871
+    ...and currently not looking for more relationship partners: 0.52994
+    ...and possibly open to more relationship partners: 0.24137
+    None: 0.0
+    
+  Married Answers:
+    N/A: 0.01814
+    No: 0.77676
+    Yes: 0.20508
+    
+  LivingWith Answers:
+    With roommates: 0.20871
+    With partner and/or children: 0.34301
+    Other: 0.02540
+    None: 0.0
+    Alone: 0.21415
+    With parents and/or guardians: 0.20145
+    
+  Children Answers:
+    Lots and lots: 0.00181
+    3: 0.03448
+    0: 0.82395
+    4: 0.00725
+    1: 0.06352
+    None: 0.0
+    2: 0.05807
+    6: 0.00181
+    5: 0.00362
+    
+  MoreChildren Answers:
+    No: 0.37023
+    Uncertain: 0.28312
+    Yes: 0.33575
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.59165
+    N/A: 0.00362
+    Yes: 0.40471
+    
+  WorkStatus_2 Answers:
+    No: 0.92014
+    N/A: 0.00362
+    Yes: 0.07622
+    
+  WorkStatus_3 Answers:
+    No: 0.86751
+    N/A: 0.00362
+    Yes: 0.12885
+    
+  WorkStatus_4 Answers:
+    No: 0.97822
+    N/A: 0.00362
+    Yes: 0.01814
+    
+  WorkStatus_5 Answers:
+    No: 0.94010
+    N/A: 0.00362
+    Yes: 0.05626
+    
+  WorkStatus_6 Answers:
+    No: 0.57531
+    N/A: 0.00362
+    Yes: 0.42105
+    
+  WorkStatus_7 Answers:
+    No: 0.93103
+    N/A: 0.00362
+    Yes: 0.06533
+    
+  WorkStatus_8 Answers:
+    No: 0.96914
+    N/A: 0.00362
+    Yes: 0.02722
+    
+  WorkStatus_9 Answers:
+    No: 0.90381
+    N/A: 0.00362
+    Yes: 0.09255
+    
+  Profession Answers:
+    Psychology: 0.01996
+    Medicine: 0.04174
+    Computers (AI): 0.01996
+    Other "hard science": 0.00544
+    Computers (practical_ IT, programming, etc.): 0.25045
+    Statistics: 0.01451
+    Neuroscience: 0.00907
+    Art: 0.01996
+    Physics: 0.03448
+    Other: 0.12159
+    Other "social science": 0.02177
+    Mathematics: 0.06533
+    None: 0.0
+    Business: 0.04900
+    Law: 0.02359
+    Computers (other academic, computer science): 0.05807
+    Engineering: 0.06533
+    Finance / Economics: 0.06896
+    Philosophy: 0.03629
+    Biology: 0.01814
+    
+  EducationCredentials Answers:
+    Master's: 0.17241
+    Bachelor's: 0.33393
+    JD/MD/other professional degree: 0.04355
+    2 year degree: 0.05626
+    Other: 0.00544
+    None: 0.04900
+    Bachelors: 0.00362
+    None: 0.04900
+    PhD: 0.05444
+    High School: 0.26860
+    
+  Average IQ: 135.59774
+
+  Average IQAge: 36.03030
+
+  IQType Answers:
+    Stanford-Binet: 0.00181
+    Never taken an IQ test: 0.00181
+    UK Cognitive Abilities Tests: 0.00181
+    WAIS: 0.00362
+    Mensa test: 0.00181
+    there were two tests proctored for Mensa admission circa 1997, one was Cattall, the other one's name eludes me: 0.00181
+    Stanford Binet: 0.00181
+    Administered by psychologist: 0.00181
+    Wechsler administered by neuropsychologist: 0.00181
+    SD 15 Mensa entrance test: 0.00181
+    Kaufman Adolescent and Adult Intelligence Test (KAIT): 0.00181
+    WAIS IV: 0.00362
+    Raven's : 0.00181
+    It was Wechsler Adult  Intelligence Scale administered at my school: 0.00362
+    Miller analogies test, age 28, 99th percentile, but don't remember the actual score: 0.00181
+    WASR III: 0.00181
+    Mensa supervised test: 0.00181
+    Ravens Progressive Matrices: 0.00181
+    WISC with a psychologist.: 0.00181
+    None: 0.0
+    WISC IV: 0.00181
+    the genius test for dummies: 0.00181
+    WAIS IV administered by my therapist: 0.00181
+    Don't remember, other than it was very long and had multiple different sections: 0.00181
+    SAT: 0.00181
+    progressive matrixes: 0.00181
+    WAIS administered by researchers: 0.00181
+    Mensa: 0.00725
+    WISC-III at school: 0.00181
+    Weschler: 0.00362
+    Raven's Progressive Matrices - Wechsler Scale: 0.00181
+    PSAT : 0.00181
+    Stanford–Binet Intelligence Scale administered at my work: 0.00181
+    Wechsler: 0.00181
+    Wechsler Adult  Intelligence Scale - fourth edition, administered as part of an ADHD diagnosis: 0.00181
+    Mensa book test: 0.00181
+    Wechsler administered by my father when he was working on his Ph.D.: 0.00181
+    Msc student in clinical psychology did it as part of her training: 0.00181
+    IQ test administered by school district for advanced placement: 0.00181
+    Cattell III B: 0.00181
+    WISC: 0.00181
+    Official Mensa test: 0.00181
+    It was Wechsler Adult Intelligence Scale hosted by Mensa: 0.00181
+    This survery is being manipulated by reddit.com/r/sneerclub: 0.00181
+    Wechsler Adult Intelligence Scale IV, psychologist's office: 0.00181
+    stanford inet: 0.00181
+    Wechsler Adult  Intelligence Scale administered at the university of Illinois in Chicago : 0.00181
+    it was similar to the WAIS but I don't remember if it was exactly that or not: 0.00181
+    
+  Average SAT: 1413.14473
+
+  Average SAT2: 2172.18987
+
+  Average ACT: 32.81081
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.01814
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.24319
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.05444
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.18874
+    None: 0.0
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.17241
+    
+  ReligiousViews Answers:
+    Agnostic: 0.11796
+    Lukewarm theist: 0.01996
+    Atheist and not spiritual: 0.42468
+    Committed theist: 0.05263
+    Atheist but spiritual: 0.06715
+    None: 0.0
+    Deist/Pantheist/etc.: 0.02540
+    
+  ReligionType Answers:
+    Unitarian Universalism or similar: 0.01088
+    Christian (Mormon): 0.00181
+    Hindu: 0.00907
+    Christian (Catholic): 0.03085
+    Muslim: 0.00362
+    Mixed/Other: 0.02359
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.01270
+    Other: 0.03629
+    Jewish: 0.01996
+    Buddhist: 0.02540
+    None: 0.0
+    Christian (Protestant): 0.03811
+    Traditional Chinese: 0.00181
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.03266
+    Agnostic: 0.07441
+    Lukewarm theist: 0.23956
+    Atheist and not spiritual: 0.14337
+    Committed theist: 0.15607
+    Deist/Pantheist/etc: 0.01633
+    Other: 0.00907
+    Atheist but spiritual: 0.03448
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.01088
+    Christian (Mormon): 0.00907
+    Hindu: 0.01270
+    Christian (Catholic): 0.20145
+    Muslim: 0.00544
+    Mixed/Other: 0.02722
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.06533
+    Other: 0.02903
+    Jewish: 0.06170
+    None: 0.0
+    Buddhist: 0.00725
+    Christian (Protestant): 0.25408
+    Traditional Chinese: 0.00907
+    
+  LessWrong Answers:
+    Sometimes: 0.01996
+    Rarely: 0.00907
+    Never: 0.00725
+    None: 0.0
+    Almost Never: 0.00544
+    Regular Reader: 0.00544
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.00544
+    Rarely: 0.00362
+    Never Heard Of It: 0.00725
+    None: 0.0
+    Almost Never: 0.00362
+    Regular Reader: 0.01996
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.00725
+    Never Heard Of It: 0.00725
+    Rarely: 0.00544
+    Never: 0.00181
+    None: 0.0
+    Almost Never: 0.00544
+    Regular Reader: 0.00181
+    
+  Minding Our Way Answers:
+    Never Heard Of It: 0.01270
+    Almost Never: 0.00181
+    Regular Reader: 0.00181
+    None: 0.0
+    
+  Agenty Duck Answers:
+    Never: 0.00181
+    Almost Never: 0.00181
+    Never Heard Of It: 0.01270
+    None: 0.0
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.00181
+    Never: 0.00544
+    Regular Reader: 0.00362
+    Never Heard Of It: 0.01088
+    None: 0.0
+    
+  Luke Muehlhauser Answers:
+    Never: 0.00362
+    Regular Reader: 0.00181
+    Never Heard Of It: 0.01451
+    None: 0.0
+    
+  Gwern.net Answers:
+    Never: 0.00362
+    Rarely: 0.00181
+    Sometimes: 0.00181
+    Never Heard Of It: 0.01451
+    None: 0.0
+    
+  Siderea Answers:
+    Never Heard Of It: 0.01451
+    Never: 0.00181
+    Regular Reader: 0.00181
+    None: 0.0
+    
+  Ribbon Farm Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Bayesed And Confused Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.00181
+    Never Heard Of It: 0.00544
+    Regular Reader: 0.00181
+    None: 0.0
+    
+  Givewell Blog Answers:
+    Rarely: 0.00181
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Thing Of Things Answers:
+    Never Heard Of It: 0.00544
+    Rarely: 0.00181
+    Regular Reader: 0.00544
+    None: 0.0
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.00181
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Hotel Concierge Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  The View From Hell Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Xenosystems Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Never Heard Of It: 0.00725
+    Partially And Abandoned: 0.00907
+    Whole Thing: 0.01088
+    Never: 0.00181
+    None: 0.0
+    Partially And Intend To Finish: 0.00544
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.00907
+    None: 0.0
+    
+  Three Worlds Collide Answers:
+    Partially And Abandoned: 0.00181
+    Whole Thing: 0.00362
+    Never Heard Of It: 0.00362
+    None: 0.0
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  The World of Null-A Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Synthesis Answers:
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Worm Answers:
+    Whole Thing: 0.00362
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Pact Answers:
+    Whole Thing: 0.00181
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Twig Answers:
+    Whole Thing: 0.00181
+    Never Heard Of It: 0.00544
+    None: 0.0
+    
+  Ra Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  Ender's Game Answers:
+    Partially And Intend To Finish: 0.00181
+    Whole Thing: 0.00907
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  The Diamond Age Answers:
+    Partially And Intend To Finish: 0.00181
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  Consider Phlebas Answers:
+    Whole Thing: 0.00181
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  StoriesRead2_9 Answers:
+    Never Heard Of It: 0.00181
+    None: 0.0
+    
+  
+Cluster 4:
+  Average Age: 40428.0
+
+  BirthSex Answers:
+    Male: 0.07692
+    Female: 0.06410
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.07692
+    F (cisgender): 0.06410
+    None: 0.0
+    
+  Country Answers:
+    Australia: 0.01282
+    Germany: 0.01282
+    United States: 0.06410
+    Other: 0.02564
+    None: 0.0
+    
+  Race Answers:
+    Middle Eastern: 0.01282
+    Asian (East Asian): 0.01282
+    Other: 0.01282
+    White (non-Hispanic): 0.07692
+    None: 0.0
+    
+  SexualOrientation Answers:
+    Bisexual: 0.01282
+    Other: 0.01282
+    Heterosexual: 0.05128
+    None: 0.0
+    
+  Asexuality Answers:
+    N/A: 0.91025
+    No: 0.08974
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.02564
+    Prefer monogomous: 0.03846
+    None: 0.0
+    
+  NumberPartners Answers:
+    0: 0.02564
+    1: 0.01282
+    None: 0.0
+    
+  RelationshipGoals Answers:
+    ...and currently not looking for more relationship partners: 0.01282
+    ...and possibly open to more relationship partners: 0.01282
+    None: 0.0
+    
+  Married Answers:
+    N/A: 0.96153
+    No: 0.03846
+    
+  LivingWith Answers:
+    With roommates: 0.01282
+    Alone: 0.01282
+    Other: 0.01282
+    None: 0.0
+    
+  Children Answers:
+    0: 0.02564
+    None: 0.0
+    
+  MoreChildren Answers:
+    No: 0.01282
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.98717
+    Yes: 0.01282
+    
+  WorkStatus_2 Answers:
+    No: 1.0
+    
+  WorkStatus_3 Answers:
+    No: 1.0
+    
+  WorkStatus_4 Answers:
+    No: 1.0
+    
+  WorkStatus_5 Answers:
+    No: 1.0
+    
+  WorkStatus_6 Answers:
+    No: 0.98717
+    Yes: 0.01282
+    
+  WorkStatus_7 Answers:
+    No: 1.0
+    
+  WorkStatus_8 Answers:
+    No: 1.0
+    
+  WorkStatus_9 Answers:
+    No: 0.98717
+    Yes: 0.01282
+    
+  Profession Answers:
+    Art: 0.02564
+    Other: 0.01282
+    None: 0.0
+    
+  EducationCredentials Answers:
+    Bachelor's: 0.03846
+    None: 0.0
+    
+  Average IQ: 115.5
+
+  Average IQAge: 16.0
+
+  Average IQType: No Answers Provided
+
+  Average SAT: No Answers Provided
+
+  Average SAT2: No Answers Provided
+
+  Average ACT: No Answers Provided
+
+  PoliticsShort Answers:
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.02564
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.01282
+    None: 0.0
+    
+  ReligiousViews Answers:
+    Atheist and not spiritual: 0.01282
+    Committed theist: 0.01282
+    Lukewarm theist: 0.01282
+    None: 0.0
+    
+  ReligionType Answers:
+    Christian (Protestant): 0.01282
+    Unitarian Universalism or similar: 0.01282
+    None: 0.0
+    
+  FamilyReligion Answers:
+    Committed theist: 0.02564
+    Lukewarm theist: 0.01282
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Christian (Catholic): 0.01282
+    Muslim: 0.01282
+    Mixed/Other: 0.01282
+    None: 0.0
+    
+  LessWrong Answers:
+    Sometimes: 0.01282
+    None: 0.0
+    
+  SlateStarCodex Answers:
+    Regular Reader: 0.01282
+    None: 0.0
+    
+  Overcoming Bias Answers:
+    None: 0.0
+    
+  Minding Our Way Answers:
+    None: 0.0
+    
+  Agenty Duck Answers:
+    None: 0.0
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    None: 0.0
+    
+  Luke Muehlhauser Answers:
+    None: 0.0
+    
+  Gwern.net Answers:
+    None: 0.0
+    
+  Siderea Answers:
+    None: 0.0
+    
+  Ribbon Farm Answers:
+    None: 0.0
+    
+  Bayesed And Confused Answers:
+    None: 0.0
+    
+  The Unit Of Caring Answers:
+    None: 0.0
+    
+  Givewell Blog Answers:
+    None: 0.0
+    
+  Thing Of Things Answers:
+    None: 0.0
+    
+  The Last Psychiatrist Answers:
+    None: 0.0
+    
+  Hotel Concierge Answers:
+    Regular Reader: 0.01282
+    None: 0.0
+    
+  The View From Hell Answers:
+    None: 0.0
+    
+  Xenosystems Answers:
+    None: 0.0
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    None: 0.0
+    
+  Significant Digits Answers:
+    Whole Thing: 0.01282
+    None: 0.0
+    
+  Three Worlds Collide Answers:
+    None: 0.0
+    
+  The Fable of the Dragon-Tyrant Answers:
+    None: 0.0
+    
+  The World of Null-A Answers:
+    None: 0.0
+    
+  Synthesis Answers:
+    Never Heard Of It: 0.01282
+    None: 0.0
+    
+  Worm Answers:
+    None: 0.0
+    
+  Pact Answers:
+    None: 0.0
+    
+  Twig Answers:
+    None: 0.0
+    
+  Ra Answers:
+    Never: 0.01282
+    None: 0.0
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    None: 0.0
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    None: 0.0
+    
+  Ender's Game Answers:
+    None: 0.0
+    
+  The Diamond Age Answers:
+    None: 0.0
+    
+  Consider Phlebas Answers:
+    None: 0.0
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    None: 0.0
+    
+  Accelerando Answers:
+    None: 0.0
+    
+  StoriesRead2_9 Answers:
+    None: 0.0
+    
+  
+Cluster 5:
+  Average Age: -32.0
+
+  BirthSex Answers:
+    Other: 1.0
+    
+  Gender Answers:
+    None: 0.0
+    
+  Country Answers:
+    None: 0.0
+    
+  Race Answers:
+    None: 0.0
+    
+  SexualOrientation Answers:
+    Other: 1.0
+    
+  Asexuality Answers:
+    Yes: 1.0
+    
+  RelationshipStyle Answers:
+    Prefer polyamorous: 1.0
+    
+  NumberPartners Answers:
+    3: 1.0
+    
+  RelationshipGoals Answers:
+    ...and possibly open to more relationship partners: 1.0
+    
+  Married Answers:
+    N/A: 1.0
+    
+  LivingWith Answers:
+    With roommates: 1.0
+    
+  Children Answers:
+    None: 0.0
+    
+  MoreChildren Answers:
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 1.0
+    
+  WorkStatus_2 Answers:
+    No: 1.0
+    
+  WorkStatus_3 Answers:
+    No: 1.0
+    
+  WorkStatus_4 Answers:
+    No: 1.0
+    
+  WorkStatus_5 Answers:
+    No: 1.0
+    
+  WorkStatus_6 Answers:
+    No: 1.0
+    
+  WorkStatus_7 Answers:
+    No: 1.0
+    
+  WorkStatus_8 Answers:
+    No: 1.0
+    
+  WorkStatus_9 Answers:
+    No: 1.0
+    
+  Profession Answers:
+    None: 0.0
+    
+  EducationCredentials Answers:
+    High School: 1.0
+    
+  Average IQ: -1048576.0
+
+  Average IQAge: -34.0
+
+  IQType Answers:
+    Wechsler Adult  Intelligence Scale: 1.0
+    
+  Average SAT: 400.0
+
+  Average SAT2: No Answers Provided
+
+  Average ACT: No Answers Provided
+
+  Average PoliticsShort: No Answers Provided
+
+  Average ReligiousViews: No Answers Provided
+
+  Average ReligionType: No Answers Provided
+
+  Average FamilyReligion: No Answers Provided
+
+  Average ReligiousBackground: No Answers Provided
+
+  LessWrong Answers:
+    Regular Reader: 1.0
+    
+  SlateStarCodex Answers:
+    Regular Reader: 1.0
+    
+  Overcoming Bias Answers:
+    Never Heard Of It: 1.0
+    
+  Minding Our Way Answers:
+    Regular Reader: 1.0
+    
+  Agenty Duck Answers:
+    Regular Reader: 1.0
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Never Heard Of It: 1.0
+    
+  Luke Muehlhauser Answers:
+    Regular Reader: 1.0
+    
+  Gwern.net Answers:
+    Rarely: 1.0
+    
+  Siderea Answers:
+    Regular Reader: 1.0
+    
+  Ribbon Farm Answers:
+    Never Heard Of It: 1.0
+    
+  Bayesed And Confused Answers:
+    Never Heard Of It: 1.0
+    
+  The Unit Of Caring Answers:
+    Never Heard Of It: 1.0
+    
+  Givewell Blog Answers:
+    Regular Reader: 1.0
+    
+  Thing Of Things Answers:
+    Regular Reader: 1.0
+    
+  The Last Psychiatrist Answers:
+    Rarely: 1.0
+    
+  Hotel Concierge Answers:
+    Regular Reader: 1.0
+    
+  The View From Hell Answers:
+    Regular Reader: 1.0
+    
+  Xenosystems Answers:
+    Regular Reader: 1.0
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Never Heard Of It: 1.0
+    
+  Significant Digits Answers:
+    Never Heard Of It: 1.0
+    
+  Three Worlds Collide Answers:
+    Never Heard Of It: 1.0
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 1.0
+    
+  The World of Null-A Answers:
+    Whole Thing: 1.0
+    
+  Synthesis Answers:
+    Whole Thing: 1.0
+    
+  Worm Answers:
+    Whole Thing: 1.0
+    
+  Pact Answers:
+    Never Heard Of It: 1.0
+    
+  Twig Answers:
+    Partially And Abandoned: 1.0
+    
+  Ra Answers:
+    Partially And Intend To Finish: 1.0
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Partially And Intend To Finish: 1.0
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Partially And Intend To Finish: 1.0
+    
+  Ender's Game Answers:
+    Partially And Intend To Finish: 1.0
+    
+  The Diamond Age Answers:
+    Partially And Abandoned: 1.0
+    
+  Consider Phlebas Answers:
+    None: 0.0
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Partially And Intend To Finish: 1.0
+    
+  Accelerando Answers:
+    Never Heard Of It: 1.0
+    
+  StoriesRead2_9 Answers:
+    Never Heard Of It: 1.0
+    
+  
+Cluster 6:
+  Average Age: 26.08685
+
+  BirthSex Answers:
+    Male: 0.72018
+    Female: 0.26834
+    Other: 0.00229
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.64678
+    F (cisgender): 0.19495
+    Other: 0.09403
+    None: 0.0
+    M (transgender FtM): 0.02522
+    F (transgender MtF): 0.02752
+    
+  Country Answers:
+    Canada: 0.06192
+    Russia: 0.00917
+    India: 0.01376
+    New Zealand: 0.00917
+    United States: 0.52981
+    United Kingdom: 0.08027
+    France: 0.01376
+    Other: 0.15366
+    None: 0.0
+    Brazil: 0.00229
+    Australia: 0.05504
+    Germany: 0.04128
+    Finland: 0.01376
+    Israel: 0.00688
+    
+  Race Answers:
+    White (non-Hispanic): 0.85091
+    Asian (East Asian): 0.03440
+    Asian (Indian subcontinent): 0.03669
+    Other: 0.05045
+    None: 0.0
+    Hispanic: 0.01376
+    
+  SexualOrientation Answers:
+    Bisexual: 0.24082
+    Other: 0.09403
+    Heterosexual: 0.59403
+    Homosexual: 0.05504
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.88532
+    N/A: 0.02293
+    Yes: 0.09174
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.30504
+    None: 0.0
+    Other: 0.02752
+    Prefer monogomous: 0.43577
+    Prefer polyamorous: 0.22018
+    
+  NumberPartners Answers:
+    Lots and lots: 0.00917
+    3: 0.03211
+    0: 0.47247
+    4: 0.00458
+    1: 0.41743
+    None: 0.0
+    2: 0.05045
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.29357
+    ...and possibly open to more relationship partners: 0.32339
+    ...and currently not looking for more relationship partners: 0.36926
+    None: 0.0
+    
+  Married Answers:
+    No: 0.84633
+    N/A: 0.01605
+    Yes: 0.13761
+    
+  LivingWith Answers:
+    With roommates: 0.32110
+    With partner and/or children: 0.24082
+    Other: 0.03211
+    None: 0.0
+    With parents and/or guardians: 0.19954
+    Alone: 0.19266
+    
+  Children Answers:
+    Lots and lots: 0.00229
+    3: 0.00688
+    0: 0.92431
+    1: 0.02981
+    None: 0.0
+    2: 0.02752
+    
+  MoreChildren Answers:
+    No: 0.33027
+    Uncertain: 0.31422
+    Yes: 0.34633
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.53211
+    N/A: 0.00229
+    Yes: 0.46559
+    
+  WorkStatus_2 Answers:
+    No: 0.89220
+    N/A: 0.00229
+    Yes: 0.10550
+    
+  WorkStatus_3 Answers:
+    No: 0.86467
+    N/A: 0.00229
+    Yes: 0.13302
+    
+  WorkStatus_4 Answers:
+    No: 0.98623
+    N/A: 0.00229
+    Yes: 0.01146
+    
+  WorkStatus_5 Answers:
+    No: 0.93119
+    N/A: 0.00229
+    Yes: 0.06651
+    
+  WorkStatus_6 Answers:
+    No: 0.61926
+    N/A: 0.00229
+    Yes: 0.37844
+    
+  WorkStatus_7 Answers:
+    No: 0.94724
+    N/A: 0.00229
+    Yes: 0.05045
+    
+  WorkStatus_8 Answers:
+    No: 0.97935
+    N/A: 0.00229
+    Yes: 0.01834
+    
+  WorkStatus_9 Answers:
+    No: 0.91513
+    N/A: 0.00229
+    Yes: 0.08256
+    
+  Profession Answers:
+    Other "hard science": 0.01376
+    Philosophy: 0.02752
+    Computers (AI): 0.02752
+    Medicine: 0.01146
+    Computers (practical_ IT, programming, etc.): 0.21788
+    Law: 0.02981
+    Neuroscience: 0.02064
+    Art: 0.02752
+    Other: 0.17201
+    Physics: 0.02981
+    Other "social science": 0.02981
+    Engineering: 0.05504
+    Mathematics: 0.07568
+    Computers (other academic, computer science): 0.06192
+    Business: 0.01834
+    Statistics: 0.02752
+    Psychology: 0.02752
+    Finance / Economics: 0.05045
+    None: 0.0
+    Biology: 0.02522
+    
+  EducationCredentials Answers:
+    Master's: 0.16972
+    Bachelor's: 0.34862
+    JD/MD/other professional degree: 0.02064
+    2 year degree: 0.02293
+    Other: 0.03669
+    None: 0.04357
+    Bachelors: 0.00458
+    None: 0.04357
+    PhD: 0.07568
+    High School: 0.26834
+    
+  Average IQ: 137.86612
+
+  Average IQAge: 30.12765
+
+  IQType Answers:
+    Stanford-Binet: 0.00229
+    School-administered. Don't remember the specific test.: 0.00229
+    Test administered at mental hospital.: 0.00229
+    Wechler Adult Intelligence Scale, administered by a psychiatrist as part of an ADHD test: 0.00229
+    Standard Mensa Test: 0.00229
+    WAIS administered by a psych grad student: 0.00229
+    Mensa test: 0.00229
+    Ravens at our University: 0.00229
+    online test: 0.00229
+    MENSA: 0.00229
+    admistered by an educational psychologist: 0.00229
+    Stanford-Binet Intelligence Scale, Fourth Edition administered by school district psychologist for gifted program evaluation.: 0.00229
+    mensa iq test: 0.00229
+    WISC-IV (I'm pretty sure) administered by psychologist: 0.00229
+    Professional test by a psychologist: 0.00229
+    Raven Matrices: 0.00229
+    Professionally administered WAIS-IV test. : 0.00229
+    Wechsler Intelligence Scale for Children III: 0.00229
+    It was Wechsler Adult  Intelligence Scale administered at my school: 0.00229
+    Took it in high school as part of their AP courses: 0.00229
+    Mensa Austria: 0.00229
+    LSAT: 0.00458
+    Wechsler Intelligence Scale for Children - Fourth Edition (WISC-IV): 0.00229
+    None: 0.0
+    Ravens Matrix: 0.00229
+    In-school standardized test - IQ proxy with known mapping to other IQ exams: 0.00229
+    Weschler, child type, fourth edition: 0.00229
+    MENSA admission test: 0.00229
+    WAIS IV administered by my therapist: 0.00229
+    Mensa Admission Test: 0.00229
+    INSBAT, administered at university (self-experience): 0.00229
+    I don't know I was 6: 0.00229
+    Administered by the school: 0.00229
+    WAIS in a psychatric hospital: 0.00229
+    Mensa in Deutschland Intelligenztest (assumed to be IBF-S): 0.00229
+    Weschler administered at my school: 0.00229
+    Cattell III B (verbal), for UK Mensa membership (yes I have adjusted my result above downwards to base it on a 15 point S.D.): 0.00229
+    Administered at school during kindergarten - don't know specific test: 0.00229
+    Figure Reasoning Test A (Mensa membership test in Sweden): 0.00229
+    RAPM: 0.00458
+    WAIS III, ministry of labor: 0.00229
+    Wechsler Adult Intelligence Scale, took outside of school: 0.00229
+    Raven: 0.00229
+    Not sure what type, but I took it at school as part of the evaluation to get special consideration for exams.: 0.00229
+    Wechsler: 0.00229
+    Mensa IQ test: 0.00229
+    I was in third grade, and it was administered by my school. I remember some verbal math questions and other problem-solving elements, but don't know the specific test.: 0.00229
+    Mensa, Raven Matrices: 0.00229
+    Stanford Binet, Administered by US Army: 0.00229
+    administered by elementary school for "gifted and talented" program: 0.00229
+    Weschler Preschool and Primary Scale of Intelligence (WPPSI) at school.: 0.00229
+    WISC: 0.00458
+    Wechsler Intelligence Scale for Children - Revised, part of evalaution for a Learning Disability: 0.00229
+    Probably Wechsler Child test: 0.00229
+    Raven's Progressive Matrices administered during criminal proceedings: 0.00229
+    It was done by some psychologist and was capped at 130: 0.00229
+    Short (50 question) Raven administrated by Mensa. All I know is that it's higher than 135, as they specified that it was inaccurate at higher levels.: 0.00229
+    Abridged WAIS taken as part of ADHD diagnosis: 0.00229
+    Woodcock-Johnson III administered at school: 0.00229
+    Cattel 3: 0.00229
+    FISK: 0.00229
+    CCAT-V: 0.00229
+    
+  Average SAT: 1479.88888
+
+  Average SAT2: 2213.23966
+
+  Average ACT: 32.78666
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.01376
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.36467
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.03899
+    None: 0.0
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.30963
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.22706
+    
+  ReligiousViews Answers:
+    Lukewarm theist: 0.04587
+    Agnostic: 0.12385
+    Atheist and not spiritual: 0.67201
+    Committed theist: 0.04816
+    Atheist but spiritual: 0.08027
+    None: 0.0
+    Deist/Pantheist/etc.: 0.02293
+    
+  ReligionType Answers:
+    Unitarian Universalism or similar: 0.01146
+    Christian (Mormon): 0.00229
+    Hindu: 0.00458
+    Christian (Catholic): 0.03669
+    Muslim: 0.00229
+    Mixed/Other: 0.01834
+    Other: 0.03899
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.01146
+    None: 0.0
+    Buddhist: 0.01146
+    Jewish: 0.03669
+    Christian (Protestant): 0.04816
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.05963
+    Agnostic: 0.12155
+    Lukewarm theist: 0.29816
+    Atheist and not spiritual: 0.15137
+    Committed theist: 0.24541
+    Deist/Pantheist/etc: 0.02981
+    Other: 0.02293
+    Atheist but spiritual: 0.06192
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.01834
+    Christian (Mormon): 0.01146
+    Hindu: 0.02981
+    Christian (Catholic): 0.24082
+    Muslim: 0.00458
+    Mixed/Other: 0.05733
+    Other: 0.05045
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.03899
+    Jewish: 0.10091
+    None: 0.0
+    Buddhist: 0.01376
+    Christian (Protestant): 0.38532
+    Traditional Chinese: 0.00917
+    
+  LessWrong Answers:
+    Sometimes: 0.32798
+    Rarely: 0.28211
+    Never Heard Of It: 0.00458
+    None: 0.0
+    Never: 0.04587
+    Almost Never: 0.20183
+    Regular Reader: 0.12614
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.15137
+    Never Heard Of It: 0.00917
+    Rarely: 0.03440
+    Never: 0.00917
+    Almost Never: 0.03211
+    Regular Reader: 0.76376
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.24770
+    Never Heard Of It: 0.03669
+    Rarely: 0.27064
+    Never: 0.14678
+    None: 0.0
+    Almost Never: 0.19724
+    Regular Reader: 0.09862
+    
+  Minding Our Way Answers:
+    Sometimes: 0.07110
+    Never Heard Of It: 0.46330
+    Rarely: 0.08944
+    Never: 0.16284
+    None: 0.0
+    Almost Never: 0.13532
+    Regular Reader: 0.07110
+    
+  Agenty Duck Answers:
+    Sometimes: 0.05045
+    Rarely: 0.06192
+    Never Heard Of It: 0.47247
+    Never: 0.22706
+    None: 0.0
+    Almost Never: 0.16972
+    Regular Reader: 0.01376
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.20871
+    Never Heard Of It: 0.06651
+    Rarely: 0.12844
+    Never: 0.25458
+    None: 0.0
+    Almost Never: 0.20412
+    Regular Reader: 0.13302
+    
+  Luke Muehlhauser Answers:
+    Sometimes: 0.05963
+    Rarely: 0.10091
+    Never Heard Of It: 0.38073
+    None: 0.0
+    Never: 0.24082
+    Almost Never: 0.17201
+    Regular Reader: 0.02522
+    
+  Gwern.net Answers:
+    Sometimes: 0.17889
+    Rarely: 0.16972
+    Never Heard Of It: 0.26605
+    Never: 0.16743
+    None: 0.0
+    Almost Never: 0.14449
+    Regular Reader: 0.06880
+    
+  Siderea Answers:
+    Sometimes: 0.05045
+    Rarely: 0.04357
+    Never Heard Of It: 0.65596
+    Never: 0.13990
+    None: 0.0
+    Almost Never: 0.08256
+    Regular Reader: 0.02293
+    
+  Ribbon Farm Answers:
+    Sometimes: 0.09862
+    Rarely: 0.06192
+    Never Heard Of It: 0.56422
+    Never: 0.11009
+    None: 0.0
+    Almost Never: 0.10779
+    Regular Reader: 0.05045
+    
+  Bayesed And Confused Answers:
+    Sometimes: 0.00688
+    Rarely: 0.02522
+    Never Heard Of It: 0.76146
+    None: 0.0
+    Never: 0.14908
+    Almost Never: 0.05045
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.11926
+    Never Heard Of It: 0.20642
+    Rarely: 0.11238
+    Never: 0.16743
+    None: 0.0
+    Almost Never: 0.13990
+    Regular Reader: 0.25
+    
+  Givewell Blog Answers:
+    Sometimes: 0.16055
+    Never Heard Of It: 0.09633
+    Rarely: 0.19724
+    Never: 0.29357
+    None: 0.0
+    Almost Never: 0.19954
+    Regular Reader: 0.04357
+    
+  Thing Of Things Answers:
+    Sometimes: 0.15596
+    Never Heard Of It: 0.11467
+    Rarely: 0.13532
+    Never: 0.14449
+    None: 0.0
+    Almost Never: 0.10550
+    Regular Reader: 0.33256
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.09862
+    Rarely: 0.13532
+    Never Heard Of It: 0.29587
+    None: 0.0
+    Never: 0.22706
+    Almost Never: 0.16055
+    Regular Reader: 0.07798
+    
+  Hotel Concierge Answers:
+    Sometimes: 0.03440
+    Rarely: 0.05275
+    Never Heard Of It: 0.64908
+    None: 0.0
+    Never: 0.14678
+    Almost Never: 0.07568
+    Regular Reader: 0.03211
+    
+  The View From Hell Answers:
+    Sometimes: 0.03899
+    Rarely: 0.06422
+    Never Heard Of It: 0.57798
+    Never: 0.18807
+    None: 0.0
+    Almost Never: 0.09403
+    Regular Reader: 0.02752
+    
+  Xenosystems Answers:
+    Sometimes: 0.03440
+    Rarely: 0.05275
+    Never Heard Of It: 0.46788
+    Never: 0.26146
+    None: 0.0
+    Almost Never: 0.12385
+    Regular Reader: 0.04587
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Never Heard Of It: 0.00458
+    Partially And Abandoned: 0.24311
+    Whole Thing: 0.36697
+    None: 0.0
+    Never: 0.24770
+    Partially And Intend To Finish: 0.12844
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.76834
+    Partially And Abandoned: 0.00917
+    Whole Thing: 0.00458
+    None: 0.0
+    Never: 0.18119
+    Partially And Intend To Finish: 0.01605
+    
+  Three Worlds Collide Answers:
+    Never Heard Of It: 0.36009
+    Partially And Abandoned: 0.02522
+    Whole Thing: 0.25917
+    None: 0.0
+    Never: 0.31192
+    Partially And Intend To Finish: 0.02064
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 0.52981
+    Partially And Abandoned: 0.00458
+    Whole Thing: 0.25
+    None: 0.0
+    Never: 0.18119
+    Partially And Intend To Finish: 0.01376
+    
+  The World of Null-A Answers:
+    None: 0.0
+    Partially And Abandoned: 0.00458
+    Whole Thing: 0.02064
+    Never Heard Of It: 0.75458
+    Never: 0.20183
+    
+  Synthesis Answers:
+    None: 0.0
+    Partially And Intend To Finish: 0.00229
+    Partially And Abandoned: 0.01146
+    Never Heard Of It: 0.82339
+    Never: 0.13302
+    
+  Worm Answers:
+    Never Heard Of It: 0.23165
+    Partially And Abandoned: 0.08256
+    Whole Thing: 0.09174
+    None: 0.0
+    Never: 0.47247
+    Partially And Intend To Finish: 0.10321
+    
+  Pact Answers:
+    Never Heard Of It: 0.63761
+    Partially And Abandoned: 0.02064
+    Whole Thing: 0.01605
+    None: 0.0
+    Never: 0.29128
+    Partially And Intend To Finish: 0.01146
+    
+  Twig Answers:
+    Never Heard Of It: 0.63532
+    Partially And Abandoned: 0.00917
+    Whole Thing: 0.00458
+    None: 0.0
+    Never: 0.30504
+    Partially And Intend To Finish: 0.02064
+    
+  Ra Answers:
+    Never Heard Of It: 0.77752
+    Partially And Abandoned: 0.01376
+    Whole Thing: 0.02064
+    None: 0.0
+    Never: 0.16055
+    Partially And Intend To Finish: 0.00458
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Never Heard Of It: 0.47247
+    Partially And Abandoned: 0.02981
+    Whole Thing: 0.04816
+    None: 0.0
+    Never: 0.42201
+    Partially And Intend To Finish: 0.00917
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    None: 0.0
+    Partially And Abandoned: 0.00458
+    Whole Thing: 0.00917
+    Never Heard Of It: 0.71788
+    Never: 0.23623
+    
+  Ender's Game Answers:
+    Never Heard Of It: 0.05733
+    Partially And Abandoned: 0.03669
+    Whole Thing: 0.55275
+    None: 0.0
+    Never: 0.32568
+    Partially And Intend To Finish: 0.01146
+    
+  The Diamond Age Answers:
+    Never Heard Of It: 0.41284
+    Partially And Abandoned: 0.03211
+    Whole Thing: 0.14678
+    None: 0.0
+    Never: 0.36467
+    Partially And Intend To Finish: 0.02293
+    
+  Consider Phlebas Answers:
+    Never Heard Of It: 0.61926
+    Partially And Abandoned: 0.01376
+    Whole Thing: 0.07110
+    None: 0.0
+    Never: 0.25688
+    Partially And Intend To Finish: 0.01605
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.75229
+    Partially And Abandoned: 0.00458
+    Whole Thing: 0.03899
+    None: 0.0
+    Never: 0.16743
+    Partially And Intend To Finish: 0.00458
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.63073
+    Partially And Abandoned: 0.02293
+    Whole Thing: 0.04587
+    None: 0.0
+    Never: 0.25458
+    Partially And Intend To Finish: 0.01605
+    
+  StoriesRead2_9 Answers:
+    Never Heard Of It: 0.57339
+    Partially And Abandoned: 0.02522
+    Whole Thing: 0.08944
+    None: 0.0
+    Never: 0.28211
+    Partially And Intend To Finish: 0.00917
+    
+  
+Cluster 7:
+  Average Age: 31.10982
+
+  BirthSex Answers:
+    Male: 0.86051
+    Female: 0.13733
+    None: 0.0
+    
+  Gender Answers:
+    F (cisgender): 0.12017
+    M (cisgender): 0.81115
+    Other: 0.04291
+    None: 0.0
+    M (transgender FtM): 0.00643
+    F (transgender MtF): 0.00858
+    
+  Country Answers:
+    Canada: 0.04506
+    Russia: 0.03433
+    India: 0.00643
+    New Zealand: 0.01931
+    United States: 0.49141
+    United Kingdom: 0.05364
+    France: 0.01502
+    Other: 0.18240
+    None: 0.0
+    Brazil: 0.00858
+    Australia: 0.06866
+    Germany: 0.04077
+    Finland: 0.01716
+    Israel: 0.01072
+    
+  Race Answers:
+    White (non-Hispanic): 0.84334
+    Middle Eastern: 0.00429
+    Asian (East Asian): 0.01931
+    Asian (Indian subcontinent): 0.01931
+    Other: 0.06223
+    None: 0.0
+    Hispanic: 0.02360
+    Black: 0.01072
+    
+  SexualOrientation Answers:
+    Bisexual: 0.13090
+    Other: 0.04506
+    Heterosexual: 0.78111
+    Homosexual: 0.02789
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.92060
+    N/A: 0.02789
+    Yes: 0.05150
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.22746
+    None: 0.0
+    Other: 0.02789
+    Prefer monogomous: 0.62017
+    Prefer polyamorous: 0.11158
+    
+  NumberPartners Answers:
+    Lots and lots: 0.01502
+    3: 0.01716
+    0: 0.38841
+    4: 0.00214
+    1: 0.53648
+    None: 0.0
+    2: 0.02575
+    5: 0.00429
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.16523
+    ...and possibly open to more relationship partners: 0.26180
+    ...and currently not looking for more relationship partners: 0.55579
+    None: 0.0
+    
+  Married Answers:
+    No: 0.68669
+    N/A: 0.01072
+    Yes: 0.30257
+    
+  LivingWith Answers:
+    With roommates: 0.19957
+    With partner and/or children: 0.37553
+    Other: 0.04506
+    None: 0.0
+    Alone: 0.18240
+    With parents and/or guardians: 0.19098
+    
+  Children Answers:
+    Lots and lots: 0.00214
+    3: 0.03862
+    0: 0.77467
+    4: 0.00429
+    1: 0.06652
+    None: 0.0
+    2: 0.10085
+    6: 0.00214
+    5: 0.00429
+    
+  MoreChildren Answers:
+    No: 0.43562
+    Uncertain: 0.29184
+    Yes: 0.26824
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.63304
+    Yes: 0.36695
+    
+  WorkStatus_2 Answers:
+    No: 0.90557
+    Yes: 0.09442
+    
+  WorkStatus_3 Answers:
+    No: 0.80901
+    Yes: 0.19098
+    
+  WorkStatus_4 Answers:
+    No: 0.96351
+    Yes: 0.03648
+    
+  WorkStatus_5 Answers:
+    No: 0.92274
+    Yes: 0.07725
+    
+  WorkStatus_6 Answers:
+    No: 0.61587
+    Yes: 0.38412
+    
+  WorkStatus_7 Answers:
+    No: 0.93347
+    Yes: 0.06652
+    
+  WorkStatus_8 Answers:
+    No: 0.97639
+    Yes: 0.02360
+    
+  WorkStatus_9 Answers:
+    No: 0.89484
+    Yes: 0.10515
+    
+  Profession Answers:
+    Statistics: 0.01072
+    Medicine: 0.01716
+    Computers (AI): 0.02789
+    Computers (practical_ IT, programming, etc.): 0.28326
+    Other "social science": 0.01716
+    Philosophy: 0.01716
+    Neuroscience: 0.01072
+    Art: 0.03004
+    Physics: 0.05150
+    Other: 0.13519
+    Engineering: 0.06437
+    None: 0.0
+    Law: 0.03004
+    Business: 0.04291
+    Computers (other academic, computer science): 0.04935
+    Mathematics: 0.04506
+    Psychology: 0.03004
+    Other "hard science": 0.01502
+    Finance / Economics: 0.05793
+    Biology: 0.02360
+    
+  EducationCredentials Answers:
+    Master's: 0.21459
+    Bachelor's: 0.32832
+    JD/MD/other professional degree: 0.03218
+    2 year degree: 0.05364
+    Other: 0.03004
+    None: 0.04506
+    Bachelors: 0.00429
+    None: 0.04506
+    PhD: 0.07939
+    High School: 0.20171
+    
+  Average IQ: 138.07382
+
+  Average IQAge: 45.07284
+
+  IQType Answers:
+    Stanford-Binet: 0.00429
+    Mensa , aministered by Mensa: 0.00214
+    It was Wechsler test (I don't know the details) administered by a child psychologist.: 0.00214
+    The first test was a bunch of questions on paper in a room, but that capped at 140 and was only accurate to 135.  The next test was administered in Massachusetts one on one by a doctor of psychology, and she rated me 185. : 0.00214
+    Figure reasoning test A administered by mensa Sweden(actual result was "IQ of 135 or more"): 0.00214
+    The regular test used by Mensa: 0.00214
+    WAIS: 0.00214
+    WAIS with youth councelor/therapist: 0.00214
+    Woodcock-Johnson III administered by a psychologist: 0.00214
+    WISC-IV, administered by school psychologist: 0.00214
+    Mensa admitance test, I remeber I got in but don't remeber the name of the test.: 0.00214
+    Cattell Culture Fair III A: 0.00214
+    Mensa test: 0.00429
+    I have never taken an IQ test, to my knowledge: 0.00214
+    Stanford Binet: 0.00214
+    Independent test administered by Xavier Jouve: 0.00214
+    WISC-IV: 0.00214
+    None but I did get 446 on the MAT, which is 97th percentile.: 0.00214
+    WAIS IV: 0.00214
+    Mensa administered test...: 0.00214
+    Wechsler Adult  Intelligence Scale administered by a professional psychologist: 0.00214
+    It was Wechsler Adult  Intelligence Scale administered at my school: 0.00214
+    Stanford Binet variant for school: 0.00214
+    Stanford-Binet Third Edition, I think: 0.00214
+    Wechsler Adult Intelligence Scale: 0.00214
+    Raven's matrices: 0.00214
+    It was a Mensa test, unsure which type.: 0.00214
+    None: 0.0
+    It was Cattell's Figures Reasoning Test with a score 156+ administered at national Mensa: 0.00214
+    Wechsler test given for gifted/talented evaluation: 0.00214
+    I do not remember: 0.00214
+    SAT: 0.00214
+    Mensa home IQ test administered at school: 0.00214
+    Raven's Progressive Matrices: 0.00214
+    Mensa: 0.00429
+    Cattell: 0.00214
+    unknown: 0.00214
+    Mensa test in the Netherlands: 0.00214
+    Wechsler adult: 0.00214
+    Stanford Bennit Test given by a psychologist's grad student. I also took others, but I only remember my stanford bennit score and I dont want to go downstairs.: 0.00214
+    Some test used by Mensa Germany: 0.00214
+    Wechsler: 0.00214
+    It was Wechsler Adult  Intelligence Scale administered at a psychologist: 0.00214
+    Administered by Advanced Math Program: 0.00214
+    Wechsler administered by psychologist : 0.00214
+    Weschler Adult Intelligence Scale - administered at campus counselling clinic: 0.00214
+    Mensa admission test: 0.00429
+    WISC: 0.00214
+    n.A.: 0.00214
+    Official Mensa test: 0.00214
+    Cattel & Cattel in 2005 by Finnish Mensa: 0.00214
+    School as part of gifted program.: 0.00214
+    Polish Mensa test, Cattell scale (my score was "above 156 IQ"): 0.00214
+    Stanford-Binet...I think.: 0.00214
+    https_//mensa.dk/sites/default/files/index.swf: 0.00214
+    
+  Average SAT: 1418.63888
+
+  Average SAT2: 2141.30434
+
+  Average ACT: 31.50617
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.00858
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.35836
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.08583
+    None: 0.0
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.25965
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.24034
+    
+  ReligiousViews Answers:
+    Agnostic: 0.15021
+    Lukewarm theist: 0.05579
+    Atheist and not spiritual: 0.60729
+    Committed theist: 0.07510
+    Atheist but spiritual: 0.07081
+    None: 0.0
+    Deist/Pantheist/etc.: 0.03218
+    
+  ReligionType Answers:
+    Unitarian Universalism or similar: 0.01931
+    Christian (Mormon): 0.00858
+    Hindu: 0.00643
+    Christian (Catholic): 0.03648
+    Muslim: 0.00429
+    Mixed/Other: 0.03648
+    Other: 0.06008
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.00643
+    None: 0.0
+    Buddhist: 0.02360
+    Jewish: 0.01931
+    Christian (Protestant): 0.06437
+    Traditional Chinese: 0.00214
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.03433
+    Lukewarm theist: 0.32832
+    Agnostic: 0.12446
+    Atheist and not spiritual: 0.13519
+    Committed theist: 0.28755
+    Deist/Pantheist/etc: 0.01716
+    Other: 0.02789
+    Atheist but spiritual: 0.03648
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.01716
+    Christian (Mormon): 0.02575
+    Hindu: 0.01502
+    Christian (Catholic): 0.27896
+    Muslim: 0.00858
+    Mixed/Other: 0.02789
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.10515
+    Other: 0.04721
+    Jewish: 0.05579
+    None: 0.0
+    Buddhist: 0.00214
+    Christian (Protestant): 0.36695
+    Traditional Chinese: 0.00429
+    
+  LessWrong Answers:
+    Sometimes: 0.38412
+    Never Heard Of It: 0.02360
+    Rarely: 0.26609
+    Never: 0.05150
+    None: 0.0
+    Almost Never: 0.13304
+    Regular Reader: 0.10729
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.16738
+    Rarely: 0.05793
+    Never Heard Of It: 0.28969
+    Never: 0.05793
+    None: 0.0
+    Almost Never: 0.05579
+    Regular Reader: 0.33261
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.12660
+    Never Heard Of It: 0.25751
+    Rarely: 0.14163
+    None: 0.0
+    Never: 0.15021
+    Almost Never: 0.21244
+    Regular Reader: 0.05150
+    
+  Minding Our Way Answers:
+    Sometimes: 0.01931
+    Rarely: 0.02145
+    Never Heard Of It: 0.79828
+    None: 0.0
+    Never: 0.05364
+    Almost Never: 0.01287
+    Regular Reader: 0.01287
+    
+  Agenty Duck Answers:
+    Sometimes: 0.01287
+    Rarely: 0.01072
+    Never Heard Of It: 0.80257
+    None: 0.0
+    Never: 0.05364
+    Almost Never: 0.02789
+    Regular Reader: 0.00429
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.07510
+    Never Heard Of It: 0.36909
+    Rarely: 0.07725
+    Never: 0.22532
+    None: 0.0
+    Almost Never: 0.11802
+    Regular Reader: 0.06866
+    
+  Luke Muehlhauser Answers:
+    Sometimes: 0.02575
+    Rarely: 0.04291
+    Never Heard Of It: 0.71030
+    None: 0.0
+    Never: 0.08154
+    Almost Never: 0.04291
+    Regular Reader: 0.00214
+    
+  Gwern.net Answers:
+    Sometimes: 0.05793
+    Never Heard Of It: 0.60515
+    Rarely: 0.07725
+    Never: 0.10729
+    None: 0.0
+    Almost Never: 0.05793
+    Regular Reader: 0.01716
+    
+  Siderea Answers:
+    Sometimes: 0.00214
+    Rarely: 0.00214
+    Never Heard Of It: 0.81759
+    Never: 0.05150
+    None: 0.0
+    Almost Never: 0.02360
+    Regular Reader: 0.00643
+    
+  Ribbon Farm Answers:
+    Sometimes: 0.02789
+    Rarely: 0.00643
+    Never Heard Of It: 0.79184
+    Never: 0.04077
+    None: 0.0
+    Almost Never: 0.02360
+    Regular Reader: 0.01072
+    
+  Bayesed And Confused Answers:
+    Sometimes: 0.00429
+    Rarely: 0.00429
+    Never Heard Of It: 0.82188
+    Never: 0.04291
+    None: 0.0
+    Almost Never: 0.00858
+    Regular Reader: 0.00429
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.00429
+    Rarely: 0.01287
+    Never Heard Of It: 0.77253
+    None: 0.0
+    Never: 0.06008
+    Almost Never: 0.03004
+    Regular Reader: 0.00858
+    
+  Givewell Blog Answers:
+    Sometimes: 0.04291
+    Rarely: 0.03218
+    Never Heard Of It: 0.56652
+    None: 0.0
+    Never: 0.14163
+    Almost Never: 0.07296
+    Regular Reader: 0.01716
+    
+  Thing Of Things Answers:
+    Sometimes: 0.01716
+    Rarely: 0.01716
+    Never Heard Of It: 0.70600
+    Never: 0.05793
+    None: 0.0
+    Almost Never: 0.06008
+    Regular Reader: 0.03648
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.01502
+    Rarely: 0.02575
+    Never Heard Of It: 0.72746
+    Never: 0.05150
+    None: 0.0
+    Almost Never: 0.04506
+    Regular Reader: 0.02145
+    
+  Hotel Concierge Answers:
+    Never: 0.02789
+    Almost Never: 0.00643
+    Sometimes: 0.00214
+    Never Heard Of It: 0.83690
+    None: 0.0
+    
+  The View From Hell Answers:
+    Sometimes: 0.00429
+    Rarely: 0.00214
+    Never Heard Of It: 0.82403
+    Never: 0.03862
+    None: 0.0
+    Almost Never: 0.01072
+    
+  Xenosystems Answers:
+    Sometimes: 0.00858
+    Never Heard Of It: 0.77682
+    Rarely: 0.01287
+    Never: 0.05150
+    None: 0.0
+    Almost Never: 0.01502
+    Regular Reader: 0.01287
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Never Heard Of It: 0.15665
+    Partially And Abandoned: 0.15665
+    Whole Thing: 0.34763
+    None: 0.0
+    Never: 0.20815
+    Partially And Intend To Finish: 0.10515
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.77038
+    Partially And Abandoned: 0.01716
+    Whole Thing: 0.02145
+    Never: 0.09442
+    None: 0.0
+    Partially And Intend To Finish: 0.01716
+    
+  Three Worlds Collide Answers:
+    Never Heard Of It: 0.63090
+    Partially And Abandoned: 0.01502
+    Whole Thing: 0.09871
+    Never: 0.16309
+    None: 0.0
+    Partially And Intend To Finish: 0.01502
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 0.73605
+    Partially And Abandoned: 0.01287
+    Whole Thing: 0.07510
+    Never: 0.09656
+    None: 0.0
+    Partially And Intend To Finish: 0.01287
+    
+  The World of Null-A Answers:
+    Never Heard Of It: 0.78969
+    Partially And Abandoned: 0.00858
+    Whole Thing: 0.03648
+    Never: 0.07939
+    None: 0.0
+    Partially And Intend To Finish: 0.00429
+    
+  Synthesis Answers:
+    Never: 0.04077
+    Partially And Abandoned: 0.00214
+    Whole Thing: 0.00214
+    Never Heard Of It: 0.86266
+    None: 0.0
+    
+  Worm Answers:
+    Never Heard Of It: 0.67381
+    Partially And Abandoned: 0.03862
+    Whole Thing: 0.03218
+    None: 0.0
+    Never: 0.14377
+    Partially And Intend To Finish: 0.03218
+    
+  Pact Answers:
+    Never Heard Of It: 0.82403
+    Partially And Abandoned: 0.00429
+    Whole Thing: 0.00214
+    Never: 0.07296
+    None: 0.0
+    Partially And Intend To Finish: 0.00429
+    
+  Twig Answers:
+    Never: 0.07510
+    Partially And Abandoned: 0.00858
+    Never Heard Of It: 0.82188
+    None: 0.0
+    
+  Ra Answers:
+    Never Heard Of It: 0.80901
+    Partially And Abandoned: 0.01072
+    Whole Thing: 0.01716
+    Never: 0.07725
+    None: 0.0
+    Partially And Intend To Finish: 0.00429
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Never Heard Of It: 0.75321
+    Partially And Abandoned: 0.01072
+    Whole Thing: 0.01072
+    None: 0.0
+    Never: 0.13733
+    Partially And Intend To Finish: 0.00429
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Never: 0.05793
+    Partially And Abandoned: 0.00214
+    Whole Thing: 0.00643
+    Never Heard Of It: 0.81974
+    None: 0.0
+    
+  Ender's Game Answers:
+    Never Heard Of It: 0.17596
+    Partially And Abandoned: 0.03218
+    Whole Thing: 0.50214
+    None: 0.0
+    Never: 0.22961
+    Partially And Intend To Finish: 0.00858
+    
+  The Diamond Age Answers:
+    Never Heard Of It: 0.50858
+    Partially And Abandoned: 0.02145
+    Whole Thing: 0.17596
+    None: 0.0
+    Never: 0.20815
+    Partially And Intend To Finish: 0.01716
+    
+  Consider Phlebas Answers:
+    Never Heard Of It: 0.65021
+    Partially And Abandoned: 0.01716
+    Whole Thing: 0.09871
+    None: 0.0
+    Never: 0.12875
+    Partially And Intend To Finish: 0.02575
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.80901
+    Partially And Abandoned: 0.00643
+    Whole Thing: 0.03004
+    Never: 0.05579
+    None: 0.0
+    Partially And Intend To Finish: 0.00214
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.71673
+    Partially And Abandoned: 0.00643
+    Whole Thing: 0.07296
+    None: 0.0
+    Never: 0.11373
+    Partially And Intend To Finish: 0.00858
+    
+  StoriesRead2_9 Answers:
+    Never Heard Of It: 0.65665
+    Partially And Abandoned: 0.01502
+    Whole Thing: 0.10300
+    None: 0.0
+    Never: 0.14806
+    Partially And Intend To Finish: 0.00643
+    
+  
+Cluster 8:
+  Average Age: 24.79337
+
+  BirthSex Answers:
+    Male: 0.90062
+    Female: 0.09316
+    None: 0.0
+    
+  Gender Answers:
+    M (cisgender): 0.81055
+    F (cisgender): 0.08074
+    Other: 0.06521
+    M (transgender FtM): 0.00310
+    None: 0.0
+    F (transgender MtF): 0.03105
+    
+  Country Answers:
+    Canada: 0.08385
+    Russia: 0.04347
+    India: 0.00931
+    New Zealand: 0.00931
+    United States: 0.47204
+    United Kingdom: 0.05590
+    France: 0.01863
+    Other: 0.16149
+    Brazil: 0.01552
+    Australia: 0.05900
+    Germany: 0.04968
+    Finland: 0.00931
+    Israel: 0.01242
+    
+  Race Answers:
+    White (non-Hispanic): 0.83540
+    Middle Eastern: 0.00310
+    Asian (East Asian): 0.04968
+    Asian (Indian subcontinent): 0.01863
+    Other: 0.04968
+    Black: 0.01242
+    Hispanic: 0.02173
+    None: 0.0
+    
+  SexualOrientation Answers:
+    Bisexual: 0.13975
+    Other: 0.08695
+    Heterosexual: 0.68944
+    Homosexual: 0.06521
+    None: 0.0
+    
+  Asexuality Answers:
+    No: 0.88509
+    N/A: 0.03105
+    Yes: 0.08385
+    
+  RelationshipStyle Answers:
+    Uncertain/no preference: 0.32608
+    None: 0.0
+    Other: 0.01863
+    Prefer monogomous: 0.47826
+    Prefer polyamorous: 0.16459
+    
+  NumberPartners Answers:
+    Lots and lots: 0.00310
+    3: 0.00931
+    0: 0.58695
+    4: 0.00310
+    1: 0.35403
+    None: 0.0
+    2: 0.02795
+    
+  RelationshipGoals Answers:
+    ...and seeking more relationship partners: 0.27639
+    ...and possibly open to more relationship partners: 0.34472
+    ...and currently not looking for more relationship partners: 0.36335
+    None: 0.0
+    
+  Married Answers:
+    No: 0.86335
+    N/A: 0.01552
+    Yes: 0.12111
+    
+  LivingWith Answers:
+    With roommates: 0.24534
+    With partner and/or children: 0.22670
+    Other: 0.02173
+    None: 0.0
+    Alone: 0.20807
+    With parents and/or guardians: 0.27950
+    
+  Children Answers:
+    3: 0.00621
+    0: 0.90993
+    4: 0.00310
+    1: 0.04347
+    None: 0.0
+    2: 0.02795
+    
+  MoreChildren Answers:
+    No: 0.33850
+    Uncertain: 0.37267
+    Yes: 0.27950
+    None: 0.0
+    
+  WorkStatus_1 Answers:
+    No: 0.48136
+    Yes: 0.51863
+    
+  WorkStatus_2 Answers:
+    No: 0.91304
+    Yes: 0.08695
+    
+  WorkStatus_3 Answers:
+    No: 0.89751
+    Yes: 0.10248
+    
+  WorkStatus_4 Answers:
+    No: 0.99068
+    Yes: 0.00931
+    
+  WorkStatus_5 Answers:
+    No: 0.95962
+    Yes: 0.04037
+    
+  WorkStatus_6 Answers:
+    No: 0.63043
+    Yes: 0.36956
+    
+  WorkStatus_7 Answers:
+    No: 0.94099
+    Yes: 0.05900
+    
+  WorkStatus_8 Answers:
+    No: 0.99068
+    Yes: 0.00931
+    
+  WorkStatus_9 Answers:
+    No: 0.88198
+    Yes: 0.11801
+    
+  Profession Answers:
+    None: 0.0
+    Finance / Economics: 0.03416
+    Computers (AI): 0.04037
+    Medicine: 0.02173
+    Computers (practical_ IT, programming, etc.): 0.30434
+    Philosophy: 0.00931
+    Neuroscience: 0.01242
+    Art: 0.01863
+    Other: 0.09006
+    Physics: 0.04658
+    Engineering: 0.09627
+    Mathematics: 0.06521
+    Law: 0.01552
+    Computers (other academic, computer science): 0.11490
+    Business: 0.01552
+    Statistics: 0.02484
+    Psychology: 0.01242
+    Other "hard science": 0.00931
+    Other "social science": 0.01552
+    Biology: 0.02173
+    
+  EducationCredentials Answers:
+    Master's: 0.13354
+    Bachelor's: 0.35403
+    JD/MD/other professional degree: 0.02173
+    2 year degree: 0.05590
+    Other: 0.01242
+    None: 0.04968
+    Bachelors: 0.00310
+    None: 0.04968
+    PhD: 0.03726
+    High School: 0.31055
+    
+  Average IQ: 138.52631
+
+  Average IQAge: 44.08108
+
+  IQType Answers:
+    Mensa Poland admission test (Cattel scale): 0.00310
+    Mensa entrance test: 0.00310
+    One of the previous surveys tests: 0.00310
+    Wechler adult intelligence scale: 0.00310
+    Weschler something or other: 0.00310
+    Used z-score from statewide standardized testing to estimate IQ (consistently 99th percentile): 0.00310
+    Psychologist in Spain: 0.00310
+    Weschler at college: 0.00310
+    I have never taken (a professional) one.: 0.00310
+    WAIS (wechsler adult intelligence scale): 0.00310
+    None: 0.0
+    Mensa test.: 0.00310
+    Wechsler Adult Intelligence Scale administered at the behest of my mother: 0.00310
+    Two day one on one test with a psychologist: 0.00310
+    Weschler test for children, at school.: 0.00310
+    A standardized test which was required for admittance to boarding school for gifted children, don't know which specifically but probably Wechsler. Also the GSAT-M (German variant of the SAT, math only) at age 12 for a math talent search. : 0.00310
+    It was the Wechsler Adult Intelligence Scale administered at my school in the 8th grade: 0.00310
+    Wechsler given by a psychologist: 0.00310
+    Filthy internet tests: 0.00310
+    Mensa test during an annual gathering - I have taken it when I was 16 and 21, reaching similar results.: 0.00310
+    Mensa Entrance Test: 0.00310
+    Wechsler Adult  Intelligence Scale at a psychologist's office: 0.00310
+    IST 2001: 0.00310
+    
+  Average SAT: 1494.04761
+
+  Average SAT2: 2204.68181
+
+  Average ACT: 32.52083
+
+  PoliticsShort Answers:
+    Communist, for example the old Soviet Union_ complete state control of many facets of life: 0.00931
+    Social democratic, for example Scandinavian countries_ socially permissive, high taxes, major redistribution of wealth: 0.38509
+    Conservative, for example the US Republican Party and UK Tories_ traditional values, low taxes, low redistribution of wealth: 0.02795
+    None: 0.0
+    Liberal, for example the US Democratic  Party or the UK Labour Party_ socially permissive, more taxes, more redistribution of wealth: 0.28881
+    Libertarian, for example like the US Libertarian Party_ socially permissive, minimal/no taxes, minimal/no distribution of wealth: 0.21428
+    
+  ReligiousViews Answers:
+    Lukewarm theist: 0.02173
+    Agnostic: 0.08074
+    Atheist and not spiritual: 0.79192
+    Committed theist: 0.03416
+    Atheist but spiritual: 0.06211
+    Deist/Pantheist/etc.: 0.00931
+    
+  ReligionType Answers:
+    Christian (Mormon): 0.00621
+    Hindu: 0.00310
+    Christian (Catholic): 0.02173
+    Mixed/Other: 0.01242
+    Other: 0.03726
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.00310
+    Jewish: 0.01552
+    None: 0.0
+    Buddhist: 0.01242
+    Christian (Protestant): 0.02795
+    
+  FamilyReligion Answers:
+    Mixed / Other: 0.04347
+    Lukewarm theist: 0.31677
+    Agnostic: 0.11801
+    Atheist and not spiritual: 0.16459
+    Committed theist: 0.24844
+    Deist/Pantheist/etc: 0.01552
+    Other: 0.01863
+    Atheist but spiritual: 0.07142
+    None: 0.0
+    
+  ReligiousBackground Answers:
+    Unitarian Universalism or similar: 0.01863
+    Christian (Mormon): 0.01863
+    Hindu: 0.01242
+    Muslim: 0.01552
+    Christian (Catholic): 0.30745
+    Mixed/Other: 0.03726
+    Christian (Other non-Protestant, eg Eastern Orthodox): 0.10248
+    Other: 0.03726
+    Jewish: 0.08695
+    Buddhist: 0.01863
+    None: 0.0
+    Christian (Protestant): 0.29503
+    Traditional Chinese: 0.01863
+    
+  LessWrong Answers:
+    Sometimes: 0.39751
+    Rarely: 0.30124
+    None: 0.0
+    Never: 0.02795
+    Almost Never: 0.10248
+    Regular Reader: 0.14906
+    
+  SlateStarCodex Answers:
+    Sometimes: 0.19254
+    Rarely: 0.09316
+    Never Heard Of It: 0.09316
+    Never: 0.04968
+    None: 0.0
+    Almost Never: 0.04037
+    Regular Reader: 0.51552
+    
+  Overcoming Bias Answers:
+    Sometimes: 0.17080
+    Never Heard Of It: 0.06211
+    Rarely: 0.23602
+    Never: 0.18944
+    None: 0.0
+    Almost Never: 0.26397
+    Regular Reader: 0.04968
+    
+  Minding Our Way Answers:
+    Sometimes: 0.04658
+    Rarely: 0.04968
+    Never Heard Of It: 0.54968
+    Never: 0.16459
+    None: 0.0
+    Almost Never: 0.10248
+    Regular Reader: 0.04658
+    
+  Agenty Duck Answers:
+    Sometimes: 0.05590
+    Rarely: 0.06211
+    Never Heard Of It: 0.55900
+    Never: 0.17391
+    None: 0.0
+    Almost Never: 0.09627
+    Regular Reader: 0.01863
+    
+  Eliezer Yudkowsky's Facebook Page Answers:
+    Sometimes: 0.18633
+    Rarely: 0.16770
+    Never Heard Of It: 0.09627
+    Never: 0.16770
+    None: 0.0
+    Almost Never: 0.13043
+    Regular Reader: 0.23913
+    
+  Luke Muehlhauser Answers:
+    Sometimes: 0.03105
+    Never Heard Of It: 0.54658
+    Rarely: 0.06521
+    Never: 0.22049
+    None: 0.0
+    Almost Never: 0.10559
+    
+  Gwern.net Answers:
+    Sometimes: 0.11490
+    Never Heard Of It: 0.41304
+    Rarely: 0.14285
+    Never: 0.13354
+    None: 0.0
+    Almost Never: 0.13043
+    Regular Reader: 0.03726
+    
+  Siderea Answers:
+    Rarely: 0.00621
+    Never Heard Of It: 0.83540
+    None: 0.0
+    Never: 0.10248
+    Almost Never: 0.01863
+    Regular Reader: 0.00310
+    
+  Ribbon Farm Answers:
+    Sometimes: 0.03105
+    Never Heard Of It: 0.78571
+    Rarely: 0.01552
+    Never: 0.08074
+    None: 0.0
+    Almost Never: 0.03416
+    Regular Reader: 0.00931
+    
+  Bayesed And Confused Answers:
+    Never: 0.07142
+    Almost Never: 0.01552
+    None: 0.0
+    Never Heard Of It: 0.85714
+    Rarely: 0.01242
+    
+  The Unit Of Caring Answers:
+    Sometimes: 0.01552
+    Rarely: 0.01552
+    Never Heard Of It: 0.65838
+    Never: 0.15838
+    None: 0.0
+    Almost Never: 0.07763
+    Regular Reader: 0.02484
+    
+  Givewell Blog Answers:
+    Sometimes: 0.04968
+    Never Heard Of It: 0.37888
+    Rarely: 0.08074
+    Never: 0.27018
+    None: 0.0
+    Almost Never: 0.15527
+    Regular Reader: 0.00931
+    
+  Thing Of Things Answers:
+    Sometimes: 0.03726
+    Rarely: 0.03105
+    Never Heard Of It: 0.60869
+    Never: 0.12732
+    None: 0.0
+    Almost Never: 0.12111
+    Regular Reader: 0.02795
+    
+  The Last Psychiatrist Answers:
+    Sometimes: 0.01552
+    Never Heard Of It: 0.67080
+    Rarely: 0.02484
+    Never: 0.14906
+    None: 0.0
+    Almost Never: 0.07763
+    Regular Reader: 0.01863
+    
+  Hotel Concierge Answers:
+    None: 0.0
+    Almost Never: 0.00621
+    Never Heard Of It: 0.87267
+    Never: 0.06521
+    
+  The View From Hell Answers:
+    Sometimes: 0.00310
+    Rarely: 0.01242
+    Never Heard Of It: 0.82298
+    None: 0.0
+    Never: 0.09316
+    Almost Never: 0.02173
+    
+  Xenosystems Answers:
+    Sometimes: 0.00931
+    Rarely: 0.00310
+    Never Heard Of It: 0.74534
+    None: 0.0
+    Never: 0.14906
+    Almost Never: 0.04037
+    
+  Harry Potter And The Methods Of Rationality Answers:
+    Partially And Intend To Finish: 0.03416
+    Partially And Abandoned: 0.02173
+    Whole Thing: 0.93478
+    Never Heard Of It: 0.00310
+    Never: 0.00621
+    
+  Significant Digits Answers:
+    Never Heard Of It: 0.38198
+    Partially And Abandoned: 0.12422
+    Whole Thing: 0.11180
+    None: 0.0
+    Never: 0.25465
+    Partially And Intend To Finish: 0.12111
+    
+  Three Worlds Collide Answers:
+    Never Heard Of It: 0.04037
+    Partially And Abandoned: 0.01242
+    Whole Thing: 0.81677
+    None: 0.0
+    Never: 0.09627
+    Partially And Intend To Finish: 0.03105
+    
+  The Fable of the Dragon-Tyrant Answers:
+    Never Heard Of It: 0.34472
+    Partially And Abandoned: 0.01242
+    Whole Thing: 0.54037
+    None: 0.0
+    Never: 0.09006
+    Partially And Intend To Finish: 0.00931
+    
+  The World of Null-A Answers:
+    Never Heard Of It: 0.62111
+    Partially And Abandoned: 0.01863
+    Whole Thing: 0.02795
+    None: 0.0
+    Never: 0.31366
+    Partially And Intend To Finish: 0.00931
+    
+  Synthesis Answers:
+    None: 0.0
+    Partially And Intend To Finish: 0.00310
+    Whole Thing: 0.00310
+    Never Heard Of It: 0.83229
+    Never: 0.14906
+    
+  Worm Answers:
+    Partially And Intend To Finish: 0.14596
+    Partially And Abandoned: 0.13354
+    Whole Thing: 0.53416
+    Never Heard Of It: 0.04037
+    Never: 0.14596
+    
+  Pact Answers:
+    Never Heard Of It: 0.27018
+    Partially And Abandoned: 0.18633
+    Whole Thing: 0.15527
+    None: 0.0
+    Never: 0.31987
+    Partially And Intend To Finish: 0.06521
+    
+  Twig Answers:
+    Never Heard Of It: 0.29503
+    Partially And Abandoned: 0.07453
+    Whole Thing: 0.07142
+    None: 0.0
+    Never: 0.39440
+    Partially And Intend To Finish: 0.15838
+    
+  Ra Answers:
+    Never Heard Of It: 0.28260
+    Partially And Abandoned: 0.11490
+    Whole Thing: 0.26708
+    None: 0.0
+    Never: 0.22049
+    Partially And Intend To Finish: 0.11180
+    
+  My Little Pony_ Friendship Is Optimal Answers:
+    Partially And Intend To Finish: 0.01552
+    Partially And Abandoned: 0.04658
+    Whole Thing: 0.45652
+    Never Heard Of It: 0.14906
+    Never: 0.33229
+    
+  Friendship Is Optimal_ Caelum Est Conterrens Answers:
+    Never Heard Of It: 0.45652
+    Partially And Abandoned: 0.02173
+    Whole Thing: 0.22670
+    None: 0.0
+    Never: 0.27018
+    Partially And Intend To Finish: 0.02173
+    
+  Ender's Game Answers:
+    Partially And Intend To Finish: 0.02795
+    Partially And Abandoned: 0.02173
+    Whole Thing: 0.72981
+    Never Heard Of It: 0.02173
+    Never: 0.19875
+    
+  The Diamond Age Answers:
+    Never Heard Of It: 0.48447
+    Partially And Abandoned: 0.02484
+    Whole Thing: 0.07453
+    None: 0.0
+    Never: 0.40372
+    Partially And Intend To Finish: 0.00621
+    
+  Consider Phlebas Answers:
+    Never Heard Of It: 0.55590
+    Partially And Abandoned: 0.02795
+    Whole Thing: 0.07142
+    None: 0.0
+    Never: 0.31055
+    Partially And Intend To Finish: 0.02173
+    
+  The Metamorphosis Of Prime Intellect Answers:
+    Never Heard Of It: 0.65527
+    Partially And Abandoned: 0.01863
+    Whole Thing: 0.09006
+    None: 0.0
+    Never: 0.21118
+    Partially And Intend To Finish: 0.00621
+    
+  Accelerando Answers:
+    Never Heard Of It: 0.52795
+    Partially And Abandoned: 0.04658
+    Whole Thing: 0.05279
+    None: 0.0
+    Never: 0.33540
+    Partially And Intend To Finish: 0.02173
+    
+  StoriesRead2_9 Answers:
+    Never Heard Of It: 0.51863
+    Partially And Abandoned: 0.01863
+    Whole Thing: 0.09316
+    None: 0.0
+    Never: 0.35093
+    Partially And Intend To Finish: 0.01552
