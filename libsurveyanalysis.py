@@ -83,50 +83,28 @@ class SurveyStructure:
 
     def keys(self):
         """Return the keys in this SurveyStructure."""
-        keys = []
-        for group in self._groups:
-            keys += group[1]
-        return keys
+        return [key for group_name, group_keys in self._groups for key in group_keys]
 
-    def csv_keys(self):
-        """Return the keys that will be found in the CSV files."""
-        keys = []
+    def _some_keys(self, fmt):
         for group in self._groups:
             for key_base in group[1]:
                 question_data = self[key_base]
-                if question_data["sub_questions"]:
-                    if question_data["sub_questions"][0]["code"] == "other":
-                        keys.append(question_data["code"])
-                        for subquestion in question_data["sub_questions"]:
-                            keys.append(question_data["code"] + "[" 
-                                        + subquestion["code"] + "]")
-                    else:
-                        for subquestion in question_data["sub_questions"]:
-                            keys.append(question_data["code"] + "["
-                                        + subquestion["code"] + "]")
-                else:
-                    keys.append(question_data["code"])
+                other_question = (
+                    len(question_data["sub_questions"]) == 1 and 
+                    question_data["sub_questions"][0]["code"] == "other")
+                if not question_data["sub_questions"] or other_question:
+                    yield question_data["code"]
+                for subquestion in question_data["sub_questions"]:
+                    yield fmt % (question_data["code"], subquestion["code"])
         return keys
 
     def sql_keys(self):
         """Return the keys that will be found in the sqlite files."""
-        keys = []
-        for group in self._groups:
-            for key_base in group[1]:
-                question_data = self[key_base]
-                if question_data["sub_questions"]:
-                    if question_data["sub_questions"][0]["code"] == "other":
-                        keys.append(question_data["code"])
-                        for subquestion in question_data["sub_questions"]:
-                            keys.append(question_data["code"] + "_" 
-                                        + subquestion["code"])
-                    else:
-                        for subquestion in question_data["sub_questions"]:
-                            keys.append(question_data["code"] + "_"
-                                        + subquestion["code"])
-                else:
-                    keys.append(question_data["code"])
-        return keys
+        return list(self._some_keys(fmt='%s_%s'))
+
+    def csv_keys(self):
+        """Return the keys that will be found in the CSV files."""
+        return list(self._some_keys(fmt='%s[%s]'))
 
     def groups(self):
         """Return the groups in this SurveyStructure."""

@@ -1,0 +1,3262 @@
+[
+  {
+    "code": "GeneralPrivacy",
+    "csv_key": "GeneralPrivacy",
+    "dtype": "Y",
+    "group": "Privacy",
+    "key": "GeneralPrivacy",
+    "label": "Can we include your survey data in a public dataset?",
+    "sql_key": "GeneralPrivacy"
+  },
+  {
+    "code": "ResearchConsent",
+    "csv_key": "ResearchConsent",
+    "dtype": "Y",
+    "group": "Privacy",
+    "key": "ResearchConsent",
+    "label": "Do you consent to having your survey responses being used as part of a research paper?",
+    "sql_key": "ResearchConsent"
+  },
+  {
+    "code": "Age",
+    "csv_key": "Age",
+    "dtype": "N",
+    "group": "Demographic Information",
+    "key": "Age",
+    "label": "Age",
+    "sql_key": "Age"
+  },
+  {
+    "code": "BirthSex",
+    "csv_key": "BirthSex",
+    "dtype": "L",
+    "group": "Demographic Information",
+    "key": "BirthSex",
+    "label": "Sex - What sex were you assigned at birth?",
+    "sql_key": "BirthSex"
+  },
+  {
+    "code": "other",
+    "csv_key": "BirthSex[other]",
+    "dtype": "0",
+    "group": "Demographic Information",
+    "key": "BirthSex",
+    "label": "Other",
+    "sql_key": "BirthSex_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Gender",
+    "csv_key": "Gender",
+    "dtype": "L",
+    "group": "Demographic Information",
+    "key": "Gender",
+    "label": "Gender - With what gender do you primarily identify?",
+    "sql_key": "Gender"
+  },
+  {
+    "code": "other",
+    "csv_key": "Gender[other]",
+    "dtype": "0",
+    "group": "Demographic Information",
+    "key": "Gender",
+    "label": "Other",
+    "sql_key": "Gender_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Country",
+    "csv_key": "Country",
+    "dtype": "L",
+    "group": "Demographic Information",
+    "key": "Country",
+    "label": "Country - If multiple possible answers, please choose the one you most identify with. Twelve popular answers are given below; otherwise please write your country into \"Other\" in the same format as the answers given",
+    "sql_key": "Country"
+  },
+  {
+    "code": "other",
+    "csv_key": "Country[other]",
+    "dtype": "0",
+    "group": "Demographic Information",
+    "key": "Country",
+    "label": "Other",
+    "sql_key": "Country_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Race",
+    "csv_key": "Race",
+    "dtype": "L",
+    "group": "Demographic Information",
+    "key": "Race",
+    "label": "Race - With what race do you most identify? \"Hispanic\" is a term mostly used in the US referring to people whose ethnic background is from Mexico, Central  America, and South America.",
+    "sql_key": "Race"
+  },
+  {
+    "code": "other",
+    "csv_key": "Race[other]",
+    "dtype": "0",
+    "group": "Demographic Information",
+    "key": "Race",
+    "label": "Other",
+    "sql_key": "Race_other",
+    "unknown": "1"
+  },
+  {
+    "code": "SexualOrientation",
+    "csv_key": "SexualOrientation",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "SexualOrientation",
+    "label": "What is your sexual orientation?",
+    "sql_key": "SexualOrientation"
+  },
+  {
+    "code": "other",
+    "csv_key": "SexualOrientation[other]",
+    "dtype": "0",
+    "group": "Sex, Relationships",
+    "key": "SexualOrientation",
+    "label": "Other",
+    "sql_key": "SexualOrientation_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Asexuality",
+    "csv_key": "Asexuality",
+    "dtype": "Y",
+    "group": "Sex, Relationships",
+    "key": "Asexuality",
+    "label": "Are you asexual?",
+    "sql_key": "Asexuality"
+  },
+  {
+    "code": "RelationshipStyle",
+    "csv_key": "RelationshipStyle",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "RelationshipStyle",
+    "label": "What is your preferred relationship style?",
+    "sql_key": "RelationshipStyle"
+  },
+  {
+    "code": "other",
+    "csv_key": "RelationshipStyle[other]",
+    "dtype": "0",
+    "group": "Sex, Relationships",
+    "key": "RelationshipStyle",
+    "label": "Other",
+    "sql_key": "RelationshipStyle_other",
+    "unknown": "1"
+  },
+  {
+    "code": "NumberPartners",
+    "csv_key": "NumberPartners",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "NumberPartners",
+    "label": "Number of Partners",
+    "sql_key": "NumberPartners"
+  },
+  {
+    "code": "RelationshipGoals",
+    "csv_key": "RelationshipGoals",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "RelationshipGoals",
+    "label": "Relationship Goals",
+    "sql_key": "RelationshipGoals"
+  },
+  {
+    "code": "Married",
+    "csv_key": "Married",
+    "dtype": "Y",
+    "group": "Sex, Relationships",
+    "key": "Married",
+    "label": "Are you married?",
+    "sql_key": "Married"
+  },
+  {
+    "code": "LivingWith",
+    "csv_key": "LivingWith",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "LivingWith",
+    "label": "Who do you currently live with most of the time?<br />  ",
+    "sql_key": "LivingWith"
+  },
+  {
+    "code": "other",
+    "csv_key": "LivingWith[other]",
+    "dtype": "0",
+    "group": "Sex, Relationships",
+    "key": "LivingWith",
+    "label": "Other",
+    "sql_key": "LivingWith_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Children",
+    "csv_key": "Children",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "Children",
+    "label": "How many children do you have?",
+    "sql_key": "Children"
+  },
+  {
+    "code": "MoreChildren",
+    "csv_key": "MoreChildren",
+    "dtype": "L",
+    "group": "Sex, Relationships",
+    "key": "MoreChildren",
+    "label": "Are you planning on having more children?",
+    "sql_key": "MoreChildren"
+  },
+  {
+    "code": "1",
+    "csv_key": "WorkStatus[1]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Student",
+    "sql_key": "WorkStatus_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "WorkStatus[2]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Academics (on the teaching side)",
+    "sql_key": "WorkStatus_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "WorkStatus[3]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Self-employed",
+    "sql_key": "WorkStatus_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "WorkStatus[4]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Independently wealthy",
+    "sql_key": "WorkStatus_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "WorkStatus[5]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Non-profit work",
+    "sql_key": "WorkStatus_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "WorkStatus[6]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "For-profit work",
+    "sql_key": "WorkStatus_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "WorkStatus[7]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Government work",
+    "sql_key": "WorkStatus_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "WorkStatus[8]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Homemaker",
+    "sql_key": "WorkStatus_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "WorkStatus[9]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "label": "Unemployed ",
+    "sql_key": "WorkStatus_9",
+    "unknown": "1"
+  },
+  {
+    "code": "Profession",
+    "csv_key": "Profession",
+    "dtype": "L",
+    "group": "Employment, Occupation, Education",
+    "key": "Profession",
+    "label": "In what area do you currently work or study?",
+    "sql_key": "Profession"
+  },
+  {
+    "code": "other",
+    "csv_key": "Profession[other]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "Profession",
+    "label": "Other",
+    "sql_key": "Profession_other",
+    "unknown": "1"
+  },
+  {
+    "code": "EducationCredentials",
+    "csv_key": "EducationCredentials",
+    "dtype": "L",
+    "group": "Employment, Occupation, Education",
+    "key": "EducationCredentials",
+    "label": "What is your highest education credential earned?",
+    "sql_key": "EducationCredentials"
+  },
+  {
+    "code": "other",
+    "csv_key": "EducationCredentials[other]",
+    "dtype": "0",
+    "group": "Employment, Occupation, Education",
+    "key": "EducationCredentials",
+    "label": "Other",
+    "sql_key": "EducationCredentials_other",
+    "unknown": "1"
+  },
+  {
+    "code": "IQ",
+    "csv_key": "IQ",
+    "dtype": "N",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "IQ",
+    "label": "IQ - Please give the score you got on your <strong>most recent PROFESSIONAL, SCIENTIFIC IQ test - no Internet tests, please!</strong> All tests should have the standard average of  100 and stdev of 15.",
+    "sql_key": "IQ"
+  },
+  {
+    "code": "IQAge",
+    "csv_key": "IQAge",
+    "dtype": "N",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "IQAge",
+    "label": "IQ Age - At what age, in years, did you take the IQ test above?",
+    "sql_key": "IQAge"
+  },
+  {
+    "code": "IQType",
+    "csv_key": "IQType",
+    "dtype": "S",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "IQType",
+    "label": "IQ Type - Please give a short  description of the IQ test you took, for example \"It was Wechsler Adult  Intelligence Scale administered at my school\". If you don't remember or  don't know how to describe the test, leave this blank.",
+    "sql_key": "IQType"
+  },
+  {
+    "code": "SAT",
+    "csv_key": "SAT",
+    "dtype": "N",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "SAT",
+    "label": "SAT scores out of 1600 - American students take the SATs before going to college. In olden days, the test was scored out of 1600. if you have an SAT score out of 1600, please put it here; otherwise leave blank.",
+    "sql_key": "SAT"
+  },
+  {
+    "code": "SAT2",
+    "csv_key": "SAT2",
+    "dtype": "N",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "SAT2",
+    "label": "SAT scores out of 2400 - American students take the SATs before going to college. Nowadays, the test is scored out of 2400. If you have an SAT score out of 2400, please put it here; otherwise leave blank.",
+    "sql_key": "SAT2"
+  },
+  {
+    "code": "ACT",
+    "csv_key": "ACT",
+    "dtype": "N",
+    "group": "IQ And Other Numbers That Purport To Measure Your Intelligence (Bonus Section)",
+    "key": "ACT",
+    "label": "ACT score out of 36 - Some American students take the ACTs before going to college. If you have an ACT score out of 36, please put it here; otherwise leave blank.",
+    "sql_key": "ACT"
+  },
+  {
+    "code": "PoliticsShort",
+    "csv_key": "PoliticsShort",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "PoliticsShort",
+    "label": "Given that no label can completely describe a person's political views, with which of these labels do you MOST identify?",
+    "sql_key": "PoliticsShort"
+  },
+  {
+    "code": "ReligiousViews",
+    "csv_key": "ReligiousViews",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligiousViews",
+    "label": "How would you describe your religious views?",
+    "sql_key": "ReligiousViews"
+  },
+  {
+    "code": "ReligionType",
+    "csv_key": "ReligionType",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligionType",
+    "label": "Which best describes the religion you believe?",
+    "sql_key": "ReligionType"
+  },
+  {
+    "code": "other",
+    "csv_key": "ReligionType[other]",
+    "dtype": "0",
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligionType",
+    "label": "Other",
+    "sql_key": "ReligionType_other",
+    "unknown": "1"
+  },
+  {
+    "code": "FamilyReligion",
+    "csv_key": "FamilyReligion",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "FamilyReligion",
+    "label": "How would you describe the religious views of your family when you were growing up?",
+    "sql_key": "FamilyReligion"
+  },
+  {
+    "code": "other",
+    "csv_key": "FamilyReligion[other]",
+    "dtype": "0",
+    "group": "Politics, Religion, Ethics",
+    "key": "FamilyReligion",
+    "label": "Other",
+    "sql_key": "FamilyReligion_other",
+    "unknown": "1"
+  },
+  {
+    "code": "ReligiousBackground",
+    "csv_key": "ReligiousBackground",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligiousBackground",
+    "label": "What is your family's religious background, as of the last time your family practiced a religion?",
+    "sql_key": "ReligiousBackground"
+  },
+  {
+    "code": "other",
+    "csv_key": "ReligiousBackground[other]",
+    "dtype": "0",
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligiousBackground",
+    "label": "Other",
+    "sql_key": "ReligiousBackground_other",
+    "unknown": "1"
+  },
+  {
+    "code": "MetaEthics",
+    "csv_key": "MetaEthics",
+    "dtype": "L",
+    "group": "Politics, Religion, Ethics",
+    "key": "MetaEthics",
+    "label": "With which of these meta-ethical views do you MOST identify? (Bonus Question)",
+    "sql_key": "MetaEthics"
+  },
+  {
+    "code": "ReferredBy",
+    "csv_key": "ReferredBy",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "ReferredBy",
+    "label": "How Did You Find LessWrong?",
+    "sql_key": "ReferredBy"
+  },
+  {
+    "code": "other",
+    "csv_key": "ReferredBy[other]",
+    "dtype": "0",
+    "group": "Experience With LessWrong",
+    "key": "ReferredBy",
+    "label": "Other",
+    "sql_key": "ReferredBy_other",
+    "unknown": "1"
+  },
+  {
+    "code": "LessWrongUse",
+    "csv_key": "LessWrongUse",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "LessWrongUse",
+    "label": "How do you use Less Wrong?",
+    "sql_key": "LessWrongUse"
+  },
+  {
+    "code": "LWUseFrequency",
+    "csv_key": "LWUseFrequency",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "LWUseFrequency",
+    "label": "How often do you comment on LessWrong?",
+    "sql_key": "LWUseFrequency"
+  },
+  {
+    "code": "LWLastPosted",
+    "csv_key": "LWLastPosted",
+    "dtype": "!",
+    "group": "Experience With LessWrong",
+    "key": "LWLastPosted",
+    "label": "How Long Since You Last Posted On LessWrong?",
+    "sql_key": "LWLastPosted"
+  },
+  {
+    "code": "Sequences",
+    "csv_key": "Sequences",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "Sequences",
+    "label": " About how much of  the Sequences - the collection of Eliezer Yudkowsky's original posts -  have you read? You can find a list of them <a href=\"http://wiki.lesswrong.com/wiki/Sequences\">here</a>.",
+    "sql_key": "Sequences"
+  },
+  {
+    "code": "Meetups",
+    "csv_key": "Meetups",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "Meetups",
+    "label": "Do you attend Less Wrong meetups?",
+    "sql_key": "Meetups"
+  },
+  {
+    "code": "Community",
+    "csv_key": "Community",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "Community",
+    "label": "Is physical interaction with the Less Wrong community otherwise a part of your everyday life, for example do you live with other Less Wrongers, or you are close friends and frequently go out with them?",
+    "sql_key": "Community"
+  },
+  {
+    "code": "Romance",
+    "csv_key": "Romance",
+    "dtype": "L",
+    "group": "Experience With LessWrong",
+    "key": "Romance",
+    "label": "Have you ever been in a romantic relationship with someone you met through the Less Wrong community?",
+    "sql_key": "Romance"
+  },
+  {
+    "code": "RokoKnowledge",
+    "csv_key": "RokoKnowledge",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "RokoKnowledge",
+    "label": "Do you know what Roko's Basilisk thought experiment is?",
+    "sql_key": "RokoKnowledge"
+  },
+  {
+    "code": "RokoKnowledgeSource",
+    "csv_key": "RokoKnowledgeSource",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "RokoKnowledgeSource",
+    "label": "Where did you read Roko's argument for the Basilisk?",
+    "sql_key": "RokoKnowledgeSource"
+  },
+  {
+    "code": "other",
+    "csv_key": "RokoKnowledgeSource[other]",
+    "dtype": "0",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "RokoKnowledgeSource",
+    "label": "Other",
+    "sql_key": "RokoKnowledgeSource_other",
+    "unknown": "1"
+  },
+  {
+    "code": "BasiliskCorrectness",
+    "csv_key": "BasiliskCorrectness",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "BasiliskCorrectness",
+    "label": "<span class=\"author-g-dq57u6qs43jx4u9x\">Do you think Roko's argument for the Basilisk is correct?</span>",
+    "sql_key": "BasiliskCorrectness"
+  },
+  {
+    "code": "BasiliskDanger",
+    "csv_key": "BasiliskDanger",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "BasiliskDanger",
+    "label": "Do you think Basilisk-like thought experiments are dangerous?",
+    "sql_key": "BasiliskDanger"
+  },
+  {
+    "code": "BasiliskAnxiety",
+    "csv_key": "BasiliskAnxiety",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "BasiliskAnxiety",
+    "label": "Have you ever felt any sort of anxiety about the Basilisk?",
+    "sql_key": "BasiliskAnxiety"
+  },
+  {
+    "code": "BAnxietyDegree",
+    "csv_key": "BAnxietyDegree",
+    "dtype": "!",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "BAnxietyDegree",
+    "label": "What is the longest span of time you've spent worrying about the Basilisk?",
+    "sql_key": "BAnxietyDegree"
+  },
+  {
+    "code": "BasiliskAnxietyNow",
+    "csv_key": "BasiliskAnxietyNow",
+    "dtype": "L",
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "BasiliskAnxietyNow",
+    "label": "Are you <em>currently</em> worrying about the Basilisk?",
+    "sql_key": "BasiliskAnxietyNow"
+  },
+  {
+    "code": "Depression",
+    "csv_key": "Depression",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "Depression",
+    "label": "Have you ever been diagnosed with depression?",
+    "sql_key": "Depression"
+  },
+  {
+    "code": "OCD",
+    "csv_key": "OCD",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "OCD",
+    "label": "Have you ever been diagnosed with obsessive compulsive disorder?",
+    "sql_key": "OCD"
+  },
+  {
+    "code": "ASD",
+    "csv_key": "ASD",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "ASD",
+    "label": "Have you ever been diagnosed with any autism spectrum disorder?",
+    "sql_key": "ASD"
+  },
+  {
+    "code": "ADHD",
+    "csv_key": "ADHD",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "ADHD",
+    "label": "Have you ever been diagnosed with any variant of attention deficit disorder?",
+    "sql_key": "ADHD"
+  },
+  {
+    "code": "BipolarDisorder",
+    "csv_key": "BipolarDisorder",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "BipolarDisorder",
+    "label": "Have you ever been diagnosed with bipolar disorder?",
+    "sql_key": "BipolarDisorder"
+  },
+  {
+    "code": "AnxietyDisorder",
+    "csv_key": "AnxietyDisorder",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "AnxietyDisorder",
+    "label": "Have you ever been  diagnosed with any anxiety disorder, eg panic disorder, generalized  anxiety disorder, social anxiety disorder?",
+    "sql_key": "AnxietyDisorder"
+  },
+  {
+    "code": "BPD",
+    "csv_key": "BPD",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "BPD",
+    "label": "Have you ever been diagnosed with borderline personality disorder?",
+    "sql_key": "BPD"
+  },
+  {
+    "code": "Schizophrenia",
+    "csv_key": "Schizophrenia",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "Schizophrenia",
+    "label": "Have you ever been diagnosed with schizophrenia?",
+    "sql_key": "Schizophrenia"
+  },
+  {
+    "code": "SubstanceUseDisorder",
+    "csv_key": "SubstanceUseDisorder",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "SubstanceUseDisorder",
+    "label": "Have you ever been diagnosed with substance use disorder?",
+    "sql_key": "SubstanceUseDisorder"
+  },
+  {
+    "code": "SubstanceUseWonder",
+    "csv_key": "SubstanceUseWonder",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "SubstanceUseWonder",
+    "label": "Have you ever wondered whether you might have a substance abuse problem?",
+    "sql_key": "SubstanceUseWonder"
+  },
+  {
+    "code": "SubstanceUseWorry",
+    "csv_key": "SubstanceUseWorry",
+    "dtype": "L",
+    "group": "Mental Health (Bonus Section)",
+    "key": "SubstanceUseWorry",
+    "label": "Have your friends and family ever expressed concern that you are abusing substances?",
+    "sql_key": "SubstanceUseWorry"
+  },
+  {
+    "code": "1",
+    "csv_key": "PeakPhilosophyIssues[1]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Over Reliance On The Sequences.",
+    "sql_key": "PeakPhilosophyIssues_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "PeakPhilosophyIssues[2]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Focus On AI.",
+    "sql_key": "PeakPhilosophyIssues_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "PeakPhilosophyIssues[3]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Focus On Cryonics.",
+    "sql_key": "PeakPhilosophyIssues_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "PeakPhilosophyIssues[4]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Criticism Of The Scientific Method.",
+    "sql_key": "PeakPhilosophyIssues_4",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "PeakPhilosophyIssues[6]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Too Much Jargon.",
+    "sql_key": "PeakPhilosophyIssues_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "PeakPhilosophyIssues[7]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "Too Focused On Abstract Junk.",
+    "sql_key": "PeakPhilosophyIssues_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "PeakPhilosophyIssues[8]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "I Wasn't Around For Its Peak. ",
+    "sql_key": "PeakPhilosophyIssues_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "PeakPhilosophyIssues[9]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "[Write in below]",
+    "sql_key": "PeakPhilosophyIssues_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "PeakPhilosophyIssues[10]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "label": "[Write in below]",
+    "sql_key": "PeakPhilosophyIssues_10",
+    "unknown": "1"
+  },
+  {
+    "code": "PeakPhilWriteInOne",
+    "csv_key": "PeakPhilWriteInOne",
+    "dtype": "S",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilWriteInOne",
+    "label": "Write in one:",
+    "sql_key": "PeakPhilWriteInOne"
+  },
+  {
+    "code": "PeakPhilWriteInTwo",
+    "csv_key": "PeakPhilWriteInTwo",
+    "dtype": "S",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilWriteInTwo",
+    "label": "Write in two:",
+    "sql_key": "PeakPhilWriteInTwo"
+  },
+  {
+    "code": "1",
+    "csv_key": "PeakCommunityIssues[1]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Not Enough In Person Interaction.",
+    "sql_key": "PeakCommunityIssues_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "PeakCommunityIssues[2]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Overly High Standards For Content Submission.",
+    "sql_key": "PeakCommunityIssues_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "PeakCommunityIssues[3]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Failure to cite sources.",
+    "sql_key": "PeakCommunityIssues_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "PeakCommunityIssues[4]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Can't Find Things Quickly Enough To Maintain Interest.",
+    "sql_key": "PeakCommunityIssues_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "PeakCommunityIssues[5]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Lame Forum Software.",
+    "sql_key": "PeakCommunityIssues_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "PeakCommunityIssues[6]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Autistic.",
+    "sql_key": "PeakCommunityIssues_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "PeakCommunityIssues[7]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Tolerant Of Trolls/Cranks.",
+    "sql_key": "PeakCommunityIssues_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "PeakCommunityIssues[8]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Tolerant Of Laziness.",
+    "sql_key": "PeakCommunityIssues_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "PeakCommunityIssues[9]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Tolerant Of Creepy People.",
+    "sql_key": "PeakCommunityIssues_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "PeakCommunityIssues[10]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Tolerant Of Neoreaction.",
+    "sql_key": "PeakCommunityIssues_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "PeakCommunityIssues[11]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Too Tolerant Of Progressivism.",
+    "sql_key": "PeakCommunityIssues_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "PeakCommunityIssues[12]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "Literally A Cult. ",
+    "sql_key": "PeakCommunityIssues_12",
+    "unknown": "1"
+  },
+  {
+    "code": "13",
+    "csv_key": "PeakCommunityIssues[13]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "I Wasn't Around For Its Peak. ",
+    "sql_key": "PeakCommunityIssues_13",
+    "unknown": "1"
+  },
+  {
+    "code": "14",
+    "csv_key": "PeakCommunityIssues[14]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "[Write in below]",
+    "sql_key": "PeakCommunityIssues_14",
+    "unknown": "1"
+  },
+  {
+    "code": "15",
+    "csv_key": "PeakCommunityIssues[15]",
+    "dtype": "0",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "label": "[Write in below]",
+    "sql_key": "PeakCommunityIssues_15",
+    "unknown": "1"
+  },
+  {
+    "code": "PeakCommWriteInOne",
+    "csv_key": "PeakCommWriteInOne",
+    "dtype": "S",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommWriteInOne",
+    "label": "Write in one:",
+    "sql_key": "PeakCommWriteInOne"
+  },
+  {
+    "code": "PeakCommWriteInTwo",
+    "csv_key": "PeakCommWriteInTwo",
+    "dtype": "S",
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommWriteInTwo",
+    "label": "Write in two:",
+    "sql_key": "PeakCommWriteInTwo"
+  },
+  {
+    "code": "1",
+    "csv_key": "PhilosophyIssuesNow[1]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Over Reliance On The Sequences.",
+    "sql_key": "PhilosophyIssuesNow_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "PhilosophyIssuesNow[2]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Focus On AI.",
+    "sql_key": "PhilosophyIssuesNow_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "PhilosophyIssuesNow[3]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Focus On Cryonics.",
+    "sql_key": "PhilosophyIssuesNow_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "PhilosophyIssuesNow[4]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Criticism Of The Scientific Method.",
+    "sql_key": "PhilosophyIssuesNow_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "PhilosophyIssuesNow[5]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Too Much Jargon.",
+    "sql_key": "PhilosophyIssuesNow_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "PhilosophyIssuesNow[6]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "Too Focused On Abstract Junk.",
+    "sql_key": "PhilosophyIssuesNow_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "PhilosophyIssuesNow[7]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "[Write in below]",
+    "sql_key": "PhilosophyIssuesNow_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "PhilosophyIssuesNow[8]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "label": "[Write in below]",
+    "sql_key": "PhilosophyIssuesNow_8",
+    "unknown": "1"
+  },
+  {
+    "code": "NowPhilWriteInOne",
+    "csv_key": "NowPhilWriteInOne",
+    "dtype": "S",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "NowPhilWriteInOne",
+    "label": "Write in one:",
+    "sql_key": "NowPhilWriteInOne"
+  },
+  {
+    "code": "NowPhilWriteInTwo",
+    "csv_key": "NowPhilWriteInTwo",
+    "dtype": "S",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "NowPhilWriteInTwo",
+    "label": "Write in two:",
+    "sql_key": "NowPhilWriteInTwo"
+  },
+  {
+    "code": "1",
+    "csv_key": "CommunityIssuesNow[1]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "No New Content",
+    "sql_key": "CommunityIssuesNow_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "CommunityIssuesNow[2]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "No New *Good* Content",
+    "sql_key": "CommunityIssuesNow_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "CommunityIssuesNow[3]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Can't Find Things Quickly Enough To Maintain Interest",
+    "sql_key": "CommunityIssuesNow_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "CommunityIssuesNow[4]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Lame Forum Software",
+    "sql_key": "CommunityIssuesNow_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "CommunityIssuesNow[5]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Decline from new people coming in who don't understand the culture",
+    "sql_key": "CommunityIssuesNow_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "CommunityIssuesNow[6]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Decline from evaporative cooling (http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)",
+    "sql_key": "CommunityIssuesNow_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "CommunityIssuesNow[7]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Decline from dunning kruger where competent refrain from posting what they feel to be sub par content (and by extension, posting content at all) but incompetent don't ",
+    "sql_key": "CommunityIssuesNow_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "CommunityIssuesNow[8]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Not Enough In Person Interaction",
+    "sql_key": "CommunityIssuesNow_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "CommunityIssuesNow[9]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Overly High Standards For Content Submission",
+    "sql_key": "CommunityIssuesNow_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "CommunityIssuesNow[10]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Failure to cite sources",
+    "sql_key": "CommunityIssuesNow_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "CommunityIssuesNow[11]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Autistic",
+    "sql_key": "CommunityIssuesNow_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "CommunityIssuesNow[12]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Tolerant Of Trolls/Cranks",
+    "sql_key": "CommunityIssuesNow_12",
+    "unknown": "1"
+  },
+  {
+    "code": "13",
+    "csv_key": "CommunityIssuesNow[13]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Tolerant Of Laziness",
+    "sql_key": "CommunityIssuesNow_13",
+    "unknown": "1"
+  },
+  {
+    "code": "14",
+    "csv_key": "CommunityIssuesNow[14]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Tolerant Of Creepy People",
+    "sql_key": "CommunityIssuesNow_14",
+    "unknown": "1"
+  },
+  {
+    "code": "15",
+    "csv_key": "CommunityIssuesNow[15]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Tolerant Of Neoreaction",
+    "sql_key": "CommunityIssuesNow_15",
+    "unknown": "1"
+  },
+  {
+    "code": "16",
+    "csv_key": "CommunityIssuesNow[16]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Too Tolerant Of Progressivism",
+    "sql_key": "CommunityIssuesNow_16",
+    "unknown": "1"
+  },
+  {
+    "code": "17",
+    "csv_key": "CommunityIssuesNow[17]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "Literally A Cult ",
+    "sql_key": "CommunityIssuesNow_17",
+    "unknown": "1"
+  },
+  {
+    "code": "18",
+    "csv_key": "CommunityIssuesNow[18]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "[Write in below]",
+    "sql_key": "CommunityIssuesNow_18",
+    "unknown": "1"
+  },
+  {
+    "code": "19",
+    "csv_key": "CommunityIssuesNow[19]",
+    "dtype": "0",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "label": "[Write in below]",
+    "sql_key": "CommunityIssuesNow_19",
+    "unknown": "1"
+  },
+  {
+    "code": "NowCIssueWriteInOne",
+    "csv_key": "NowCIssueWriteInOne",
+    "dtype": "S",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "NowCIssueWriteInOne",
+    "label": "Write in one:",
+    "sql_key": "NowCIssueWriteInOne"
+  },
+  {
+    "code": "NowCIssueWriteInTwo",
+    "csv_key": "NowCIssueWriteInTwo",
+    "dtype": "S",
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "NowCIssueWriteInTwo",
+    "label": "Write in two:",
+    "sql_key": "NowCIssueWriteInTwo"
+  },
+  {
+    "code": "1",
+    "csv_key": "SuccessorPhilosophy[1]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "Attention Paid To Outside Sources",
+    "sql_key": "SuccessorPhilosophy_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "SuccessorPhilosophy[2]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "Self Improvement Focus",
+    "sql_key": "SuccessorPhilosophy_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "SuccessorPhilosophy[3]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "AI Focus",
+    "sql_key": "SuccessorPhilosophy_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "SuccessorPhilosophy[4]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "Political",
+    "sql_key": "SuccessorPhilosophy_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "SuccessorPhilosophy[5]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "Academic/Formal",
+    "sql_key": "SuccessorPhilosophy_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "SuccessorPhilosophy[6]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorPhilosophy_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "SuccessorPhilosophy[7]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorPhilosophy_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "SuccessorPhilosophy[8]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorPhilosophy_8",
+    "unknown": "1"
+  },
+  {
+    "code": "PhilosophyWriteIn1",
+    "csv_key": "PhilosophyWriteIn1",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "PhilosophyWriteIn1",
+    "label": "Write in one:",
+    "sql_key": "PhilosophyWriteIn1"
+  },
+  {
+    "code": "PhilosophyWriteIn2",
+    "csv_key": "PhilosophyWriteIn2",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "PhilosophyWriteIn2",
+    "label": "Write in two:",
+    "sql_key": "PhilosophyWriteIn2"
+  },
+  {
+    "code": "PhilosophyWriteIn3",
+    "csv_key": "PhilosophyWriteIn3",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "PhilosophyWriteIn3",
+    "label": "Write in three:",
+    "sql_key": "PhilosophyWriteIn3"
+  },
+  {
+    "code": "1",
+    "csv_key": "SuccessorCommunity[1]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "Intense Environment",
+    "sql_key": "SuccessorCommunity_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "SuccessorCommunity[2]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "Focused On 'Real World' Action",
+    "sql_key": "SuccessorCommunity_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "SuccessorCommunity[3]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "Experts",
+    "sql_key": "SuccessorCommunity_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "SuccessorCommunity[4]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "Data Driven/Testing Of Ideas",
+    "sql_key": "SuccessorCommunity_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "SuccessorCommunity[5]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "Social",
+    "sql_key": "SuccessorCommunity_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "SuccessorCommunity[6]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorCommunity_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "SuccessorCommunity[7]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorCommunity_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "SuccessorCommunity[8]",
+    "dtype": "0",
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "label": "[Write in your own]",
+    "sql_key": "SuccessorCommunity_8",
+    "unknown": "1"
+  },
+  {
+    "code": "CommunityWriteIn1",
+    "csv_key": "CommunityWriteIn1",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "CommunityWriteIn1",
+    "label": "Write in one:",
+    "sql_key": "CommunityWriteIn1"
+  },
+  {
+    "code": "CommunityWriteIn2",
+    "csv_key": "CommunityWriteIn2",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "CommunityWriteIn2",
+    "label": "Write in two:",
+    "sql_key": "CommunityWriteIn2"
+  },
+  {
+    "code": "CommunityWriteIn3",
+    "csv_key": "CommunityWriteIn3",
+    "dtype": "S",
+    "group": "What would you want from a successor?",
+    "key": "CommunityWriteIn3",
+    "label": "Write in three:",
+    "sql_key": "CommunityWriteIn3"
+  },
+  {
+    "code": "1",
+    "csv_key": "ActiveMemberships[1]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "LessWrong",
+    "sql_key": "ActiveMemberships_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "ActiveMemberships[2]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "LessWrong Meetups",
+    "sql_key": "ActiveMemberships_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "ActiveMemberships[3]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "LessWrong Facebook Group",
+    "sql_key": "ActiveMemberships_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "ActiveMemberships[4]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "LessWrong Slack",
+    "sql_key": "ActiveMemberships_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "ActiveMemberships[5]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "SlateStarCodex",
+    "sql_key": "ActiveMemberships_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "ActiveMemberships[6]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Rationalist Tumblr",
+    "sql_key": "ActiveMemberships_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "ActiveMemberships[7]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Rationalist Facebook",
+    "sql_key": "ActiveMemberships_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "ActiveMemberships[8]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Rationalist Twitter",
+    "sql_key": "ActiveMemberships_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "ActiveMemberships[9]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Effective Altruism Hub",
+    "sql_key": "ActiveMemberships_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "ActiveMemberships[10]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "FortForecast",
+    "sql_key": "ActiveMemberships_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "ActiveMemberships[11]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Good Judgement(TM) Open",
+    "sql_key": "ActiveMemberships_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "ActiveMemberships[12]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "PredictionBook",
+    "sql_key": "ActiveMemberships_12",
+    "unknown": "1"
+  },
+  {
+    "code": "13",
+    "csv_key": "ActiveMemberships[13]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Omnilibrium",
+    "sql_key": "ActiveMemberships_13",
+    "unknown": "1"
+  },
+  {
+    "code": "14",
+    "csv_key": "ActiveMemberships[14]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Hacker News",
+    "sql_key": "ActiveMemberships_14",
+    "unknown": "1"
+  },
+  {
+    "code": "15",
+    "csv_key": "ActiveMemberships[15]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "#lesswrong on freenode ",
+    "sql_key": "ActiveMemberships_15",
+    "unknown": "1"
+  },
+  {
+    "code": "16",
+    "csv_key": "ActiveMemberships[16]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "#slatestarcodex on freenode",
+    "sql_key": "ActiveMemberships_16",
+    "unknown": "1"
+  },
+  {
+    "code": "17",
+    "csv_key": "ActiveMemberships[17]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "#hplusroadmap on freenode",
+    "sql_key": "ActiveMemberships_17",
+    "unknown": "1"
+  },
+  {
+    "code": "18",
+    "csv_key": "ActiveMemberships[18]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "#chapelperilous on freenode",
+    "sql_key": "ActiveMemberships_18",
+    "unknown": "1"
+  },
+  {
+    "code": "19",
+    "csv_key": "ActiveMemberships[19]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "/r/rational",
+    "sql_key": "ActiveMemberships_19",
+    "unknown": "1"
+  },
+  {
+    "code": "20",
+    "csv_key": "ActiveMemberships[20]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "/r/HPMOR",
+    "sql_key": "ActiveMemberships_20",
+    "unknown": "1"
+  },
+  {
+    "code": "21",
+    "csv_key": "ActiveMemberships[21]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "/r/SlateStarCodex",
+    "sql_key": "ActiveMemberships_21",
+    "unknown": "1"
+  },
+  {
+    "code": "22",
+    "csv_key": "ActiveMemberships[22]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "One or more private 'rationalist' groups ",
+    "sql_key": "ActiveMemberships_22",
+    "unknown": "1"
+  },
+  {
+    "code": "other",
+    "csv_key": "ActiveMemberships[other]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "label": "Other",
+    "sql_key": "ActiveMemberships_other",
+    "unknown": "1"
+  },
+  {
+    "code": "ComingBack",
+    "csv_key": "ComingBack",
+    "dtype": "L",
+    "group": "Where do you hang out now?",
+    "key": "ComingBack",
+    "label": "Would you consider rejoining LessWrong?",
+    "sql_key": "ComingBack"
+  },
+  {
+    "code": "1",
+    "csv_key": "RejoinConditions[1]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "label": "[Write in your own]",
+    "sql_key": "RejoinConditions_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "RejoinConditions[2]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "label": "[Write in your own]",
+    "sql_key": "RejoinConditions_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "RejoinConditions[3]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "label": "[Write in your own]",
+    "sql_key": "RejoinConditions_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "RejoinConditions[4]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "label": "[Write in your own]",
+    "sql_key": "RejoinConditions_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "RejoinConditions[5]",
+    "dtype": "0",
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "label": "[Write in your own]",
+    "sql_key": "RejoinConditions_5",
+    "unknown": "1"
+  },
+  {
+    "code": "1",
+    "csv_key": "BlogsRead[1]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "LessWrong",
+    "sql_key": "BlogsRead_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "BlogsRead[2]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "SlateStarCodex (Scott Alexander)",
+    "sql_key": "BlogsRead_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "BlogsRead[3]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Overcoming Bias (Robin Hanson)",
+    "sql_key": "BlogsRead_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "BlogsRead[4]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Minding Our Way (Nate Soares)",
+    "sql_key": "BlogsRead_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "BlogsRead[5]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Agenty Duck (Brienne Yudkowsky)",
+    "sql_key": "BlogsRead_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "BlogsRead[6]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Eliezer Yudkowsky's Facebook Page",
+    "sql_key": "BlogsRead_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "BlogsRead[7]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Luke Muehlhauser (Eponymous)",
+    "sql_key": "BlogsRead_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "BlogsRead[8]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Gwern.net (Gwern Branwen)",
+    "sql_key": "BlogsRead_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "BlogsRead[9]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "label": "Siderea (Sibylla Bostoniensis)",
+    "sql_key": "BlogsRead_9",
+    "unknown": "1"
+  },
+  {
+    "code": "1",
+    "csv_key": "BlogsRead2[1]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "Ribbon Farm (Venkatesh Rao)",
+    "sql_key": "BlogsRead2_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "BlogsRead2[2]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "Bayesed And Confused (Michael Rupert)",
+    "sql_key": "BlogsRead2_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "BlogsRead2[3]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "The Unit Of Caring (Anonymous)",
+    "sql_key": "BlogsRead2_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "BlogsRead2[4]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "GiveWell Blog (Multiple Authors)",
+    "sql_key": "BlogsRead2_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "BlogsRead2[5]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "Thing Of Things (Ozy Frantz)",
+    "sql_key": "BlogsRead2_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "BlogsRead2[6]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "The Last Psychiatrist (Anonymous)",
+    "sql_key": "BlogsRead2_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "BlogsRead2[7]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "Hotel Concierge (Anonymous)",
+    "sql_key": "BlogsRead2_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "BlogsRead2[8]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "The View From Hell (Sister Y)",
+    "sql_key": "BlogsRead2_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "BlogsRead2[9]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "label": "Xenosystems (Nick Land)",
+    "sql_key": "BlogsRead2_9",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "BlogsReadWriteIn[SQ001]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "label": "[Write in your own]",
+    "sql_key": "BlogsReadWriteIn_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ2",
+    "csv_key": "BlogsReadWriteIn[SQ2]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "label": "[Write in your own]",
+    "sql_key": "BlogsReadWriteIn_SQ2",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ3",
+    "csv_key": "BlogsReadWriteIn[SQ3]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "label": "[Write in your own]",
+    "sql_key": "BlogsReadWriteIn_SQ3",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ4",
+    "csv_key": "BlogsReadWriteIn[SQ4]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "label": "[Write in your own]",
+    "sql_key": "BlogsReadWriteIn_SQ4",
+    "unknown": "1"
+  },
+  {
+    "code": "1",
+    "csv_key": "StoriesRead[1]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Harry Potter And The Methods Of Rationality (Eliezer Yudkowsky)",
+    "sql_key": "StoriesRead_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "StoriesRead[2]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Significant Digits (Alexander D)",
+    "sql_key": "StoriesRead_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "StoriesRead[3]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Three Worlds Collide (Eliezer Yudkowsky)",
+    "sql_key": "StoriesRead_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "StoriesRead[4]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "The Fable of the Dragon-Tyrant (Nick Bostrom)",
+    "sql_key": "StoriesRead_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "StoriesRead[5]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "The World of Null-A (A. E. van Vogt)",
+    "sql_key": "StoriesRead_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "StoriesRead[6]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Synthesis (Sharon Mitchell)",
+    "sql_key": "StoriesRead_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "StoriesRead[7]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Worm (Wildbow)",
+    "sql_key": "StoriesRead_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "StoriesRead[8]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Pact (Wildbow)",
+    "sql_key": "StoriesRead_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "StoriesRead[9]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "label": "Twig (Wildbow)",
+    "sql_key": "StoriesRead_9",
+    "unknown": "1"
+  },
+  {
+    "code": "1",
+    "csv_key": "StoriesRead2[1]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "Ra (Sam Hughes)",
+    "sql_key": "StoriesRead2_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "StoriesRead2[2]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "My Little Pony: Friendship Is Optimal (Iceman)",
+    "sql_key": "StoriesRead2_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "StoriesRead2[3]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "Friendship Is Optimal: Caelum Est Conterrens (Chatoyance)",
+    "sql_key": "StoriesRead2_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "StoriesRead2[4]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "Ender's Game (Orson Scott Card)",
+    "sql_key": "StoriesRead2_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "StoriesRead2[5]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "The Diamond Age (Neal Stephenson)",
+    "sql_key": "StoriesRead2_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "StoriesRead2[6]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "Consider Phlebas (Iain Banks)",
+    "sql_key": "StoriesRead2_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "StoriesRead2[7]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "The Metamorphosis Of Prime Intellect (Roger Williams)",
+    "sql_key": "StoriesRead2_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "StoriesRead2[8]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "Accelerando (Charles Stross)",
+    "sql_key": "StoriesRead2_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "StoriesRead2[9]",
+    "dtype": "0",
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "label": "A Fire Upon The Deep (Vernor Vinge)",
+    "sql_key": "StoriesRead2_9",
+    "unknown": "1"
+  },
+  {
+    "code": "MIRIKnowledge",
+    "csv_key": "MIRIKnowledge",
+    "dtype": "L",
+    "group": "Machine Intelligence Research Institute",
+    "key": "MIRIKnowledge",
+    "label": "Do you know what the Machine Intelligence Research Institute is?",
+    "sql_key": "MIRIKnowledge"
+  },
+  {
+    "code": "ReadMIRIPaper",
+    "csv_key": "ReadMIRIPaper",
+    "dtype": "L",
+    "group": "Machine Intelligence Research Institute",
+    "key": "ReadMIRIPaper",
+    "label": "Have you ever read a paper from the Machine Intelligence Research Institute?",
+    "sql_key": "ReadMIRIPaper"
+  },
+  {
+    "code": "MIRIJob",
+    "csv_key": "MIRIJob",
+    "dtype": "Y",
+    "group": "Machine Intelligence Research Institute",
+    "key": "MIRIJob",
+    "label": "Would you consider working for the Machine Intelligence Research Institute?",
+    "sql_key": "MIRIJob"
+  },
+  {
+    "code": "AIBoxing",
+    "csv_key": "AIBoxing",
+    "dtype": "Y",
+    "group": "Machine Intelligence Research Institute",
+    "key": "AIBoxing",
+    "label": "Do you think you're trustworthy enough not to let an AI out of the box?",
+    "sql_key": "AIBoxing"
+  },
+  {
+    "code": "AIBoxingPractice",
+    "csv_key": "AIBoxingPractice",
+    "dtype": "L",
+    "group": "Machine Intelligence Research Institute",
+    "key": "AIBoxingPractice",
+    "label": "Have you ever practiced not letting an AI out of the box?",
+    "sql_key": "AIBoxingPractice"
+  },
+  {
+    "code": "MIRIMission",
+    "csv_key": "MIRIMission",
+    "dtype": "5",
+    "group": "Machine Intelligence Research Institute",
+    "key": "MIRIMission",
+    "label": "On a scale of one to five (where one is \"Strongly disagree\" and five is \"Strongly agree\"), rate how much you agree with this statement: \"MIRI's mission of  doing mathematical research relevant to friendly self-improving  artificial intelligence is very important.\"",
+    "sql_key": "MIRIMission"
+  },
+  {
+    "code": "MIRIEffectiveness",
+    "csv_key": "MIRIEffectiveness",
+    "dtype": "5",
+    "group": "Machine Intelligence Research Institute",
+    "key": "MIRIEffectiveness",
+    "label": "On a scale of one to five (where one is \"Strongly disagree\" and five is \"Strongly agree\"), rate how much you agree with this statement: \"Whether or not I  agree with MIRI's goals, I believe MIRI is a well-run organization that  pursues its goals effectively.\"",
+    "sql_key": "MIRIEffectiveness"
+  },
+  {
+    "code": "CFARKnowledge",
+    "csv_key": "CFARKnowledge",
+    "dtype": "L",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "CFARKnowledge",
+    "label": "Do you know what the Center For Applied Rationality is?",
+    "sql_key": "CFARKnowledge"
+  },
+  {
+    "code": "CFARAttendance",
+    "csv_key": "CFARAttendance",
+    "dtype": "L",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "CFARAttendance",
+    "label": "Have you attended CFAR?",
+    "sql_key": "CFARAttendance"
+  },
+  {
+    "code": "HowDifferent",
+    "csv_key": "HowDifferent",
+    "dtype": "L",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "HowDifferent",
+    "label": "Think about your current set of skills, your habits, the things you spend your time on, how you interact with other people, the intellectual questions that you find engaging, the goals you’re aiming towards, and the challenges that you’re currently facing going forward. Next, think about how you were one year ago on each of these dimensions. How different are you now from how you were one year ago?",
+    "sql_key": "HowDifferent"
+  },
+  {
+    "code": "WhatDifferent",
+    "csv_key": "WhatDifferent",
+    "dtype": "S",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "WhatDifferent",
+    "label": "(optional) In about one sentence, what is one difference that stands out as being particularly large or significant?",
+    "sql_key": "WhatDifferent"
+  },
+  {
+    "code": "ChangesToRoutines",
+    "csv_key": "ChangesToRoutines",
+    "dtype": "T",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "ChangesToRoutines",
+    "label": "(Optional) Can you think of any changes that you’ve made in the past month to your daily routines or habits in order to make things go better? These can be tiny changes (e.g., adjusted the curtains on my bedroom window so that less light comes in while I’m sleeping) or large ones. Spend about 60 seconds recalling as many examples of these kinds of changes as you can and listing them here. (If you want to skip this question, leave it blank. If you spend the 60 seconds and no specific examples come to mind, write \"none.\")",
+    "sql_key": "ChangesToRoutines"
+  },
+  {
+    "code": "CFAROpinion",
+    "csv_key": "CFAROpinion",
+    "dtype": "L",
+    "group": "Center For Applied Rationality (Bonus Section)",
+    "key": "CFAROpinion",
+    "label": "<p>   What's your overall opinion of the Center For Applied Rationality?</p>  ",
+    "sql_key": "CFAROpinion"
+  },
+  {
+    "code": "EAKnowledge",
+    "csv_key": "EAKnowledge",
+    "dtype": "L",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EAKnowledge",
+    "label": "Do you know what Effective Altruism is?",
+    "sql_key": "EAKnowledge"
+  },
+  {
+    "code": "EAIdentity",
+    "csv_key": "EAIdentity",
+    "dtype": "Y",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EAIdentity",
+    "label": "Do you self-identify as an Effective Altruist?",
+    "sql_key": "EAIdentity"
+  },
+  {
+    "code": "EACommunity",
+    "csv_key": "EACommunity",
+    "dtype": "Y",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EACommunity",
+    "label": "Do you participate in the Effective Altruism community?",
+    "sql_key": "EACommunity"
+  },
+  {
+    "code": "EADonations",
+    "csv_key": "EADonations",
+    "dtype": "Y",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EADonations",
+    "label": "Has Effective Altruism caused you to make donations you otherwise wouldn't?",
+    "sql_key": "EADonations"
+  },
+  {
+    "code": "EAAnxiety",
+    "csv_key": "EAAnxiety",
+    "dtype": "L",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EAAnxiety",
+    "label": "Have you ever had any kind of moral anxiety over Effective Altruism?",
+    "sql_key": "EAAnxiety"
+  },
+  {
+    "code": "EAOpinion",
+    "csv_key": "EAOpinion",
+    "dtype": "L",
+    "group": "Effective Altruism (Bonus Section)",
+    "key": "EAOpinion",
+    "label": "What's your overall opinion of Effective Altruism?",
+    "sql_key": "EAOpinion"
+  },
+  {
+    "code": "ComplexAffiliation",
+    "csv_key": "ComplexAffiliation",
+    "dtype": "L",
+    "group": "Politics (Bonus Section)",
+    "key": "ComplexAffiliation",
+    "label": "With which of these political positions do you most identify?",
+    "sql_key": "ComplexAffiliation"
+  },
+  {
+    "code": "other",
+    "csv_key": "ComplexAffiliation[other]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "ComplexAffiliation",
+    "label": "Other",
+    "sql_key": "ComplexAffiliation_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Voting",
+    "csv_key": "Voting",
+    "dtype": "L",
+    "group": "Politics (Bonus Section)",
+    "key": "Voting",
+    "label": "Did you vote in your country's last major national election?",
+    "sql_key": "Voting"
+  },
+  {
+    "code": "AmericanParties",
+    "csv_key": "AmericanParties",
+    "dtype": "L",
+    "group": "Politics (Bonus Section)",
+    "key": "AmericanParties",
+    "label": "If you are an American, what party are you registered with?",
+    "sql_key": "AmericanParties"
+  },
+  {
+    "code": "PoliticalInterest",
+    "csv_key": "PoliticalInterest",
+    "dtype": "5",
+    "group": "Politics (Bonus Section)",
+    "key": "PoliticalInterest",
+    "label": "On a scale from 1  (not interested at all) to 5 (extremely interested), how would you  describe your level of interest in politics?",
+    "sql_key": "PoliticalInterest"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "AbortionLaws[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "AbortionLaws",
+    "label": "Abortion",
+    "sql_key": "AbortionLaws_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "Immigration[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "Immigration",
+    "label": "Immigration",
+    "sql_key": "Immigration_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "Taxes[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "Taxes",
+    "label": "Taxes",
+    "sql_key": "Taxes_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "MinimumWage[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "MinimumWage",
+    "label": "Minimum Wage",
+    "sql_key": "MinimumWage_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "Feminism[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "Feminism",
+    "label": "Feminism",
+    "sql_key": "Feminism_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "SocialJustice[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "SocialJustice",
+    "label": "Social Justice",
+    "sql_key": "SocialJustice_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "HumanBiodiversity[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "HumanBiodiversity",
+    "label": "Human Biodiversity",
+    "sql_key": "HumanBiodiversity_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "BasicIncome[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "BasicIncome",
+    "label": "Basic Income",
+    "sql_key": "BasicIncome_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "SQ001",
+    "csv_key": "GreatStagnation[SQ001]",
+    "dtype": "0",
+    "group": "Politics (Bonus Section)",
+    "key": "GreatStagnation",
+    "label": "Great Stagnation",
+    "sql_key": "GreatStagnation_SQ001",
+    "unknown": "1"
+  },
+  {
+    "code": "InstructionsConfirm",
+    "csv_key": "InstructionsConfirm",
+    "dtype": "L",
+    "group": "Calibration Questions",
+    "key": "InstructionsConfirm",
+    "label": "Do you understand the instructions above?",
+    "sql_key": "InstructionsConfirm"
+  },
+  {
+    "code": "1",
+    "csv_key": "CalibrationQuestions[1]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Are you smiling right now? ",
+    "sql_key": "CalibrationQuestions_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "CalibrationQuestions[2]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "CalibrationQuestions[3]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Which is heavier, a virus or a prion? ",
+    "sql_key": "CalibrationQuestions_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "CalibrationQuestions[4]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "CalibrationQuestions[5]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "I'm thinking of a number between one and ten, what is it? ",
+    "sql_key": "CalibrationQuestions_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "CalibrationQuestions[6]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "CalibrationQuestions[7]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "What year was the fast food chain \"Dairy Queen\" founded? (Within five years)",
+    "sql_key": "CalibrationQuestions_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "CalibrationQuestions[8]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "CalibrationQuestions[9]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Alexander Hamilton appears on how many distinct denominations of US Currency?",
+    "sql_key": "CalibrationQuestions_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "CalibrationQuestions[10]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "CalibrationQuestions[11]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without counting, how many keys on a standard IBM keyboard released after 1986, within ten? ",
+    "sql_key": "CalibrationQuestions_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "CalibrationQuestions[12]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_12",
+    "unknown": "1"
+  },
+  {
+    "code": "13",
+    "csv_key": "CalibrationQuestions[13]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "What's the diameter of a standard soccerball, in cm within 2? ",
+    "sql_key": "CalibrationQuestions_13",
+    "unknown": "1"
+  },
+  {
+    "code": "14",
+    "csv_key": "CalibrationQuestions[14]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_14",
+    "unknown": "1"
+  },
+  {
+    "code": "15",
+    "csv_key": "CalibrationQuestions[15]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "How many calories in a reese's peanut butter cup within 20?",
+    "sql_key": "CalibrationQuestions_15",
+    "unknown": "1"
+  },
+  {
+    "code": "16",
+    "csv_key": "CalibrationQuestions[16]",
+    "dtype": "0",
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "label": "Without checking a source, estimate your subjective probability that the answer you just gave is correct.",
+    "sql_key": "CalibrationQuestions_16",
+    "unknown": "1"
+  },
+  {
+    "code": "1",
+    "csv_key": "ProbabilityQuestions[1]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "Please give the  obvious answer to this question, so I can automatically throw away all  surveys that don't follow the rules: What is the probability of a fair  coin coming up heads? ",
+    "sql_key": "ProbabilityQuestions_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "ProbabilityQuestions[2]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the probability that the Many Worlds interpretation of quantum mechanics is more or less correct?",
+    "sql_key": "ProbabilityQuestions_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "ProbabilityQuestions[3]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the probability that non-human, non-Earthly intelligent life exists in the observable universe?",
+    "sql_key": "ProbabilityQuestions_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "ProbabilityQuestions[4]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "...in the Milky Way galaxy?",
+    "sql_key": "ProbabilityQuestions_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "ProbabilityQuestions[5]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the  probability that supernatural events (including God, ghosts, magic, etc) have occurred since the beginning of the universe?",
+    "sql_key": "ProbabilityQuestions_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "ProbabilityQuestions[6]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the probability that there is a god, defined as a supernatural intelligent entity who created the universe?",
+    "sql_key": "ProbabilityQuestions_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "ProbabilityQuestions[7]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the probability that any of humankind's revealed religions is more or less correct?",
+    "sql_key": "ProbabilityQuestions_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "ProbabilityQuestions[8]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the  probability that an average person cryonically frozen today will be  successfully restored to life at some future time, conditional on no  global catastrophe destroying civilization before then?",
+    "sql_key": "ProbabilityQuestions_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "ProbabilityQuestions[9]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the  probability that at least one person living at this moment will reach an  age of one thousand years, conditional on no global catastrophe  destroying civilization in that time?",
+    "sql_key": "ProbabilityQuestions_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "ProbabilityQuestions[10]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the probability that our universe is a simulation?",
+    "sql_key": "ProbabilityQuestions_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "ProbabilityQuestions[11]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the  probability that significant global warming is occurring or will soon  occur, and is primarily caused by human actions?",
+    "sql_key": "ProbabilityQuestions_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "ProbabilityQuestions[12]",
+    "dtype": "0",
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "label": "What is the  probability that the human race will make it to 2100 without any  catastrophe that wipes out more than 90% of humanity?",
+    "sql_key": "ProbabilityQuestions_12",
+    "unknown": "1"
+  },
+  {
+    "code": "CryonicsText",
+    "csv_key": "CryonicsText",
+    "dtype": "X",
+    "group": "Futurology",
+    "key": "CryonicsText",
+    "label": "Cryonics (Section Header)",
+    "sql_key": "CryonicsText"
+  },
+  {
+    "code": "Cryonics",
+    "csv_key": "Cryonics",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "Cryonics",
+    "label": "Are you signed up for cryonics?",
+    "sql_key": "Cryonics"
+  },
+  {
+    "code": "CryonicsNow",
+    "csv_key": "CryonicsNow",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "CryonicsNow",
+    "label": "Do you think cryonics, as currently practiced by Alcor/Cryonics Institute will work?",
+    "sql_key": "CryonicsNow"
+  },
+  {
+    "code": "CryonicsPossibility",
+    "csv_key": "CryonicsPossibility",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "CryonicsPossibility",
+    "label": "Do you think cryonics works in principle?",
+    "sql_key": "CryonicsPossibility"
+  },
+  {
+    "code": "SingularityText",
+    "csv_key": "SingularityText",
+    "dtype": "X",
+    "group": "Futurology",
+    "key": "SingularityText",
+    "label": "Singularity (Section Header)",
+    "sql_key": "SingularityText"
+  },
+  {
+    "code": "SingularityYear",
+    "csv_key": "SingularityYear",
+    "dtype": "N",
+    "group": "Futurology",
+    "key": "SingularityYear",
+    "label": "By what year do you think the Singularity will occur? Answer such that you think, conditional on the Singularity occurring, there is an even chance of the Singularity falling before or after this year. If you think a  singularity is so unlikely you don't even want to condition on it, leave this question blank.",
+    "sql_key": "SingularityYear"
+  },
+  {
+    "code": "comment",
+    "csv_key": "SingularityHealth[comment]",
+    "dtype": "0",
+    "group": "Futurology",
+    "key": "SingularityHealth",
+    "label": "Comment",
+    "sql_key": "SingularityHealth_comment",
+    "unknown": "1"
+  },
+  {
+    "code": "SuperbabiesText",
+    "csv_key": "SuperbabiesText",
+    "dtype": "X",
+    "group": "Futurology",
+    "key": "SuperbabiesText",
+    "label": "Superbabies (Section Header)",
+    "sql_key": "SuperbabiesText"
+  },
+  {
+    "code": "ModifyOffspring",
+    "csv_key": "ModifyOffspring",
+    "dtype": "Y",
+    "group": "Futurology",
+    "key": "ModifyOffspring",
+    "label": "Would you ever consider having your child genetically modified for any reason?",
+    "sql_key": "ModifyOffspring"
+  },
+  {
+    "code": "GeneticTreament",
+    "csv_key": "GeneticTreament",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticTreament",
+    "label": "Would you be willing to have your child genetically modified to prevent them from getting an inheritable disease?",
+    "sql_key": "GeneticTreament"
+  },
+  {
+    "code": "GeneticImprovement",
+    "csv_key": "GeneticImprovement",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticImprovement",
+    "label": "Would you be willing to have your child genetically modified for improvement purposes? (eg. To heighten their intelligence or reduce their risk of schizophrenia.)",
+    "sql_key": "GeneticImprovement"
+  },
+  {
+    "code": "GeneticCosmetic",
+    "csv_key": "GeneticCosmetic",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticCosmetic",
+    "label": "Would you be willing to have your child genetically modified for cosmetic reasons? (eg. To make them taller or have a certain eye color.)",
+    "sql_key": "GeneticCosmetic"
+  },
+  {
+    "code": "GeneticOpinionD",
+    "csv_key": "GeneticOpinionD",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticOpinionD",
+    "label": "What's your overall opinion of other people genetically modifying their children for disease prevention purposes?",
+    "sql_key": "GeneticOpinionD"
+  },
+  {
+    "code": "GeneticOpinionI",
+    "csv_key": "GeneticOpinionI",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticOpinionI",
+    "label": "What's your overall opinion of other people genetically modifying their children for improvement purposes?",
+    "sql_key": "GeneticOpinionI"
+  },
+  {
+    "code": "GeneticOpinionC",
+    "csv_key": "GeneticOpinionC",
+    "dtype": "L",
+    "group": "Futurology",
+    "key": "GeneticOpinionC",
+    "label": "What's your overall opinion of other people genetically modifying their children for cosmetic reasons?",
+    "sql_key": "GeneticOpinionC"
+  },
+  {
+    "code": "LudditeFallacy",
+    "csv_key": "LudditeFallacy",
+    "dtype": "Y",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "LudditeFallacy",
+    "label": "Do you think the <a href=\"https://en.wikipedia.org/wiki/Luddite_fallacy#The_Luddite_fallacy\">Luddite's Fallacy</a> is an actual fallacy?",
+    "sql_key": "LudditeFallacy"
+  },
+  {
+    "code": "UnemploymentYear",
+    "csv_key": "UnemploymentYear",
+    "dtype": "N",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "UnemploymentYear",
+    "label": "By what year do you think the majority of people in your country will have trouble finding employment for automation related reasons? If you think this is something that will never happen leave this question blank.",
+    "sql_key": "UnemploymentYear"
+  },
+  {
+    "code": "EndOfWork",
+    "csv_key": "EndOfWork",
+    "dtype": "Y",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWork",
+    "label": "Do you think the \"end of work\" would be a good thing?",
+    "sql_key": "EndOfWork"
+  },
+  {
+    "code": "1",
+    "csv_key": "EndOfWorkConcerns[1]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "label": "People will just idle about in destructive ways",
+    "sql_key": "EndOfWorkConcerns_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "EndOfWorkConcerns[2]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "label": "People need work to be fulfilled and if we eliminate work we'll all feel deep existential angst",
+    "sql_key": "EndOfWorkConcerns_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "EndOfWorkConcerns[3]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "label": "The rich are going to take all the resources for themselves and leave the rest of us to starve or live in poverty",
+    "sql_key": "EndOfWorkConcerns_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "EndOfWorkConcerns[4]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "label": "The machines won't need us, and we'll starve to death or be otherwise liquidated",
+    "sql_key": "EndOfWorkConcerns_4",
+    "unknown": "1"
+  },
+  {
+    "code": "other",
+    "csv_key": "EndOfWorkConcerns[other]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "label": "Other",
+    "sql_key": "EndOfWorkConcerns_other",
+    "unknown": "1"
+  },
+  {
+    "code": "XRiskTextDisplay",
+    "csv_key": "XRiskTextDisplay",
+    "dtype": "X",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "XRiskTextDisplay",
+    "label": "The next question isn't exactly related to technological unemployment, but making a part three for one question seemed impractical.",
+    "sql_key": "XRiskTextDisplay"
+  },
+  {
+    "code": "XRiskType",
+    "csv_key": "XRiskType",
+    "dtype": "L",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "XRiskType",
+    "label": "Which disaster do you think is most likely to wipe out greater than 90% of humanity before the year 2100?",
+    "sql_key": "XRiskType"
+  },
+  {
+    "code": "other",
+    "csv_key": "XRiskType[other]",
+    "dtype": "0",
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "XRiskType",
+    "label": "Other",
+    "sql_key": "XRiskType_other",
+    "unknown": "1"
+  },
+  {
+    "code": "Income",
+    "csv_key": "Income",
+    "dtype": "N",
+    "group": "Charity (Bonus Section)",
+    "key": "Income",
+    "label": "What is your approximate annual income in US dollars (non-Americans: convert at www.xe.com)? Obviously you don't need to answer this question if you don't want to. Please don't include commas or dollar signs.",
+    "sql_key": "Income"
+  },
+  {
+    "code": "IncomeCharityPortion",
+    "csv_key": "IncomeCharityPortion",
+    "dtype": "N",
+    "group": "Charity (Bonus Section)",
+    "key": "IncomeCharityPortion",
+    "label": "How much money, in number of dollars, have you donated to charity over the past year? (non-Americans: convert to dollars at http://www.xe.com/ ). Please don't include commas or dollar signs in your answer. For example, 4000",
+    "sql_key": "IncomeCharityPortion"
+  },
+  {
+    "code": "XriskCharity",
+    "csv_key": "XriskCharity",
+    "dtype": "N",
+    "group": "Charity (Bonus Section)",
+    "key": "XriskCharity",
+    "label": "How much money have you donated to charities aiming to reduce existential risk (other than MIRI/CFAR) in the past year?",
+    "sql_key": "XriskCharity"
+  },
+  {
+    "code": "1",
+    "csv_key": "CharityDonations[1]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Against Malaria Foundation",
+    "sql_key": "CharityDonations_1",
+    "unknown": "1"
+  },
+  {
+    "code": "2",
+    "csv_key": "CharityDonations[2]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Schistosomiasis Control Initiative",
+    "sql_key": "CharityDonations_2",
+    "unknown": "1"
+  },
+  {
+    "code": "3",
+    "csv_key": "CharityDonations[3]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Deworm the World Initiative ",
+    "sql_key": "CharityDonations_3",
+    "unknown": "1"
+  },
+  {
+    "code": "4",
+    "csv_key": "CharityDonations[4]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "GiveDirectly",
+    "sql_key": "CharityDonations_4",
+    "unknown": "1"
+  },
+  {
+    "code": "5",
+    "csv_key": "CharityDonations[5]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Any kind of animal rights charity",
+    "sql_key": "CharityDonations_5",
+    "unknown": "1"
+  },
+  {
+    "code": "6",
+    "csv_key": "CharityDonations[6]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Any kind of bug rights charity",
+    "sql_key": "CharityDonations_6",
+    "unknown": "1"
+  },
+  {
+    "code": "7",
+    "csv_key": "CharityDonations[7]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Machine Intelligence Research Institute",
+    "sql_key": "CharityDonations_7",
+    "unknown": "1"
+  },
+  {
+    "code": "8",
+    "csv_key": "CharityDonations[8]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Any charity combating nuclear existential risk",
+    "sql_key": "CharityDonations_8",
+    "unknown": "1"
+  },
+  {
+    "code": "9",
+    "csv_key": "CharityDonations[9]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Any charity combating global warming",
+    "sql_key": "CharityDonations_9",
+    "unknown": "1"
+  },
+  {
+    "code": "10",
+    "csv_key": "CharityDonations[10]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Center For Applied Rationality",
+    "sql_key": "CharityDonations_10",
+    "unknown": "1"
+  },
+  {
+    "code": "11",
+    "csv_key": "CharityDonations[11]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Strategies for Engineered Negligible Senescence Research Foundation",
+    "sql_key": "CharityDonations_11",
+    "unknown": "1"
+  },
+  {
+    "code": "12",
+    "csv_key": "CharityDonations[12]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Wikipedia",
+    "sql_key": "CharityDonations_12",
+    "unknown": "1"
+  },
+  {
+    "code": "13",
+    "csv_key": "CharityDonations[13]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Internet Archive",
+    "sql_key": "CharityDonations_13",
+    "unknown": "1"
+  },
+  {
+    "code": "14",
+    "csv_key": "CharityDonations[14]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Any campaign for political office",
+    "sql_key": "CharityDonations_14",
+    "unknown": "1"
+  },
+  {
+    "code": "15",
+    "csv_key": "CharityDonations[15]",
+    "dtype": "0",
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "label": "Other",
+    "sql_key": "CharityDonations_15",
+    "unknown": "1"
+  },
+  {
+    "code": "Vegetarian",
+    "csv_key": "Vegetarian",
+    "dtype": "L",
+    "group": "Charity (Bonus Section)",
+    "key": "Vegetarian",
+    "label": "Do you follow any dietary restrictions related to animal products?",
+    "sql_key": "Vegetarian"
+  },
+  {
+    "code": "PreviousSurvey",
+    "csv_key": "PreviousSurvey",
+    "dtype": "Y",
+    "group": "Wrapping Up",
+    "key": "PreviousSurvey",
+    "label": "Have you taken a previous LessWrong Survey?",
+    "sql_key": "PreviousSurvey"
+  },
+  {
+    "code": "EmailAddress",
+    "csv_key": "EmailAddress",
+    "dtype": "S",
+    "group": "Wrapping Up",
+    "key": "EmailAddress",
+    "label": "Would you like to be put on a mailing list to hear about future developments in revitalizing LessWrong or new 'rationalist' communities? If yes put in your email address below. (This is optional and will not be published in the public survey results.)",
+    "sql_key": "EmailAddress"
+  }
+]
