@@ -1,0 +1,1092 @@
+{
+  "AbortionLaws[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "AbortionLaws",
+    "title": "Abortion"
+  },
+  "ActiveMemberships[10]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "FortForecast"
+  },
+  "ActiveMemberships[11]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Good Judgement(TM) Open"
+  },
+  "ActiveMemberships[12]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "PredictionBook"
+  },
+  "ActiveMemberships[13]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Omnilibrium"
+  },
+  "ActiveMemberships[14]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Hacker News"
+  },
+  "ActiveMemberships[15]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "#lesswrong on freenode "
+  },
+  "ActiveMemberships[16]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "#slatestarcodex on freenode"
+  },
+  "ActiveMemberships[17]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "#hplusroadmap on freenode"
+  },
+  "ActiveMemberships[18]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "#chapelperilous on freenode"
+  },
+  "ActiveMemberships[19]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "/r/rational"
+  },
+  "ActiveMemberships[1]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "LessWrong"
+  },
+  "ActiveMemberships[20]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "/r/HPMOR"
+  },
+  "ActiveMemberships[21]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "/r/SlateStarCodex"
+  },
+  "ActiveMemberships[22]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "One or more private 'rationalist' groups "
+  },
+  "ActiveMemberships[23]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Other"
+  },
+  "ActiveMemberships[2]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "LessWrong Meetups"
+  },
+  "ActiveMemberships[3]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "LessWrong Facebook Group"
+  },
+  "ActiveMemberships[4]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "LessWrong Slack"
+  },
+  "ActiveMemberships[5]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "SlateStarCodex"
+  },
+  "ActiveMemberships[6]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Rationalist Tumblr"
+  },
+  "ActiveMemberships[7]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Rationalist Facebook"
+  },
+  "ActiveMemberships[8]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Rationalist Twitter"
+  },
+  "ActiveMemberships[9]": {
+    "group": "Where do you hang out now?",
+    "key": "ActiveMemberships",
+    "title": "Effective Altruism Hub"
+  },
+  "BasicIncome[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "BasicIncome",
+    "title": "Basic Income"
+  },
+  "BirthSex[1]": {
+    "group": "Demographic Information",
+    "key": "BirthSex",
+    "title": "Other"
+  },
+  "BlogsRead2[1]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "Ribbon Farm (Venkatesh Rao)"
+  },
+  "BlogsRead2[2]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "Bayesed And Confused (Michael Rupert)"
+  },
+  "BlogsRead2[3]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "The Unit Of Caring (Anonymous)"
+  },
+  "BlogsRead2[4]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "GiveWell Blog (Multiple Authors)"
+  },
+  "BlogsRead2[5]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "Thing Of Things (Ozy Frantz)"
+  },
+  "BlogsRead2[6]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "The Last Psychiatrist (Anonymous)"
+  },
+  "BlogsRead2[7]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "Hotel Concierge (Anonymous)"
+  },
+  "BlogsRead2[8]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "The View From Hell (Sister Y)"
+  },
+  "BlogsRead2[9]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead2",
+    "title": "Xenosystems (Nick Land)"
+  },
+  "BlogsReadWriteIn[1]": {
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "title": "[Write in your own]"
+  },
+  "BlogsReadWriteIn[2]": {
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "title": "[Write in your own]"
+  },
+  "BlogsReadWriteIn[3]": {
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "title": "[Write in your own]"
+  },
+  "BlogsReadWriteIn[4]": {
+    "group": "Interests And Media",
+    "key": "BlogsReadWriteIn",
+    "title": "[Write in your own]"
+  },
+  "BlogsRead[1]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "LessWrong"
+  },
+  "BlogsRead[2]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "SlateStarCodex (Scott Alexander)"
+  },
+  "BlogsRead[3]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Overcoming Bias (Robin Hanson)"
+  },
+  "BlogsRead[4]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Minding Our Way (Nate Soares)"
+  },
+  "BlogsRead[5]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Agenty Duck (Brienne Yudkowsky)"
+  },
+  "BlogsRead[6]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Eliezer Yudkowsky's Facebook Page"
+  },
+  "BlogsRead[7]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Luke Muehlhauser (Eponymous)"
+  },
+  "BlogsRead[8]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Gwern.net (Gwern Branwen)"
+  },
+  "BlogsRead[9]": {
+    "group": "Interests And Media",
+    "key": "BlogsRead",
+    "title": "Siderea (Sibylla Bostoniensis)"
+  },
+  "CalibrationQuestions[10]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[11]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without counting, how many keys on a standard IBM keyboard released after 1986, within ten? "
+  },
+  "CalibrationQuestions[12]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[13]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "What's the diameter of a standard soccerball, in cm within 2? "
+  },
+  "CalibrationQuestions[14]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[15]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "How many calories in a reese's peanut butter cup within 20?"
+  },
+  "CalibrationQuestions[16]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[1]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Are you smiling right now? "
+  },
+  "CalibrationQuestions[2]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[3]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Which is heavier, a virus or a prion? "
+  },
+  "CalibrationQuestions[4]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[5]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "I'm thinking of a number between one and ten, what is it? "
+  },
+  "CalibrationQuestions[6]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[7]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "What year was the fast food chain \"Dairy Queen\" founded? (Within five years)"
+  },
+  "CalibrationQuestions[8]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Without checking a source, estimate your subjective probability that the answer you just gave is correct."
+  },
+  "CalibrationQuestions[9]": {
+    "group": "Calibration Questions",
+    "key": "CalibrationQuestions",
+    "title": "Alexander Hamilton appears on how many distinct denominations of US Currency?"
+  },
+  "CharityDonations[10]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Center For Applied Rationality"
+  },
+  "CharityDonations[11]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Strategies for Engineered Negligible Senescence Research Foundation"
+  },
+  "CharityDonations[12]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Wikipedia"
+  },
+  "CharityDonations[13]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Internet Archive"
+  },
+  "CharityDonations[14]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Any campaign for political office"
+  },
+  "CharityDonations[15]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Other"
+  },
+  "CharityDonations[1]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Against Malaria Foundation"
+  },
+  "CharityDonations[2]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Schistosomiasis Control Initiative"
+  },
+  "CharityDonations[3]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Deworm the World Initiative "
+  },
+  "CharityDonations[4]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "GiveDirectly"
+  },
+  "CharityDonations[5]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Any kind of animal rights charity"
+  },
+  "CharityDonations[6]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Any kind of bug rights charity"
+  },
+  "CharityDonations[7]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Machine Intelligence Research Institute"
+  },
+  "CharityDonations[8]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Any charity combating nuclear existential risk"
+  },
+  "CharityDonations[9]": {
+    "group": "Charity (Bonus Section)",
+    "key": "CharityDonations",
+    "title": "Any charity combating global warming"
+  },
+  "CommunityIssuesNow[10]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Failure to cite sources"
+  },
+  "CommunityIssuesNow[11]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Autistic"
+  },
+  "CommunityIssuesNow[12]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Tolerant Of Trolls/Cranks"
+  },
+  "CommunityIssuesNow[13]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Tolerant Of Laziness"
+  },
+  "CommunityIssuesNow[14]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Tolerant Of Creepy People"
+  },
+  "CommunityIssuesNow[15]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Tolerant Of Neoreaction"
+  },
+  "CommunityIssuesNow[16]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Too Tolerant Of Progressivism"
+  },
+  "CommunityIssuesNow[17]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Literally A Cult "
+  },
+  "CommunityIssuesNow[18]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "[Write in below]"
+  },
+  "CommunityIssuesNow[19]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "[Write in below]"
+  },
+  "CommunityIssuesNow[1]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "No New Content"
+  },
+  "CommunityIssuesNow[2]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "No New *Good* Content"
+  },
+  "CommunityIssuesNow[3]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Can't Find Things Quickly Enough To Maintain Interest"
+  },
+  "CommunityIssuesNow[4]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Lame Forum Software"
+  },
+  "CommunityIssuesNow[5]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Decline from new people coming in who don't understand the culture"
+  },
+  "CommunityIssuesNow[6]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Decline from evaporative cooling (http://lesswrong.com/lw/lr/evaporative_cooling_of_group_beliefs/)"
+  },
+  "CommunityIssuesNow[7]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Decline from dunning kruger where competent refrain from posting what they feel to be sub par content (and by extension, posting content at all) but incompetent don't "
+  },
+  "CommunityIssuesNow[8]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Not Enough In Person Interaction"
+  },
+  "CommunityIssuesNow[9]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "CommunityIssuesNow",
+    "title": "Overly High Standards For Content Submission"
+  },
+  "ComplexAffiliation[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "ComplexAffiliation",
+    "title": "Other"
+  },
+  "Country[1]": {
+    "group": "Demographic Information",
+    "key": "Country",
+    "title": "Other"
+  },
+  "EducationCredentials[1]": {
+    "group": "Employment, Occupation, Education",
+    "key": "EducationCredentials",
+    "title": "Other"
+  },
+  "EndOfWorkConcerns[1]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "title": "People will just idle about in destructive ways"
+  },
+  "EndOfWorkConcerns[2]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "title": "People need work to be fulfilled and if we eliminate work we'll all feel deep existential angst"
+  },
+  "EndOfWorkConcerns[3]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "title": "The rich are going to take all the resources for themselves and leave the rest of us to starve or live in poverty"
+  },
+  "EndOfWorkConcerns[4]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "title": "The machines won't need us, and we'll starve to death or be otherwise liquidated"
+  },
+  "EndOfWorkConcerns[5]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "EndOfWorkConcerns",
+    "title": "Other"
+  },
+  "FamilyReligion[1]": {
+    "group": "Politics, Religion, Ethics",
+    "key": "FamilyReligion",
+    "title": "Other"
+  },
+  "Feminism[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "Feminism",
+    "title": "Feminism"
+  },
+  "Gender[1]": {
+    "group": "Demographic Information",
+    "key": "Gender",
+    "title": "Other"
+  },
+  "GreatStagnation[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "GreatStagnation",
+    "title": "Great Stagnation"
+  },
+  "HumanBiodiversity[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "HumanBiodiversity",
+    "title": "Human Biodiversity"
+  },
+  "Immigration[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "Immigration",
+    "title": "Immigration"
+  },
+  "LivingWith[1]": {
+    "group": "Sex, Relationships",
+    "key": "LivingWith",
+    "title": "Other"
+  },
+  "MinimumWage[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "MinimumWage",
+    "title": "Minimum Wage"
+  },
+  "PeakCommunityIssues[10]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Tolerant Of Neoreaction."
+  },
+  "PeakCommunityIssues[11]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Tolerant Of Progressivism."
+  },
+  "PeakCommunityIssues[12]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Literally A Cult. "
+  },
+  "PeakCommunityIssues[13]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "I Wasn't Around For Its Peak. "
+  },
+  "PeakCommunityIssues[14]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "[Write in below]"
+  },
+  "PeakCommunityIssues[15]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "[Write in below]"
+  },
+  "PeakCommunityIssues[1]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Not Enough In Person Interaction."
+  },
+  "PeakCommunityIssues[2]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Overly High Standards For Content Submission."
+  },
+  "PeakCommunityIssues[3]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Failure to cite sources."
+  },
+  "PeakCommunityIssues[4]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Can't Find Things Quickly Enough To Maintain Interest."
+  },
+  "PeakCommunityIssues[5]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Lame Forum Software."
+  },
+  "PeakCommunityIssues[6]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Autistic."
+  },
+  "PeakCommunityIssues[7]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Tolerant Of Trolls/Cranks."
+  },
+  "PeakCommunityIssues[8]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Tolerant Of Laziness."
+  },
+  "PeakCommunityIssues[9]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakCommunityIssues",
+    "title": "Too Tolerant Of Creepy People."
+  },
+  "PeakPhilosophyIssues[1]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Over Reliance On The Sequences."
+  },
+  "PeakPhilosophyIssues[2]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Focus On AI."
+  },
+  "PeakPhilosophyIssues[3]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Focus On Cryonics."
+  },
+  "PeakPhilosophyIssues[4]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Criticism Of The Scientific Method."
+  },
+  "PeakPhilosophyIssues[5]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Too Much Jargon."
+  },
+  "PeakPhilosophyIssues[6]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "Too Focused On Abstract Junk."
+  },
+  "PeakPhilosophyIssues[7]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "I Wasn't Around For Its Peak. "
+  },
+  "PeakPhilosophyIssues[8]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "[Write in below]"
+  },
+  "PeakPhilosophyIssues[9]": {
+    "group": "What were the biggest problems with LessWrong at its peak?",
+    "key": "PeakPhilosophyIssues",
+    "title": "[Write in below]"
+  },
+  "PhilosophyIssuesNow[1]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Over Reliance On The Sequences."
+  },
+  "PhilosophyIssuesNow[2]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Focus On AI."
+  },
+  "PhilosophyIssuesNow[3]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Focus On Cryonics."
+  },
+  "PhilosophyIssuesNow[4]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Criticism Of The Scientific Method."
+  },
+  "PhilosophyIssuesNow[5]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Too Much Jargon."
+  },
+  "PhilosophyIssuesNow[6]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "Too Focused On Abstract Junk."
+  },
+  "PhilosophyIssuesNow[7]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "[Write in below]"
+  },
+  "PhilosophyIssuesNow[8]": {
+    "group": "What are the biggest problems with LessWrong now?",
+    "key": "PhilosophyIssuesNow",
+    "title": "[Write in below]"
+  },
+  "ProbabilityQuestions[10]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the probability that our universe is a simulation?"
+  },
+  "ProbabilityQuestions[11]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the  probability that significant global warming is occurring or will soon  occur, and is primarily caused by human actions?"
+  },
+  "ProbabilityQuestions[12]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the  probability that the human race will make it to 2100 without any  catastrophe that wipes out more than 90% of humanity?"
+  },
+  "ProbabilityQuestions[1]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "Please give the  obvious answer to this question, so I can automatically throw away all  surveys that don't follow the rules: What is the probability of a fair  coin coming up heads? "
+  },
+  "ProbabilityQuestions[2]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the probability that the Many Worlds interpretation of quantum mechanics is more or less correct?"
+  },
+  "ProbabilityQuestions[3]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the probability that non-human, non-Earthly intelligent life exists in the observable universe?"
+  },
+  "ProbabilityQuestions[4]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "...in the Milky Way galaxy?"
+  },
+  "ProbabilityQuestions[5]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the  probability that supernatural events (including God, ghosts, magic, etc) have occurred since the beginning of the universe?"
+  },
+  "ProbabilityQuestions[6]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the probability that there is a god, defined as a supernatural intelligent entity who created the universe?"
+  },
+  "ProbabilityQuestions[7]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the probability that any of humankind's revealed religions is more or less correct?"
+  },
+  "ProbabilityQuestions[8]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the  probability that an average person cryonically frozen today will be  successfully restored to life at some future time, conditional on no  global catastrophe destroying civilization before then?"
+  },
+  "ProbabilityQuestions[9]": {
+    "group": "Probabilities",
+    "key": "ProbabilityQuestions",
+    "title": "What is the  probability that at least one person living at this moment will reach an  age of one thousand years, conditional on no global catastrophe  destroying civilization in that time?"
+  },
+  "Profession[1]": {
+    "group": "Employment, Occupation, Education",
+    "key": "Profession",
+    "title": "Other"
+  },
+  "Race[1]": {
+    "group": "Demographic Information",
+    "key": "Race",
+    "title": "Other"
+  },
+  "ReferredBy[1]": {
+    "group": "Experience With LessWrong",
+    "key": "ReferredBy",
+    "title": "Other"
+  },
+  "RejoinConditions[1]": {
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "title": "[Write in your own]"
+  },
+  "RejoinConditions[2]": {
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "title": "[Write in your own]"
+  },
+  "RejoinConditions[3]": {
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "title": "[Write in your own]"
+  },
+  "RejoinConditions[4]": {
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "title": "[Write in your own]"
+  },
+  "RejoinConditions[5]": {
+    "group": "Where do you hang out now?",
+    "key": "RejoinConditions",
+    "title": "[Write in your own]"
+  },
+  "RelationshipStyle[1]": {
+    "group": "Sex, Relationships",
+    "key": "RelationshipStyle",
+    "title": "Other"
+  },
+  "ReligionType[1]": {
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligionType",
+    "title": "Other"
+  },
+  "ReligiousBackground[1]": {
+    "group": "Politics, Religion, Ethics",
+    "key": "ReligiousBackground",
+    "title": "Other"
+  },
+  "RokoKnowledgeSource[1]": {
+    "group": "Roko's Basilisk (Bonus Section)",
+    "key": "RokoKnowledgeSource",
+    "title": "Other"
+  },
+  "SexualOrientation[1]": {
+    "group": "Sex, Relationships",
+    "key": "SexualOrientation",
+    "title": "Other"
+  },
+  "SingularityHealth[1]": {
+    "group": "Futurology",
+    "key": "SingularityHealth",
+    "title": "Comment"
+  },
+  "SocialJustice[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "SocialJustice",
+    "title": "Social Justice"
+  },
+  "StoriesRead2[1]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "Ra (Sam Hughes)"
+  },
+  "StoriesRead2[2]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "My Little Pony: Friendship Is Optimal (Iceman)"
+  },
+  "StoriesRead2[3]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "Friendship Is Optimal: Caelum Est Conterrens (Chatoyance)"
+  },
+  "StoriesRead2[4]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "Ender's Game (Orson Scott Card)"
+  },
+  "StoriesRead2[5]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "The Diamond Age (Neal Stephenson)"
+  },
+  "StoriesRead2[6]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "Consider Phlebas (Iain Banks)"
+  },
+  "StoriesRead2[7]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "The Metamorphosis Of Prime Intellect (Roger Williams)"
+  },
+  "StoriesRead2[8]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "Accelerando (Charles Stross)"
+  },
+  "StoriesRead2[9]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead2",
+    "title": "A Fire Upon The Deep (Vernor Vinge)"
+  },
+  "StoriesRead[1]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Harry Potter And The Methods Of Rationality (Eliezer Yudkowsky)"
+  },
+  "StoriesRead[2]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Significant Digits (Alexander D)"
+  },
+  "StoriesRead[3]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Three Worlds Collide (Eliezer Yudkowsky)"
+  },
+  "StoriesRead[4]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "The Fable of the Dragon-Tyrant (Nick Bostrom)"
+  },
+  "StoriesRead[5]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "The World of Null-A (A. E. van Vogt)"
+  },
+  "StoriesRead[6]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Synthesis (Sharon Mitchell)"
+  },
+  "StoriesRead[7]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Worm (Wildbow)"
+  },
+  "StoriesRead[8]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Pact (Wildbow)"
+  },
+  "StoriesRead[9]": {
+    "group": "Interests And Media",
+    "key": "StoriesRead",
+    "title": "Twig (Wildbow)"
+  },
+  "SuccessorCommunity[1]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "Intense Environment"
+  },
+  "SuccessorCommunity[2]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "Focused On 'Real World' Action"
+  },
+  "SuccessorCommunity[3]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "Experts"
+  },
+  "SuccessorCommunity[4]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "Data Driven/Testing Of Ideas"
+  },
+  "SuccessorCommunity[5]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "Social"
+  },
+  "SuccessorCommunity[6]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "[Write in your own]"
+  },
+  "SuccessorCommunity[7]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "[Write in your own]"
+  },
+  "SuccessorCommunity[8]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorCommunity",
+    "title": "[Write in your own]"
+  },
+  "SuccessorPhilosophy[1]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "Attention Paid To Outside Sources"
+  },
+  "SuccessorPhilosophy[2]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "Self Improvement Focus"
+  },
+  "SuccessorPhilosophy[3]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "AI Focus"
+  },
+  "SuccessorPhilosophy[4]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "Political"
+  },
+  "SuccessorPhilosophy[5]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "Academic/Formal"
+  },
+  "SuccessorPhilosophy[6]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "[Write in your own]"
+  },
+  "SuccessorPhilosophy[7]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "[Write in your own]"
+  },
+  "SuccessorPhilosophy[8]": {
+    "group": "What would you want from a successor?",
+    "key": "SuccessorPhilosophy",
+    "title": "[Write in your own]"
+  },
+  "Taxes[1]": {
+    "group": "Politics (Bonus Section)",
+    "key": "Taxes",
+    "title": "Taxes"
+  },
+  "WorkStatus[1]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Student"
+  },
+  "WorkStatus[2]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Academics (on the teaching side)"
+  },
+  "WorkStatus[3]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Self-employed"
+  },
+  "WorkStatus[4]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Independently wealthy"
+  },
+  "WorkStatus[5]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Non-profit work"
+  },
+  "WorkStatus[6]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "For-profit work"
+  },
+  "WorkStatus[7]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Government work"
+  },
+  "WorkStatus[8]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Homemaker"
+  },
+  "WorkStatus[9]": {
+    "group": "Employment, Occupation, Education",
+    "key": "WorkStatus",
+    "title": "Unemployed "
+  },
+  "XRiskType[1]": {
+    "group": "Technological Unemployment (Futurology Part 2)",
+    "key": "XRiskType",
+    "title": "Other"
+  }
+}
